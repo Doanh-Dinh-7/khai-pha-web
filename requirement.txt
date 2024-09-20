@@ -1,0 +1,17 @@
+requests
+BeautifulSoup4
+html5lib
+dataset
+textblob
+vaderSentiment
+nltk
+matplotlib
+pandas
+lxml
+selenium
+webdriver_manager
+
+gensim
+stop_words
+urllib3
+certifi

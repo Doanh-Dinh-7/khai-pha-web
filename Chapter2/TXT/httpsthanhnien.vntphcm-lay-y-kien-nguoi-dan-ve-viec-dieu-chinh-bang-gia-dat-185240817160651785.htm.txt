@@ -1,0 +1,95 @@
+
+        TP.HCM lấy ý kiến người dân về việc điều chỉnh bảng giá đất
+    
+
+
+                                    Thành ủy TP.HCM vừa công bố đường link để người dân tham gia khảo sát, đóng góp ý kiến liên quan đến dự thảo bảng giá đất ở TP.HCM.
+                                
+
+                                    
+
+                                        
+
+                                                                                Theo Thành ủy TP.HCM, để có thêm thông tin nhằm đánh giá sự quan tâm của người dân và các ý kiến đề xuất liên quan đến dự thảo bảng giá đất dự kiến áp dụng tại TP.HCM, Ban Tuyên giáo Thành ủy TP.HCM triển khai cuộc khảo sát, thăm dò dư luận xã hội trên mạng internet trong cán bộ, đảng viên, hội viên, đoàn viên và người dân đang sinh sống, làm việc trên địa bàn TP.Thời gian khảo sát từ ngày 19.8 - 23.8. Người dân quan tâm có thể tham gia cuộc khảo sát tại đường link sau: Link khảo sát, thăm dò dư luận xã hội. Người dân bức xúc vì dự thảo bảng giá đất điều chỉnh tăng quá cao.ĐÌNH SƠNTrước đó, Sở Tài nguyên và Môi trường đã đưa ra dự thảo Quyết định điều chỉnh bảng giá đất trên địa bàn TP và đã nhận phải sự phản đối từ người dân, các chuyên gia bởi mức mức tăng giá quá cao. Dự thảo bảng giá đất điều chỉnh phổ biến tăng 10 - 20 lần so với giá đất của bảng giá đất theo Quyết định 02/2020. Trong đó, có 1 quận và 4 huyện có mức tăng giá đất tại một số vị trí đất trên 30 lần, cá biệt có một số vị trí đất tại huyện Hóc Môn có mức tăng giá đến 51 lần, cụ thể là mức giá đất tại quận 1 tăng 5 lần; quận 3 tăng 4 - 9 lần; quận 4 tăng 11,3 lần; quận 5 tăng 5,6 lần; quận 6 tăng 5 - 11 lần; quận 7 tăng 7 - 15 lần; quận 8 tăng 4 - 17 lần; quận 10 tăng 5 - 6 lần; quận 11 tăng 4 - 9 lần; quận 12 tăng 3 - 33 lần; quận Bình Thạnh tăng 5 - 13 lần; quận Gò Vấp tăng 7 - 11 lần; quận Phú Nhuận tăng 7 - 8 lần; quận Tân Bình tăng 7 - 12 lần; quận Tân Phú tăng 7 - 17 lần; quận Bình Tân tăng 9 - 17 lần; thành phố Thủ Đức tăng 6 - 35 lần; huyện Hóc Môn tăng 4 - 51 lần; huyện Củ Chi tăng 9 - 31 lần; huyện Bình Chánh tăng 2 - 36 lần; huyện Nhà Bè tăng 7 - 23 lần; huyện Cần Giờ tăng 8 - 23 lần. Theo dự thảo bảng giá đất điều chỉnh thì giá đất cao nhất tại TP.HCM là 810 triệu đồng/m2 tại 3 tuyến đường Đồng Khởi, Lê Lợi, Nguyễn Huệ, quận 1 tăng 5 lần so với giá đất 162 triệu đồng/m2 của 3 tuyến đường này theo bảng giá đất được quy định tại Quyết định số 02/2020.TP.HCM lấy ý kiến người dân về việc điều chỉnh bảng giá đất
+Do hiện nay TP.HCM chưa ban hành được quyết định điều chỉnh Quyết định số 02/2020 của UBND TP.HCM quy định về bảng giá đất trên địa bàn TP áp dụng từ ngày 1.8.2024 đến trước ngày 1.1.2026 nên đã xuất hiện tình trạng các cơ quan thuế quận, huyện, TP.Thủ Đức dừng thủ tục tính tiền sử dụng đất đối với tất cả các hồ sơ của cá nhân, hộ gia đình xin cấp sổ đỏ làm cho người dân rất lo lắng. Đồng thời cũng gây khó khăn trong việc áp dụng bảng giá đất đối với các trường hợp theo quy định của luật Đất đai 2024. Việc dừng tính nghĩa vụ tài chính được cho là sai bởi hiện nay theo luật Đất đai 2024, bảng giá đất vẫn còn hiệu lực đến ngày 31.12.2025. Trong khi TP chưa có bảng giá đất mới, ngành thuế phải có nghĩa vụ tính thuế cho người dân theo bảng giá đất hiện hành. Mặc dù vậy, khảo sát của Thanh Niên cho thấy, hồ sơ tính tiền sử dụng đất, hợp thức hoá nhà đất vẫn đang ách lại từ khi bảng giá đất mới được công bố ra ngoài dù chưa áp dụng.
+                                        
+    //Chèn ads giữa bài
+    (runinit = window.runinit || []).push(function () {
+        //Nếu k chạy ads thì return
+        if (typeof _chkPrLink != 'undefined' && _chkPrLink)
+            return;
+
+
+        var mutexAds = '<zone id="l2srqb41"></zone>';
+        var content = $('[data-role="content"]');
+        if (content.length > 0) {
+            var childNodes = content[0].childNodes;
+            for (i = 0; i < childNodes.length; i++) {
+                var childNode = childNodes[i];
+
+                var isPhotoOrVideo = false;
+                if (childNode.nodeName.toLowerCase() == 'div') {
+                    // kiem tra xem co la anh khong?
+                    var type = $(childNode).attr('class') + '';
+
+                    if (type.indexOf('VCSortableInPreviewMode') >= 0) {
+                        isPhotoOrVideo = true;
+                    }
+                }
+
+                try {
+                    if ((i >= childNodes.length / 2 - 1) && (i < childNodes.length / 2) && !isPhotoOrVideo) {
+                        if (i <= childNodes.length - 3) {
+                            childNode.after(htmlToElement(mutexAds));
+                            arfAsync.push("l2srqb41");
+                        }
+                        break;
+                    }
+                }
+                catch (e) { }
+            }
+        }
+    });
+    function htmlToElement(html) {
+        var template = document.createElement('template');
+        template.innerHTML = html;
+        return template.content.firstChild;
+    }
+
+
+
+
+                                        
+                    
+        
+            
+                if (pageSettings.allow3rd) {
+                    (function (d, a, b, l, e, _) {
+                        if (d[b] && d[b].q) return;
+                        d[b] = function () {
+                            (d[b].q = d[b].q || []).push(arguments)
+                        };
+                        e = a.createElement(l);
+                        e.async = 1;
+                        e.charset = 'utf-8';
+                        e.src = '//static.dable.io/dist/plugin.min.js';
+                        _ = a.getElementsByTagName(l)[0];
+                        _.parentNode.insertBefore(e, _);
+                    })(window, document, 'dable', 'script');
+                    dable('sendLogOnce');
+                    dable('renderWidget', 'dablewidget_QXedqQel');
+                }
+            
+        
+        
+            
+                                        
+                                        
+
+                                        
+
+                                    
+
+                                    
+                                    
+                                

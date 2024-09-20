@@ -1,0 +1,94 @@
+
+        Đến lượt tài khoản của các tổ chức bị lợi dụng gian lận, lừa đảo
+    
+
+
+                                    Ngân hàng Nhà nước Việt Nam (NHNN) vừa có văn bản 6768 yêu cầu các ngân hàng, chi nhánh ngân hàng nước ngoài khẩn trương, nghiêm túc thực hiện một số nội dung liên quan đến việc mở tài khoản thanh toán cho khách hàng là tổ chức. Hiện đang có tình trạng lợi dụng mở, sử dụng tài khoản thanh toán của khách hàng là tổ chức cho mục đích gian lận, lừa đảo.
+                                
+
+                                    
+
+                                        
+
+                                                                                NHNN đã ban hành Thông tư số 17/2024 (Thông tư 17) quy định việc mở và sử dụng tài khoản thanh toán (TKTT) tại tổ chức cung ứng dịch vụ thanh toán trong đó đã sửa đổi, bổ sung một số quy định liên quan đến việc mở, sử dụng TKTT đối với khách hàng tổ chức. Bên cạnh đó, qua theo dõi, nắm bắt thông tin cho thấy, hiện đang có tình trạng lợi dụng mở, sử dụng TKTT của khách hàng là tổ chức cho mục đích gian lận, lừa đảo.Ngân hàng rà soát hồ sơ mở tài khoản thanh toán của tổ chức từ tháng 6 đến nayNGỌC THẮNGTrên cơ sở đó, NHNN yêu cầu các tổ chức tín dụng khẩn trương, nghiêm túc rà soát, kiểm tra, cập nhật thông tin hồ sơ mở TKTT của khách hàng là tổ chức, đặc biệt là các TKTT mở từ tháng 6.2024 đến nay. Thực hiện việc kiểm tra, đối chiếu khớp đúng giấy tờ tùy thân và thông tin sinh trắc học của người đại diện hợp pháp (bao gồm cả trường hợp mở tại quầy và mở bằng phương tiện điện tử) theo quy định tại Thông tư 17.Các tổ chức tín dụng nghiên cứu có giải pháp để sớm triển khai các quy định tại Thông tư 17 liên quan đến việc mở, sử dụng TKTT của khách hàng tổ chức như ban hành quy trình, quy định nội bộ về mở, sử dụng TKTT cho khách hàng là tổ chức theo quy định tại Thông tư 17 và các văn bản chỉ đạo của NHNN. Triển khai áp dụng các biện pháp ngăn chặn các hành vi mạo danh, can thiệp, chỉnh sửa, làm sai lệch việc xác minh thông tin nhận biết khách hàng trong quá trình mở và sử dụng TKTT của khách hàng là tổ chức và các biện pháp đảm bảo việc sử dụng TKTT được thực hiện bởi người đại diện hợp pháp của chủ tài khoản. Triển khai áp dụng quy định chỉ được thực hiện rút tiền, giao dịch thanh toán bằng phương tiện điện tử trên TKTT theo quy định tại Thông tư 17.
+                                        
+    //Chèn ads giữa bài
+    (runinit = window.runinit || []).push(function () {
+        //Nếu k chạy ads thì return
+        if (typeof _chkPrLink != 'undefined' && _chkPrLink)
+            return;
+
+
+        var mutexAds = '<zone id="l2srqb41"></zone>';
+        var content = $('[data-role="content"]');
+        if (content.length > 0) {
+            var childNodes = content[0].childNodes;
+            for (i = 0; i < childNodes.length; i++) {
+                var childNode = childNodes[i];
+
+                var isPhotoOrVideo = false;
+                if (childNode.nodeName.toLowerCase() == 'div') {
+                    // kiem tra xem co la anh khong?
+                    var type = $(childNode).attr('class') + '';
+
+                    if (type.indexOf('VCSortableInPreviewMode') >= 0) {
+                        isPhotoOrVideo = true;
+                    }
+                }
+
+                try {
+                    if ((i >= childNodes.length / 2 - 1) && (i < childNodes.length / 2) && !isPhotoOrVideo) {
+                        if (i <= childNodes.length - 3) {
+                            childNode.after(htmlToElement(mutexAds));
+                            arfAsync.push("l2srqb41");
+                        }
+                        break;
+                    }
+                }
+                catch (e) { }
+            }
+        }
+    });
+    function htmlToElement(html) {
+        var template = document.createElement('template');
+        template.innerHTML = html;
+        return template.content.firstChild;
+    }
+
+
+
+
+                                        
+                    
+        
+            
+                if (pageSettings.allow3rd) {
+                    (function (d, a, b, l, e, _) {
+                        if (d[b] && d[b].q) return;
+                        d[b] = function () {
+                            (d[b].q = d[b].q || []).push(arguments)
+                        };
+                        e = a.createElement(l);
+                        e.async = 1;
+                        e.charset = 'utf-8';
+                        e.src = '//static.dable.io/dist/plugin.min.js';
+                        _ = a.getElementsByTagName(l)[0];
+                        _.parentNode.insertBefore(e, _);
+                    })(window, document, 'dable', 'script');
+                    dable('sendLogOnce');
+                    dable('renderWidget', 'dablewidget_QXedqQel');
+                }
+            
+        
+        
+            
+                                        
+                                        
+
+                                        
+
+                                    
+
+                                    
+                                    
+                                

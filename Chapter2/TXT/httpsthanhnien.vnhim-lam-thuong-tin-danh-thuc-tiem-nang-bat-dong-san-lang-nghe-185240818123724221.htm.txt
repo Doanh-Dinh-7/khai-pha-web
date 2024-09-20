@@ -1,0 +1,94 @@
+
+        Him Lam Thường Tín ‘đánh thức’ tiềm năng bất động sản làng nghề
+    
+
+
+                                    Hội tụ nhiều ưu thế vượt trội, Him Lam Thường Tín kỳ vọng sẽ đánh thức tiềm năng bất động sản làng nghề tại Thường Tín, mở ra cuộc sống phồn thịnh cho cộng đồng cư dân, góp phần thúc đẩy sự phát triển kính tế và thay đổi diện mạo khu vực.
+                                
+
+                                    
+
+                                        
+
+                                                                                Thường Tín được mệnh danh là "đất trăm nghề", bởi trên địa bàn huyện có đến 126 làng nghề, trong đó 48 làng nghề truyền thống tiêu biểu như: sơn mài Hạ Thái (xã Duyên Thái); nghề thêu tại các xã: Quất Ðộng, Thắng Lợi, Lê Lợi; nghề tiện gỗ ở làng Nhị Khê (xã Nhị Khê); nghề điêu khắc ở các làng: Nhân Hiền (xã Hiền Giang), Thượng Cung (xã Tiền Phong)…Sự phát triển của làng nghề truyền thống, cùng với các khu cụm công nghiệp đã góp phần giải quyết việc làm cho lao động địa phương, đóng góp tích cực trong phát kinh tế - xã hội và bảo tồn những giá trị văn hóa truyền thống. Bên cạnh đó, với lợi thế gần trung tâm thành phố, hạ tầng giao thông thuận tiện, bất động sản huyện Thường Tín trở thành "miền đất hứa" khi còn nhiều dư địa phát triển.Với tâm huyết kiến tạo nên tuyến phố thương mại kiểu mẫu ngay giữa trung tâm huyện Thường Tín, Công ty Trường Sơn Land mang đến mảnh đất này một tuyến phố với lối kiến trúc tân cổ điển nhưng vẫn hài hòa với nét văn hóa địa phương. Ngay sau khi ra mắt, dự án Him Lam Thường Tín đã đón nhận sự quan tâm của đông đảo nhà đầu tư.Thường Tín hưởng lợi từ mảnh đất tinh hoa văn hóa làng nghềTọa lạc ngay trung tâm hành chính mới của huyện Thường Tín, Him Lam Thường Tín được thừa hưởng cơ sở hạ tầng phát triển đồng bộ với hàng loạt tuyến giao thông huyết mạch như: QL1A, cao tốc Pháp Vân, vành đai 3, vành đai 4…. giúp kết nối nhanh chóng đến trung tâm Hà Nội và các vùng lân cận.Dự án có quy mô gồm 159 căn shophouse cao cấp được thiết kế 5 tầng 2 mặt tiền mang đến không gian sống "2 trong 1" vừa an cư và kinh doanh bền vững. Tất cả các căn shophouse tại đây đều được thiết kế thông minh có thể đón không khí và nguồn sáng tự nhiên vào nhà, mang lại sự thông thoáng và tái tạo nguồn năng lượng tích cực cho gia chủ.Với lợi thế hạ tầng giao thông đồng bộ, hiện đại, cộng hưởng sự phát triển của các khu dân cư hiện hữu nên cư dân Him Lam Thường Tín có thể "một bước xuống phố" và hòa mình vào không gian sống sầm uất với đầy đủ tiện ích nội ngoại khu.Him Lam Thường Tín kỳ vọng sẽ thay đổi diện mạo khu vực cửa ngõ phía Nam thủ đôHiện đơn vị kinh doanh và phát triển Trường Sơn Land đang có nhiều chính sách bán hàng hấp dẫn cho khách hàng khi mua Him Lam Thường Tín với mức chiết khấu đến 10%, cùng chính sách cam kết thuê lại lên đến 95 triệu đồng/tháng. Điều này giúp khách hàng có thể giảm áp lực tài chính, tối ưu hóa nguồn vốn và đầu tư sinh lời hiệu quả.Ngoài ra, yếu tố then chốt tạo nên sức hút của Him Lam Thường Tín chính là pháp lý dự án. Đây là một trong số ít dự án có tốc độ bàn giao giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất vượt tiến độ, đặc biệt là trong bối cảnh thị trường bất động sản đang có nhiều thách thức như hiện nay.Đặc biệt, sự gia tăng dân số nhanh, cùng sự phát triển của các cụm công nghiệp và làng nghề truyền thống tại Thường Tín cũng tạo tiền đề cho cộng đồng cư dân tinh hoa của Him Lam Thường Tín có thể khai thác kinh doanh bền vững. Sau khi đi vào hoạt động, phố thương mại Him Lam Thường Tín hứa hẹn sẽ thay đổi diện mạo, kích cầu nền kinh tế và "đánh thức" tiềm năng bất động sản làng nghề tại khu vực vốn giàu giá trị truyền thống, văn hóa như Thường Tín.
+                                        
+    //Chèn ads giữa bài
+    (runinit = window.runinit || []).push(function () {
+        //Nếu k chạy ads thì return
+        if (typeof _chkPrLink != 'undefined' && _chkPrLink)
+            return;
+
+
+        var mutexAds = '<zone id="l2srqb41"></zone>';
+        var content = $('[data-role="content"]');
+        if (content.length > 0) {
+            var childNodes = content[0].childNodes;
+            for (i = 0; i < childNodes.length; i++) {
+                var childNode = childNodes[i];
+
+                var isPhotoOrVideo = false;
+                if (childNode.nodeName.toLowerCase() == 'div') {
+                    // kiem tra xem co la anh khong?
+                    var type = $(childNode).attr('class') + '';
+
+                    if (type.indexOf('VCSortableInPreviewMode') >= 0) {
+                        isPhotoOrVideo = true;
+                    }
+                }
+
+                try {
+                    if ((i >= childNodes.length / 2 - 1) && (i < childNodes.length / 2) && !isPhotoOrVideo) {
+                        if (i <= childNodes.length - 3) {
+                            childNode.after(htmlToElement(mutexAds));
+                            arfAsync.push("l2srqb41");
+                        }
+                        break;
+                    }
+                }
+                catch (e) { }
+            }
+        }
+    });
+    function htmlToElement(html) {
+        var template = document.createElement('template');
+        template.innerHTML = html;
+        return template.content.firstChild;
+    }
+
+
+
+
+                                        
+                    
+        
+            
+                if (pageSettings.allow3rd) {
+                    (function (d, a, b, l, e, _) {
+                        if (d[b] && d[b].q) return;
+                        d[b] = function () {
+                            (d[b].q = d[b].q || []).push(arguments)
+                        };
+                        e = a.createElement(l);
+                        e.async = 1;
+                        e.charset = 'utf-8';
+                        e.src = '//static.dable.io/dist/plugin.min.js';
+                        _ = a.getElementsByTagName(l)[0];
+                        _.parentNode.insertBefore(e, _);
+                    })(window, document, 'dable', 'script');
+                    dable('sendLogOnce');
+                    dable('renderWidget', 'dablewidget_QXedqQel');
+                }
+            
+        
+        
+            
+                                        
+                                        
+
+                                        
+
+                                    
+
+                                    
+                                    
+                                

@@ -1,0 +1,94 @@
+
+        Sacombank hạ giá bán khoản nợ liên quan gần 6.000 lượng vàng SJC
+    
+
+
+                                    Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank) tiếp tục rao bán khoản nợ liên quan gần 6.000 lượng vàng SJC. 
+                                
+
+                                    
+
+                                        
+
+                                                                                Sacombank thông báo sẽ đấu giá toàn bộ khoản nợ của Công ty CP Kinh doanh Thủy hải sản Sài Gòn (APT). Buổi đấu giá do Công ty Đấu giá Hợp danh Toàn Cầu tổ chức dự kiến diễn ra ngày 21.8. Khoản nợ này bao gồm 2 hợp đồng tín dụng từ đầu năm 2009. Tổng nghĩa vụ nợ đến ngày 8.1.2024 hơn 1.768,5 tỉ đồng, trong đó vốn vay gần 530 tỉ đồng; lãi trong hạn hơn 823 tỉ đồng và lãi quá hạn 415 tỉ đồng. Như vậy, sau 15 năm, tổng lãi phải trả đã hơn gấp đôi vốn vay.Lần này, Sacombank đưa ra giá khởi điểm của khoản nợ xấu là hơn 846 tỉ đồng, giảm khoảng 200 tỉ đồng so với đợt rao bán trong tháng 7 vừa qua. Sacombank hạ giá khoản nợ liên quan gần 6.000 lượng vàng SJCNGỌC THẮNGBáo cáo tài chính kiểm toán năm 2023, Công ty CP Thủy hải sản Sài Gòn cho biết cả hai khoản vay tại Sacombank đều từ năm 2009. Trong đó, một hợp đồng tín dụng với hạn mức 103 tỉ đồng, thời hạn 12 tháng (từ năm 2009 đến 2010) với lãi suất 12%/năm. Hợp đồng thứ hai có hạn mức 5.833 lượng vàng SJC, tương đương hơn 249 tỉ đồng theo giá vàng vào cuối năm 2020. Hợp đồng này cũng có thời hạn 12 tháng (từ 2009 đến 2010) với lãi suất 10,8%/năm. Cả hai hợp đồng này quá hạn nhưng công ty chưa có khả năng trả nợ cho ngân hàng. Trong đó, số dư nợ gốc khoản vay bằng vàng đã tăng lên hơn 435 tỉ đồng. Thuyết minh báo cáo tài chính cũng cho biết toàn bộ dư nợ 836 tỉ đồng tại Sacombank đang nằm trong số nợ quá hạn chưa thanh toán và đã tăng 108 tỉ đồng so với đầu năm 2023. Trong đó, khoản nợ lãi vay vàng chiếm 665 tỉ đồng, còn lại 171 tỉ đồng khoản lãi vay tiền đồng. Đơn vị kiểm toán cũng đã đưa ra ý kiến ngoại trừ khi công ty này lỗ lũy kế tới 1.354 tỉ đồng, âm vốn chủ sở hữu 1.264 tỉ đồng. Như vậy số lỗ lũy kế đang lớn gấp 15,39 lần vốn điều lệ công ty (88 tỉ đồng). Sacombank hạ giá bán khoản nợ liên quan gần 6.000 lượng vàng SJC  Nếu ước tính theo giá vàng miếng SJC hiện tại thì chỉ riêng số nợ bằng vàng này đang có giá trị lên đến hơn 466,6 tỉ đồng, gần gấp đôi giá trị so với thời điểm doanh nghiệp vay của Sacombank. 
+                                        
+    //Chèn ads giữa bài
+    (runinit = window.runinit || []).push(function () {
+        //Nếu k chạy ads thì return
+        if (typeof _chkPrLink != 'undefined' && _chkPrLink)
+            return;
+
+
+        var mutexAds = '<zone id="l2srqb41"></zone>';
+        var content = $('[data-role="content"]');
+        if (content.length > 0) {
+            var childNodes = content[0].childNodes;
+            for (i = 0; i < childNodes.length; i++) {
+                var childNode = childNodes[i];
+
+                var isPhotoOrVideo = false;
+                if (childNode.nodeName.toLowerCase() == 'div') {
+                    // kiem tra xem co la anh khong?
+                    var type = $(childNode).attr('class') + '';
+
+                    if (type.indexOf('VCSortableInPreviewMode') >= 0) {
+                        isPhotoOrVideo = true;
+                    }
+                }
+
+                try {
+                    if ((i >= childNodes.length / 2 - 1) && (i < childNodes.length / 2) && !isPhotoOrVideo) {
+                        if (i <= childNodes.length - 3) {
+                            childNode.after(htmlToElement(mutexAds));
+                            arfAsync.push("l2srqb41");
+                        }
+                        break;
+                    }
+                }
+                catch (e) { }
+            }
+        }
+    });
+    function htmlToElement(html) {
+        var template = document.createElement('template');
+        template.innerHTML = html;
+        return template.content.firstChild;
+    }
+
+
+
+
+                                        
+                    
+        
+            
+                if (pageSettings.allow3rd) {
+                    (function (d, a, b, l, e, _) {
+                        if (d[b] && d[b].q) return;
+                        d[b] = function () {
+                            (d[b].q = d[b].q || []).push(arguments)
+                        };
+                        e = a.createElement(l);
+                        e.async = 1;
+                        e.charset = 'utf-8';
+                        e.src = '//static.dable.io/dist/plugin.min.js';
+                        _ = a.getElementsByTagName(l)[0];
+                        _.parentNode.insertBefore(e, _);
+                    })(window, document, 'dable', 'script');
+                    dable('sendLogOnce');
+                    dable('renderWidget', 'dablewidget_QXedqQel');
+                }
+            
+        
+        
+            
+                                        
+                                        
+
+                                        
+
+                                    
+
+                                    
+                                    
+                                

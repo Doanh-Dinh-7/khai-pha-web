@@ -1,0 +1,20 @@
+Ra mắt card đồ họa Radeon HD 7970
+21:51, 23/12/2011
+AMD đã chính thức giới thiệu Radeon HD 7970, card đồ họa đầu tiên được sản xuất dựa trên dây chuyền công nghệ 28nm và là thành viên đầu tiên của dòng GPU Southern Islands.
+HD 7970 sẽ thay thế cho người tiên nhiệm HD 6970, vốn được mệnh danh là Card đồ họa đơn nhân nhanh nhất tính đến thời điểm trước khi 7970 được ra mắt. Chiếc card mới này tăng số lượng bóng bán dẫn từ 2,6 tỉ bóng trên card 6979 lên thành 4,3 tỉ. Xung nhịp xử lí của nhân đồ họa được nâng từ 880MHz thành 925MHz. Ngoài ra, AMD còn tăng thêm 33% số lượng nhân xử lí nên Radeo HD 7970 có đến 2048 nhân (so với con số 1536 của HD 6970).
+Đây cũng là card đồ họa đầu tiên sử dụng kiến trúc Graphics Core Next (GCN) để tận dụng tốt hơn khả năng tính toán của card mà không cần hy sinh hiệu năng về mặt đồ họa. Radeon HD 7970 sẽ được bán ra vào ngày 9-1 với giá 549 USD ở Mỹ và 499 EUR ở Châu Âu.
+Graphics Core Next sẽ là kiến trúc được sử dụng trong các GPU tương lai của AMD để có thể phát huy cao độ tính năng mạnh mẽ về mặt tính toán của card đồ họa. Nó chia dữ liệu thành các luồng xử lý song song nên cho phép card đồ họa tính tốt hơn.
+HD 7970 là card đồ họa đầu tiên tương thích với chuẩn kết nối PCI Express 3.0 và giao diện lập trình ứng dụng (API) Microsoft DirectX 11.1. Cũng trong sản phẩm này, AMD giới thệu công nghệ ZeroCore Power giúp giảm nhiệt độ tỏa ra khi card hoạt động.
+Cấu hình của card đồ họa AMD Radeon HD 7970:
+Tốc độ tính toán: 3,5 TFLOPs
+Tốc độ nhân: 925MHz
+Đơn vị tính toán (Compute Units - CU): 32
+Nhân xử lí số học (Arithmetic Logic Unit - ALU): 2048
+Số đơn vị dựng hình ảnh bề mặt (Texture Unit- TU): 128
+Số đơn vị xuất hình ảnh (ROP): 32
+Bộ nhớ card đồ họa: 3GB GDDR5
+Băng thông bộ nhớ / tốc độ: 384 bit / 5,5Gbps
+Mức độ tiêu thụ điện khi tải/chế độ nghỉ: 250W/ 15W (màn hình mở) - 3W (màn hình tắt)
+Cổng nối nguồn: 8 chân + 6 chân
+Cổng xuất hình ảnh: 1 cổng DVI, 2 cổng Mini DisplayPort, 2 cổng HDMI
+G.T (Tổng hợp)

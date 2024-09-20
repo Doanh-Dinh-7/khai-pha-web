@@ -1,0 +1,13 @@
+Triển khai Ký số Token và Ký số Sim để nộp hồ sơ trực truyến trên Hệ thống iGate
+06:51, 22/05/2023
+Sở Thông tin và Truyền thông vừa có văn bản đề nghị các sở, ban, ngành, UBND cấp huyện cùng phối hợp triển khai Ký số Token và Ký số Sim để nộp hồ sơ trực truyến trên Hệ thống iGate.
+Đẩy mạnh sử dụng chữ ký số trong các hoạt động của cơ quan nhà nước, doanh nghiệp, xã hội
+Công bố danh mục các loại văn bản điện tử ký số gửi kèm văn bản giấy
+Thực hiện ký số tất cả các văn bản điện tử trên Trục liên thông văn bản quốc gia
+Đây là hoạt động nhằm triển khai hiệu quả Quyết định số 2969/QĐ-UBND ngày 29/12/2022 của UBND tỉnh về việc Công bố Danh mục thủ tục hành chính được cung cấp, tiếp nhận và giải quyết trực tuyến trên Cổng Dịch vụ công tỉnh Đắk Lắk.
+Hiện nay, trên Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Đắk Lắk (Hệ thống iGate) đã sẵn sàng cho người dân, doanh nghiệp và các hộ gia đình thực hiện 02 chức năng ký số: Token USB và SIM PKI (Public key infrastructure) trong các giao dịch với cơ quan nhà nước trên Hệ thống iGate.
+Hướng dẫn đăng ký kích và kích hoạt chứng thư số bằng phương thức điện tử (ảnh minh hoạ).
+Theo đó, các sở, ban, ngành, UBND cấp huyện (UBND cấp huyện chủ động triển khai nội dung này tới UBND cấp xã và tổ công nghệ số cộng đồng) cần tuyên truyền, hướng dẫn người dân, doanh nghiệp và các hộ gia đình sử dụng Ký số Token và Ký số Sim để thực hiện nộp hồ sơ trực truyến trên Hệ thống iGate. Đối với Viễn thông Đắk Lắk hỗ trợ các cơ quan, đơn vị, tổ chức, các cá nhân, doanh nghiệp thực hiện nộp hồ sơ trực tuyến có sử dụng chữ ký số trên Hệ thống iGate.
+Được biết, chữ ký số (còn được biết tới với cái tên Token USB) là loại chữ ký điện tử sử dụng để thay thế cho chữ ký thường bằng tay trên các thiết bị điện tử số, các văn bản và tài liệu số. Với sự ứng dụng đa dạng trong nhiều lĩnh vực, số lượng cá nhân, tổ chức, doanh nghiệp sử dụng chữ ký số ngày càng tăng lên. Ý nghĩa đầu tiên của chữ ký số có thể dễ dàng nhận thấy và kiểm chứng đó là tiết kiệm thời gian cũng như công sức cho những người thực thi giao dịch. Bên cạnh đó, chữ ký số sử dụng trong các giao dịch với cơ quan nhà nước trên Hệ thống Thông tin giải quyết thủ tục hành chính tỉnh Đắk Lắk như đăng ký thành lập doanh nghiệp, đăng ký hộ kinh doanh... sẽ giúp giảm tải được các thủ tục rườm rà và khoảng thời gian phải chờ đợi, phản hồi thông tin.
+Vân Anh
+ 

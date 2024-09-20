@@ -1,0 +1,10 @@
+Chế tạo thành công robot nhện Asterick
+14:32, 23/12/2011
+Các nhà khoa học tại Phòng thí nghiệm Arai Robotic thuộc Đại học Osaka (Nhật Bản), vừa giới thiệu chú robot nhện Asterick, có khả năng hoạt động với 6 chiếc chân cơ khí.
+Bề ngoài, chú robot này trong giống những con bọ máy trong phim Minority Report. Nhìn từ trên đỉnh xuống Asterisk có kết cấu là hệ thống cơ khí mô phỏng hoạt động của côn trùng. Robot có 6 chân hoạt động trong không gian 60 độ quanh thân mình. Mỗi chân có 4 thao tác tự do giúp robot có thể di chuyển đa hướng.
+Hoạt động của Asterick dựa vào cơ chế nhận biết môi trường xung quanh, từ đó có những phản hồi thích hợp thông qua bộ cảm biến, bao gồm: hướng dẫn cử động của tất cả các chân nhờ cảm biến áp lực, 3 chân có cảm biến hồng ngoại và 3 chân có gắn camera không dây.
+Trên thân là một cảm biến hồi chuyển, máy đo gia tốc và 3 camera CCD. Trong mỗi lần sạc sử dụng pin lithium polymer 14,4V, robot có thể hoạt động trong 15 phút.
+Asterick có thể di chuyển với vận tốc 0,5m/giây (1,64 ft/s), hoặc lăn trên bánh xe gắn trên chân, nhận diện các chướng ngại vật, như: cầu thang, gầm xe… từ đó xếp lại hoặc di chuyển các chân cho phù hợp. Nó có khả năng bê vật thể bằng 2 chân robot sau đó đặt vật thể lên thân, rồi di chuyển tránh các chướng ngại vật, đi ngang, dọc hay theo các bề mặt nghiêng.
+Hiện những công nghệ ứng dụng để chế tạo Asterick đang được phát triển vào việc chế tạo robot cứu nạn, tìm kiếm, giải cứu con người trong các thảm họa thiên tai, hỏa hoạn, động đất...
+G.T (Dịch, tổng hợp)
+ 

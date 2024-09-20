@@ -1,0 +1,22 @@
+HP giới thiệu Tablet Slate 7 tại MWC 2013
+09:48, 25/02/2013
+Tại sự kiện Mobile World Congress 2013, Hãng máy tính lớn nhất thế giới HP đã giới thiệu mẫu máy tính bảng mới nhất của mình: HP Slate 7.
+Slate 7 chạy trên hệ điều hành Android 4.1 (Jellybean), sử dụng bộ xử lý hai lõi dựa trên thiết kế Cortex-A9 của ARM. Điểm nổi bật của máy chính là được làm từ thép không gỉ, thiết kế mặt sau trông khá tinh tế. Máy sở hữu camera 3MP ở phía sau và VGA ở mặt trước; tích hợp sẵn công nghệ âm thanh Beats Audio; hỗ trợ kết nối WiFi với tốc độ truy cập nhanh vào dịch vụ của Google.
+Ngoài ra, HP còn bổ sung một số tính năng và ứng dụng riêng của chính hãng cho thiết bị này, gồm ứng dụng ePrint để in từ máy tính bảng qua kết nối WiFi, phần mềm âm thanh Beats để khởi động trình chơi nhạc của máy.
+Đây sẽ là máy tính bảng đầu tiên của HP hoạt động trên hệ điều hành Android của Google. HP đã rời bỏ thị trường máy tính bảng tiêu dùng vào năm 2011 sau thất bại của TouchPad hoạt động trên hệ điều hành WebOS.
+Dự kiến, HP Slate 7 sẽ có giá 169,99 USD (khoảng 3,5 triệu đồng) và bắt đầu bán trong tháng 4-2013.
+Cấu hình cơ bản của HP Slate 7:
+·         Màn hình LCD 7", độ phân giải 1024 x 600 - FFS+;
+·         CPU ARM Cortex-A9 tốc độ 1,6GHz x2
+·         RAM 1GB;
+·         Camera chính 3MP, camera phụ VGA;
+·         Pin: xem video trong 5 tiếng;
+·         Hệ điều hành: Android 4.1 Jelly Bean;
+·         Được tích hợp công nghệ âm thanh Beats Audio;
+·         Kết nối: WiFi 802.11 b/g/n, Bluetooth 2.1;
+·         Bộ nhớ trong: 8GB, có hỗ trợ mở rộng thẻ nhớ microSD;
+·         Kích thước: 10,7 x 197 x 116mm;
+·         Trọng lượng: 370g.
+
+G.H (Dịch, tổng hợp)
+ 

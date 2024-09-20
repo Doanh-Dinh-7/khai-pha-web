@@ -1,0 +1,10 @@
+5 laptop đồ họa sử dụng GPU NVIDIA GTX 880M
+09:25, 18/03/2014
+Hãng máy tính Gigabyte vừa giới thiệu 5 mẫu máy tính xách tay được trang bị dòng GPU GeForce GTX 800M của NVIDIA, có cấu hình đồ họa rất tốt hiện nay. Những model này bao gồm: P34G v2, P35W v2, P15F v2, P27G v2 và P25X v2, model cao cấp nhất dùng bộ xử lí đồ họa GTX 880M.
+P34G v2: Máy sử dụng màn hình 14" độ phân giải 1920 x 1080. P34G được trang bị card đồ họa GeForce GTX 860M với 4GB bộ nhớ GDDR5. Với độ dày 21mm và trọng lượng 1,67kg, Gigabyte cho biết P34G mỏng hơn 27%, và nhẹ hơn 15% so với các laptop thuộc phân khúc này. Máy sẽ bán ra vào cuối tháng Ba. Các thông số kỹ thuật khác của P34G gồm độ phân giải 1920 x 1080, tùy chọn vi xử lý Intel Core i7 hoặc i5, RAM 4GB đến 8GB, tùy chọn SSD dung lượng tối đa 256GB hoặc SSD 256GB + HDD tối đa 1TB.
+P35W v2, model với màn hình 15,4" Full-HD chạy GPU GTX 870M cùng với 6GB vRAM và tùy chọn chip Core i5 hoặc i7. Người dùng có thể cấu hình máy với tối đa bốn ổ lưu trữ (2 SSD 512MB + 2 HDD 1TB) cùng khay ổ quang có thể tháo nóng. Trên P35W có cổng Mini DisplayPort cho phép xuất hình ảnh ra màn hình 4K ở tần số quét 60Hz.
+Một mẫu 15" khác được Gigabyte ra mắt trong dịp này là P15F v2. Nó sử dụng chip Core i7 và GPU GTX 850M. Thuộc phân khúc thấp hơn một chút so với P35W nên P15F chỉ có hai ổ lưu trữ. Kèm theo đó là công nghệ âm thanh Sound Blaster Cinema. P15F sẽ được bán ra vào giữa tháng sau.
+Dòng máy P27G v2 thì nhắm đến người dùng cần sức mạnh phần cứng nên sở hữu CPU Core i7 bốn nhân, GPU GTX 860M, tùy chọn RAM tối đa 24GB, có ba ổ lưu trữ hỗ trợ chạy RAID 0 hoặc 1, cùng với đó là màn hình 17,3" độ phân giải 1920 x 1080. P27G v2 cũng sẽ được lên kệ vào tháng 4.
+Model cao cấp nhất là P25X v2. Dòng máy tính xách tay chơi game này sử dụng GPU GeForce GTX 880M với 8GB vRAM, cũng là con chip mạnh nhất thuộc series 800M. Máy có ba ổ lưu trữ chạy RAID 0/1, màn hình chống chói 17,3" độ phân giải Full-HD với tấm nền IPS, bàn phím có đèn nền, 4 loa chính + 1 loa subwoofer, phần mềm tối ưu hóa âm thanh, đầu ghi đĩa Blu-ray. Máy sẽ bán ra vào giữa tháng 4.
+H.G ( giới thiệu)
+ 

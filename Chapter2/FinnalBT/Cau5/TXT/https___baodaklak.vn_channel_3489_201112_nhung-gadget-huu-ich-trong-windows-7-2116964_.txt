@@ -1,0 +1,26 @@
+Những gadget hữu ích trong Windows 7
+09:57, 12/12/2011
+  Gadget là những ứng dụng nhỏ chạy trên nền màn hình chủ của máy tính, giúp cho bạn không chỉ trang hoàng màn hình máy tính đẹp và chuyên nghiệp hơn mà còn phục vụ hữu ích cho công việc, giải trí và giám sát trạng thái máy tính. Hiện có nhiều gadget dành cho Windows 7. Dưới đây là một số gadget thông dụng:
+1. Clock:
+  Clock là gadget dùng để hiển thị đồng hồ trên màn hình máy tính, giúp bạn xem giờ như đồng hồ treo tường. Nó có nhiều màu sắc cho bạn lựa chọn.
+  2. CPU Meter:
+Gadget này được sử dụng để đo tốc độ CPU và RAM của hệ thống máy tính bạn đang sử dụng. Nó cho phép bạn thấy được nguồn tài nguyên hệ thống đang sử dụng, qua đó giúp bạn quản lý các chương trình đang chạy một cách hiệu quả hơn.
+
+
+3. Calendar
+Calendar là gadget dùng để xem lịch tháng và ngày hiện tại. Nó chính là cuốn lịch treo tường trên máy tính của bạn. Giúp cho “gian phòng ảo” của bạn sinh động hơn.
+   
+4. Currency
+Nếu bạn là nhà đầu tư tài chính và muốn xem tỉ giá hối đoái của các đồng tiền trên thế giới thì gadget này rất phù hợp với công việc của bạn. Nó cho phép bạn kiểm tra tỉ giá hối đoái giữa đồng tiền các nước với nhau như giữa USD với VND hay EURO với VND hay USD…
+5. Weather
+Weather là gadget hiển thị thông tin thời tiết của rất nhiều thành phố, vùng, quốc gia trên thế giới. Nó có thể hiện thị thời tiết của TP.Buôn Ma Thuột và dự báo thời tiết 3 ngày tới tương đối chính xác.
+6. Piano
+Với gadget này, bạn đã “tậu” cho mình một chiếc đàn piano thật là xịn, giúp bạn có những phút thư giãn sau những giờ làm việc căng thẳng trên máy tính. Piano sử dụng phím bấm như một nốt nhạc, vì vậy có thể chơi bất kỳ những bản nhạc nào mà bạn có thể.
+7. Unit Converter
+Gadget này dùng để chuyển đổi các đơn vị đo lường khác nhau như thời gian, góc cạnh, trọng lượng, thể tích, nhiệt độ… Rất thích hợp cho học sinh đam mê khoa học tự nhiên.
+Để sử dụng các gadget trên, tại màn hình chủ (desktop) bạn bấm phải chuột, lúc này sẽ xuất hiện một menu xổ xuống và chọn “Gadgets”, cửa sổ gadget sẽ xuất hiện, bạn thích gadget nào thì bấm phải chuột lên biểu tượng của nó và chọn “Add”, lúc này trên màn hình chủ sẽ xuất hiện gadget bạn chọn.
+Cửa sổ biểu tượng các gadget đã được cài đặt
+Nếu bạn muốn có thêm nhiều gadget thì bấm vào liên kết “Get more gadgets online” trong cửa sổ các gadget.
+Nếu tại màn hình chủ, bấm phải chuột mà trong menu xổ xuống không có mục “Gadgets” có nghĩa là máy tính bạn chưa cài đặt tiện ích này. Lúc này bạn tiến hành cài đặt như sau: Chọn Start-> Control Panel-> Programs and Features-> Turn Windows feathers on or off, sau đó đánh dấu kiểm vào mục “Windows gadget platform” để tiến hành cài đặt.
+Lương Nam
+       

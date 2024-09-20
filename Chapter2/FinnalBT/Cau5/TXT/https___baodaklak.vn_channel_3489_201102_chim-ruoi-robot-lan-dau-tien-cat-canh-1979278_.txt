@@ -1,0 +1,9 @@
+Chim ruồi robot lần đầu tiên cất cánh
+22:20, 21/02/2011
+Mới đây, Công ty Phát triển công nghệ hàng không và năng lượng AeroVironment đã đặt thêm một bước tiến mới trong lĩnh vực hàng không, khi đã chế tạo thành công chiếc máy bay siêu nhỏ Nano Hummingbird.
+ 
+Nano Hummingbird là một chú chim ruồi robot, nó bay bằng cách vỗ cánh một cách linh hoạt và sử dụng nguồn điện độc lập thay vì dùng động cơ đẩy. Nguyên mẫu Nano Hummingbird được chế tạo bằng tay, có sải cánh dài 16 cm, nặng 19 gram - nhẹ hơn trọng lượng của một viên pin AA. Mặc dù có kích thước khá bé nhưng nhóm phát triển UAS của AeroVironment đã cố gắng trang bị đầy đủ các hệ thống cần thiết, như: pin, mô-tơ, hệ thống giao tiếp và chiếc camera quan sát.
+  Do có cấu tạo và cách thức hoạt động không khác một chú chim thật, Nano Hummingbird có thể bay tại chỗ, bay từ dưới lên trên hoặc lộn nhào theo phương thẳng đứng, bay ngang, tới và lui, theo chiều kim đồng hồ và ngược chiều kim đồng hồ, bay vòng tròn 360 độ. Tất cả đều được thực hiện thông qua một bộ điều khiển từ xa. Phần vỏ bảo vệ của Nano Hummingbird được thiết kế đặc biệt, có thể tháo rời và thay thế.
+  Hiện AeroVironment đã hoàn tất giai đoạn 2 của chương trình thiết kế và chế tạo nguyên mẫu máy bay không người lái giống chim ruồi Nan Air Vehicle.
+Gia Thịnh ( dịch, tổng hợp)
+ 

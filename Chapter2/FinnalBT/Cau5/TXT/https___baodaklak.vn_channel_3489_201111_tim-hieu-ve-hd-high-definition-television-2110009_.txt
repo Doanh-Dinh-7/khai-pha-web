@@ -1,0 +1,36 @@
+Tim hiểu về HD (High Definition Television)
+22:04, 15/11/2011
+Những năm trở lại đây, những thuật ngữ như HD, Full HD được các bạn trẻ yêu phim ảnh và công nghệ quan tâm rất nhiều. Trong cộng đồng yêu thích công nghệ số, trào lưu xe, phim HD cũng đang phát triển khá rầm rộ. Vậy phim HD là như thế nào? 
+Màn hình HD chuẩn 1080p mới được triển khai tại Rạp Kim Đồng, TP. Buôn Ma Thuột
+HDTV là cụm từ viết tắt của High Definition Television - Truyền hình với độ nét cao, một dạng công nghệ hình ảnh có độ phân giải cao, được chiếu trên những màn hình lớn, với độ sắc nét đáng kinh ngạc tới từng chi tiết nhỏ, chắc chắn sẽ làm người xem hứng thú ngay từ lần nhìn thấy đầu tiên. Trước tiên ta hãy tìm hiểu về một số thuật ngữ về công nghệ xem phim:
+Khái niệm về một số video mà khán giả thường được tiếp cận như CAM, R5,DVDSCR,DVDRip, HD và Bluray
+1.    Video CAM
+Một mẫu máy thường được dùng để quay bản Cam
+Bản Cam là bản sao chép từ phim chiếu rạp, thường được thu bằng Camera kỹ thuật số. Một số trường hợp thuận lợi thì dùng được giá đỡ nhưng rất hiếm, vì thế bản Cam thường bị rung và đôi khi được quay từ góc ( không trực diện ). Âm thanh được thu trực tiếp từ microphone của camera, nên đôi khi sẽ bị trộn lẫn với tiếng của khán giả. Chất lượng rất thấp.
+2.    TeleSync (TS)
+Chất lượng của bản TeleSync
+Thiết bị dùng tương tự như Cam nhưng dùng thiết bị thu âm rời nên chất lượng âm thanh tốt hơn bản Cam, đôi khi bản TS được thu từ rạp trống hay từ buồng chiếu với một camera chuyên nghiệp. Nên kiểm tra thử sample trước khi quyết định download toàn bộ phim.
+3.    TeleCine (TC)
+Mẫu máy GOKO Telecine TC-301 super-8
+Máy Telecine sẽ copy phim một cách số hóa từ cuộn phim nhựa. Âm thanh và hình ảnh rất tốt, tuy nhiên sẽ phụ thuộc vào chất lượng của máy, nhưng khuyết điểm là hình và tiếng thường bị lệch nhau. Chất lượng chấp nhận được.
+4.    Screener (SCR)
+  Bản thử của băng VHS, thường được đưa tới các tiệm cho thuê hay những nơi xem thử. Tỉ lệ thường là 4:3 (full screen), đôi khi trong phim xuất hiện dòng chữ cảnh báo ( copyright và anti-copy telephone number ). Phần lớn bản SCR được chuyển thành VCD ( chất lượng tương đương VCD).
+
+5.    DVD-Screener (DVDSCR)
+Là dạng DVD được phát cho  chủ rạp, chủ tiệm film coi thử trước khi mua. Chất lượng đẹp gần như DVDRip nhưng thường bị những dòng chữ cảnh báo, như: copyright, anti-copy, property of ... thỉnh thoảng chạy ngang qua màn hình ( chất lượng tương đương SVCD hay DivX/XviD).
+
+6.    R5
+R5 có nghĩa là Region 5, đây là chia vùng địa lý của DVD. Region 5 là vùng Nga, các nước Đông Âu, v.v... Chất lượng tốt hình đẹp như DVDRip, tuy nhiên R5 lại sử dụng đường âm thanh như là TS ở trên chứ không được AC3 như DVD các vùng khác. Cái này là do một số nhà sản xuất DVD nó cố ý làm vậy để rút ngắn thời gian phát hành DVD, chủ yếu là do một số nơi hay vi phạm bản quyền, chậm chân là có bản CAM, TS ngay dẫn tới việc ít người mua bản DVD. Tại Việt Nam DVD bản đẹp thường là chuẩn R5 đấy thỉnh thoảng cũng xuất hiện DVDSCR.
+ 
+7.    DVDRip
+  Phiên bản copy của DVD phát hành, chất lượng tốt hơn bản DVDSCR. Chất lượng hình ảnh âm thanh tuyệt hảo, không có gì để nói thêm. Nếu bạn muốn xem một bộ phim trọn vẹn thì tốt nhất là mua bản DVDRIP, thường thì film chiếu rạp xong phải 3, 4 tháng sau mới phát hành DVD. Hiện nay có các nhóm rip nổi tiếng như Axxo, FXG, FMG, DiAMOND....
+  8.    VHSRip
+Bản copy từ băng VHS.
+
+9.    TVRip
+Bản thu từ TV. Thông thường DVD phim được phát hành sau khoảng 1 tháng kể từ khi phim được chiếu rạp. Đôi khi ở VN phim mới được bán dưới dạng DVD nhưng được chép từ các bản TS hay TC khi đó nên kiểm tra trước khi mua.
+10.    BluRay và HDDVD:
+  Video độ phân giải cao, thường là 720p hoặc 1080p, rip từ Blue Ray disc hoặc HDDVD, chất lượng cao hơn cả DVDRIP, bù lại là dung lượng lớn, trung bình khoảng 8GB / movie. Cần chú ý, riêng dung lượng 1 phim BluRay disc khoảng 45GB và HDDVD disc khoảng gần 30GB. Hiện trên thị trường chủ yếu chỉ còn dạng đĩa chuẩn BluRay, vì HDDVD đã bị ngưng sản xuất.
+  (Còn tiếp)
+G.T
+   

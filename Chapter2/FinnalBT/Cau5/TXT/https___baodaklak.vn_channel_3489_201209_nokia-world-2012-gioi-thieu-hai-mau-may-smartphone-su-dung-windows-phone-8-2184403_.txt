@@ -1,0 +1,38 @@
+Nokia World 2012 – Giới thiệu hai mẫu máy smartphone sử dụng Windows Phone 8
+17:01, 06/09/2012
+Ngày 5-9, tại Helsinki (Phần Lan), hãng điện thoại danh tiếng Nokia cùng với công ty Microsoft đã tổ chức sự kiện Nokia World 2012, nhằm giới thiệu về các mẫu điện thoại thông minh Lumia đầu tiên chạy Windows Phone 8: Lumia 920 và 820, trước khi đưa sản phẩm ra thị trường vào cuối tháng 10 hoặc đầu tháng 11-2012.
+Ngay sau màn giới thiệu của Stephen Elop, Chủ tịch kiêm CEO của Nokia, Jo Harlow, Phó chủ tịch Nokia, bước lên sân khấu với một chiếc smartphone bí ẩn màu vàng trên tay. Bà gây bất ngờ khi công bố sản phẩm đang cầm chính là Lumia 920, mẫu smartphone Windows Phone 8 đầu tiên của Nokia đang được chờ đợi.
+Đúng như tin đồn trước đây vài tuần, Lumia 920 là một smartphone với công nghệ hình ảnh PureView, màn hình 4"5 HD với công nghệ mới, chip xử lý của Qualcomm, pin 2000mAh và sử dụng bộ sạc không dây với chuẩn sạc của Qi. Nokia sẽ bán ra Lumia 920 cài sẵn WP8 với nhiều tuỳ chọn về màu sắc gồm vàng, trắng, đen, xám và đỏ.
+Nhìn vào cấu hình, có thể thấy model Lumia 920 này thuộc dòng máy cao cấp với nhiều công nghệ tiên tiến như máy ảnh cao cấp 8.7 megapixel dùng ống kính Carl Zeiss sử dụng công nghệ PureView cho phép độ phân giải lên tới 41megapixel.
+Bên cạnh trang bị phần cứng tốt, hãng điện thoại Phần Lan cho biết họ bổ sung một loạt ứng dụng được thiết kế dành riêng cho các dòng Lumia như: Nokia Maps, Transport, Drive với khả năng sử dụng offline... Nhưng đặc biệt nhất chính là Nokia City Lens, ứng dụng bản đồ tích hợp công nghệ tương tác thực tế ảo AR giúp người dùng có thể dễ dàng tìm kiếm địa điểm nhà hàng, quán ăn...
+Nokia Lumia 920
+Ngoài giao diện LiveTiles được làm mới, hệ điều hành trên Lumia 920 còn hỗ trợ trình duyệt IE10 tốc độ nhanh hơn, tích hợp thêm mạng xã hội như Twitter, cải thiện tính năng chụp hình... Hãng điên thoại cũng trang bị cho chiếc điện thoại cao cấp vừa ra mắt một loạt phụ kiện mới như tai nghe Purity Pro, loa JBL Power Up hỗ trợ NFC, hay bộ đế sạc không dây mỏng và gọn nhẹ.
+Với nền tảng Windows Phone 8 của Microsoft, Lumia 920 dành được lợi thế lớn so với những mẫu Windows Phone và Lumia thế hệ trước, từ tính năng cho tới hiệu năng.
+Song song với Lumia 920, cũng tại sự kiện Nokia - Microsoft Conference, nhà sản xuất điện thoại Phần Lan cũng công bố phiên bản Lumia 820 - một mẫu điện thoại Windows Phone 8 tầm trung.
+Nokia Lumia 820
+Lumia 820 sử dụng CPU Snapdragon S4 tốc độ 1,5 GHz tương tự Lumia 920 nhưng sở hữu màn hình nhỏ hơn với 4,3" phân giải WVGA. Bộ nhớ trong của máy cũng chỉ bằng 1/4 so với Lumia 920, tức là 8 GB và được trang bị camera 8 MP không có công nghệ PureView. Tuy nhiên, Lumia 820 lại hỗ trợ thẻ nhớ microSD gắn ngoài nên người dùng có thể dễ dàng mở rộng dung lượng lưu trữ. Ngoài ra Lumia 820 sở hữu kiểu dáng vuông vắn với mặt lưng phẳng, mang đến sự khác biệt so với 4 dòng Lumia cũ của Nokia. Hãng điện thoại Phần Lan sẽ bán Lumia 820 với tất cả 6 màu khác nhau, gồm đen, trắng, ghi, đỏ, vàng và thêm bản màu tím.
+Điện thoại cũng được tích hợp chíp NFC trên vỏ cho phép kích hoạt giao tiếp này cũng như hỗ trợ sạc pin thông qua sạc không dây FatBoy. Được biết, AT&T và T-Mobile sẽ là 2 nhà mạng đầu tiên phát hành Lumia 820, giá bán vẫn chưa được xác nhận.
+Cả 2 mẫu Lumia 820 và 920 đều được trang bị một công nghệ cảm ứng mới với tên gọi Super Sensitive Touch, cho phép màn hình nhận biết cú nhấn xuyên qua cả găng tay hoặc móng tay bên cạnh khả năng cảm ứng điện dung truyền thống.
+Sự kiện Nokia World 2012 được kết thúc với màn trả lời của Stephen Elop, CEO Nokia, và Steve Balmer, người đồng nhiệm bên phía Microsoft, với báo giới và truyền thông. Tuy nhiên, điều khiến nhiều người tiếc nuối là giá bán và ngày phát hành chính thức của bộ đôi Lumia 920 và 820 vẫn chưa được Nokia thông báo cụ thể.
+Thông số kỹ thuật Nokia Lumia 920
+Màn hình 4,5" độ phân giải HD PureMotion HD+
+CPU Snapdragon S4 hai nhân, 1.5Ghz
+Máy ảnh 8.7MP, công nghệ PureView, ống Carl Zeiss
+Quay phim Full-HD ở 30 khung hình/giây
+Camera trước 1.2MP quay phim HD
+RAM 1GB
+Bộ nhớ trong 32GB với 7GB SkyDrive
+Pin 2000mAh, bộ sạc không dây
+Kết nối NFC
+Cài sẵn Windows Phone 8
+Bán ra với 5 màu: vàng, trắng, đen, xám và đỏ
+Thông số kỹ thuật Nokia Lumia 820
+Màn hình: ClearBack OLED 4,3" phân giải WVGA (800 x 480) với công nghệ Super Sensitive Touch và khả năng hiển thị dưới nắng cải tiến;
+Vi xử lý: Qualcomm Snapdragon S4 lõi kép tốc độ 1,5 GHz;
+RAM: 1 GB;
+Bộ nhớ trong: 8 GB + hỗ trợ thẻ nhớ microSD và bộ nhớ đám mây SkyDrive 7 GB;
+Camera chính: 8 MP ống kính Carl Zeiss, hỗ trợ AF, đèn Flash LED kép, quay phim 1080p;
+Camera phụ: VGA;
+Pin: 1650 mAh + hỗ trợ sạc không dây Qi.
+G.T ( Tổng hợp)
+ 

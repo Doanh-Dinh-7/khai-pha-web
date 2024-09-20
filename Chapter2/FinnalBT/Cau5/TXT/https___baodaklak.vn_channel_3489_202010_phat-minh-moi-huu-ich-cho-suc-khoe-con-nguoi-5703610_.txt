@@ -1,0 +1,22 @@
+Phát minh mới hữu ích cho sức khỏe con người
+06:56, 09/10/2020
+Biến sữa bột thành mực in 3D và sản phẩm ăn được
+Nhóm chuyên gia ở Đại học Công nghệ và Thiết kế Singapore (SUTD) vừa trình làng một công nghệ khá độc đáo: biến sữa bột thành mực in 3D, tạo ra nhiều đồ vật có thể “ăn liền” như ghế sofa, bánh sushi, pizza, thậm chí cả các món protein như cá hay thịt. Theo trang tin MNS, sáng kiến này nhằm tạo ra một phương pháp chế biến nhanh, không cần chế biến phức tạp hay đun nóng sữa làm giảm hàm lượng dưỡng chất lẫn mùi vị.
+Công thức làm mực in từ sữa rất đơn giản, chỉ cần trộn sữa bột với nước một cách thận trọng để có được độ sệt hợp lý, phù hợp cho việc in vật thể 3D ở mức nhiệt thấp. Qua thí nghiệm, SUTD đã kết hợp sữa với với sôcôla làm từ bột ca cao và xi-rô rồi tạo ra khá nhiều đồ vật ngộ nghĩnh có thể ăn liền như ghế sofa nhỏ, cỏ ba lá, pháo đài, nón mũ hay bánh xe... Nghiên cứu mở ra triển vọng trong chế biến ẩm thực, tạo ra nhiều thực đơn bổ dưỡng, ngon mắt, ngon miệng, hợp với nhiều đối tượng, kể cả nhóm người ăn uống kiêng cữ.
+Khám phá mối liên quan giữa sốt xuất huyết và Covid-19
+Một nghiên cứu của Đại học Duke, Mỹ (UoD) do giáo sư Miguel Nicolelis đứng đầu mới công bố đã phát hiện thấy mối liên quan giữa sốt xuất huyết (SXH) và Covid-19. Nghiên cứu so sánh sự phân bố địa lý các ca nhiễm Sars-CoV-2 với nguy cơ mắc SXH trong hai năm 2019 và 2020. Kết quả cho thấy việc phơi nhiễm căn bệnh lây lan do muỗi đốt có thể cung cấp mức độ miễn dịch nhất định chống lại Covid-19. Cụ thể, nơi nào có tỷ lệ mắc Covid-19 thấp, tần suất các ca mới tăng chậm hơn là nơi từng là “cái rốn” của dịch SXH.
+Phát hiện trên làm sáng tỏ thêm khả năng kích thích phản ứng miễn dịch chéo giữa các loại huyết thanh Flavivirus của SXH và vi rút Sars-CoV-2. Nếu giả thiết này là đúng thì nhiễm SXH hoặc chủng ngừa vắc xin SXH an toàn có thể mang lại lợi ích tăng miễn dịch chống lại Sars-CoV-2.
+Robot giúp bệnh nhân Covid-19 trò chuyện với người thân
+Để giảm nỗi khó khăn cho nhóm người bị nhiễm Covid-19, nhất là khi phải sống cách ly dài kỳ, doanh nghiệp khởi nghiệp Invento Robotics cùng các chuyên gia ở Bệnh viện Yatharth, New Delhi (Ấn Độ) đã phát triển thành công một loại robot dịch vụ có tên Robot Mitra giúp kết nối bệnh nhân với bạn bè và người thân của họ thuận lợi, dễ dàng.
+Robot giúp bệnh nhân Covid-19 trò chuyện với người thân.
+Mitra trong tiếng Hindi có nghĩa “bạn bè”, nó có khả năng nhận diện khuôn mặt người, nhờ đôi mắt xuyên thấu được trang bị công nghệ nhận dạng khuôn mặt, nhớ được những người mà nó đã tương tác trước đây. Một máy tính bảng được gắn vào trước ngực Mitra cho phép bệnh nhân nhìn thấy những người thân yêu của mình, cũng như nhân viên y tế khi ở xa. Nhờ có robot Mitra, các bệnh nhân Covid-19 sẽ cảm thấy vui hơn. Ngoài ra, Mitra còn được sử dụng để tham vấn từ xa với các bác sĩ để nhận thông tin phòng ngừa, chữa trị bệnh.
+Người ảo dùng cho phẫu thuật trong tương lai
+Có tên Doppelganger (Người song trùng), sản  phẩm của Trung  tâm y sinh  CompBioMed,  Đại  học London (Anh) do giáo sư Peter Coveney chủ trì là một mô hình người ảo phục vụ cho nghiên cứu, phẫu thuật. Doppelganger thực chất là người ảo kỹ thuật số, phản chiếu mọi thứ từ cách tim, phổi hoạt động, cho đến mã DNA cá nhân của con người. Điều này giúp giảm thiểu rủi ro phẫu thuật và lường trước mọi phản ứng hoặc biến chứng không mong muốn có thể xảy ra.
+Đây là dự án mở ra triển vọng trong lĩnh vực phẫu thuật cho tương lai, hạn chế rủi ro, và phục vụ cho dự án điều trị cá thể, và tận dụng tối đa lợi thế nền tảng Telemedince và Telehealth (khám chữa bệnh từ xa).
+Robot lấy mẫu xét nghiệm Covid-19
+Robot lấy mẫu xét nghiệm Covid-19 có tên SwabBot do các chuyên gia ở Trung tâm Ung thư quốc gia Singapore (NCCS), Bệnh viện Đa khoa Singapore (SGH) và Tập đoàn công nghệ y tế Biobot Surgical phối hợp chế tạo được xem là giải pháp giảm tải hiệu quả cho tuyến đầu chống dịch Covid-19.
+Robot lấy mẫu xét nghiệm Covid-19.
+SwabBot kích có thước 35 cm x 40 cm x 49 cm, được trang bị quy trình lấy mẫu an toàn, nhanh chóng. Theo đó, người được lấy mẫu có thể tự vận hành robot theo ý muốn. Chỉ cần đứng trước SwabBot, dùng cằm khởi động, sau đó SwabBot sẽ mở rộng miếng gạc và nhẹ nhàng đưa qua mũi của bệnh nhân đến phía sau khoang mũi, cách lỗ mũi khoảng 10 cm, tự động đưa tăm bông vào đúng vị trí để gom mẫu. Khi dừng, người xét nghiệm chỉ cần di chuyển đầu ra khỏi SwabBot. Tổng thời gian mất khoảng 20 giây so với lấy mẫu thủ công mất chừng vài phút.
+ Nguyễn Duy
+(Dịch từ MNS/HTC//IMC/NAC/ENC/STC- 9/2020)
+ 

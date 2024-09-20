@@ -1,0 +1,25 @@
+Những phần mềm diệt virus miễn phí
+09:05, 07/12/2011
+Phần mềm diệt virus là một trong những thành phần không thể thiếu trong máy tính hiện nay. Chính vì vậy, nhiều người đã không ngần ngại bỏ vài ba trăm ngàn đến cả triệu đồng để trang bị phần mềm diệt virus cho máy tính. Tuy nhiên, nếu không có tiền bạn vẫn có cách bảo vệ máy tính của mình khỏi mọi sự lây nhiễm virus bằng cách sử dụng các phần mềm miễn phí. Mặc dù là miễn phí nhưng hiệu quả không thua kém gì các phần mềm có phí cả. Dưới đây là một số phần mềm diệt virus miễn phí được nhiều người dùng máy tính sử dụng:
+1. Comodo Internet Security
+CIS là chương trình bảo vệ máy tính bằng cách kết hợp chức năng diệt virus, tường lửa và phòng chống xâm nhập trái phép.
+Khác với các nhà cung cấp phần mềm diệt virus khác thường loại bỏ một số tính năng trong phiên bản miễn phí, Comodo cung cấp hoàn toàn đầy đủ chức năng trong sản phẩm miễn phí.
+Comodo Internet Security ngày càng được nhiều người sử dụng bởi sự bảo vệ máy tính toàn diện của nó.
+Địa chỉ tải phần mềm: http://www.comodo.com/home/internet-security/free-internet-security.php
+2. Avast! Free Antivirus
+Phần mềm này có đầy đủ các chức năng trong phòng, chống virus. Avast sử dụng bộ engine của ứng dụng Antivirus và Antispyware Premium. Phiên bản 6.0 hoạt động nhanh, hiệu suất bảo vệ cao hơn. Ngoài ra, nó còn có thêm các tiện ích hỗ trợ được tích hợp vào trong trình duyệt dựa trên nền tảng công nghệ ảo hóa.
+Autosanbox là một đặc điểm tối ưu của Avast – cho phép chạy các chương trình nghi ngờ virus bên trong Avast mà không gây hại tới hệ điều hành.
+Bạn có thể tải phần mềm từ địa chỉ: http://www.avast.com/free-antivirus-download
+3. PC Tools Antivirus Free
+Với PC Tools AntiVirus Free, bạn được bảo vệ chống lại các mối đe dọa từ bên ngoài vào máy tính. PC Tools AntiVirus Free có các chức năng tiên tiến để quét virus và loại bỏ chúng khỏi sự lây nhiễm vào các phân khu nhạy cảm của phần mềm và hệ điều hành.
+Giao diện của PC Tools khá thân thiện với người dùng
+Bạn có thể tải phần mềm tại địa chỉ: http://www.pctools.com/free-antivirus
+4. Avira Antivir Personal
+Avira Antivir là một trong những giải pháp chống virus hữu hiệu cho máy tính. Hiện Avira đã phát hành phiên bản cho dòng sản phẩm miễn phí dành cho người dùng cá nhân. Phiên bản miễn phí kèm theo một số tính năng bảo mật mới để bảo vệ máy tính chống lại các đoạn mã độc như virus, spyware, adware và các chương trình không mong muốn. Đặc biệt, Avira hỗ trợ netbook cấu hình yếu và có thể loại bỏ virus chỉ với một nút nhấn.
+Tải phần mềm tại: http://www.avira.com/en/avira-free-antivirus
+5. AVG Anti-Virus Free Edition
+AVG Anti-Virus Free Edition là một trong những phần mềm diệt virus rất hữu hiệu. Có thể bảo vệ máy tính an toàn trong môi trường Internet. Nó có thể ngăn chặn các trang web lừa đảo hoặc có chứa mã độc; bảo vệ máy tính khi truy cập các trang mạng xã hội như Facebook, Twitter…; Giúp cho máy tính của bạn chạy nhanh hơn nhờ tính năng AVG Smart Scanning.
+Trang chủ của phần mềm diệt virus nổi tiếng AVG
+Với phần mềm này, bạn hoàn toàn yên tâm khi lướt web, tìm kiếm và truy cập vào các mạng xã hội.
+Phiên bản miễn phí được cung cấp tại: http://free.avg.com/us-en/free-antivirus-download
+Việt Hữu

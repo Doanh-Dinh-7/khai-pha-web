@@ -1,0 +1,9 @@
+Điều chỉnh kích thước ảnh với ImageResizer
+09:32, 11/01/2012
+  Ảnh chụp từ các máy ảnh, máy quay thường có kích thước lớn nên khi đưa lên các website cũng như các trang mạng xã hội sẽ làm cho tốc độ tải trang chậm, dễ nản lòng những người truy cập.
+Để giải quyết vấn đề trên, bạn có thể sử dụng phần mềm ImageResizer. Phần mềm có kích thước chỉ hơn 1MB nên chỉ mất gần 1 phút là tải xong. Bạn có thể download phần mềm tại địa chỉ http://www.mediafire.com/?91mpgbbl9bkf26y
+Sau khi tải về máy, bạn tiến hành cài đặt bình thường. Muốn điều chỉnh hình ảnh nào bạn đưa con trỏ đến hình ảnh cần điều chỉnh và bấm phải chuột, trong danh sách cửa sổ xổ xuống bạn chọn Resize pictures. Lúc này cửa sổ phần mềm sẽ xuất hiện như hình dưới:
+Để điều chỉnh kích thước hình ảnh, ImageResizer đưa ra 4 lựa chọn mặc định: Small, Medium, Large và Mobile Device (tương ứng với kích thước ảnh: Nhỏ, vừa, lớn và dùng cho các thiết bị di động), bạn có thể chọn 1 trong 4 tuỳ chọn trên cho phù hợp với nhu cầu. Ngoài 4 lựa chọn trên, bạn có thể chọn Custom và nhập kích thước ảnh tuỳ ý vào 2 ô bên cạnh và bấm OK để điều chỉnh.
+Bạn có thể chọn một lúc nhiều ảnh để điều chỉnh kích thước. Hình ảnh sau khi được điều chỉnh sẽ được lưu cùng thư mục với ảnh gốc. Qua thử nghiệm trên hệ điều hành Windows 7 cho thấy, dung lượng hình ảnh được giảm xuống rất nhiều nhưng chất lượng hình ảnh gần như vẫn được giữ nguyên.
+Lương Nam Việt
+ 

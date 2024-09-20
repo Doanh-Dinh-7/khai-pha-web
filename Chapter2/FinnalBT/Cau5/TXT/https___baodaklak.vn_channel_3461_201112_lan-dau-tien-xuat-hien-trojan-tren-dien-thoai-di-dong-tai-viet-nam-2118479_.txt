@@ -1,0 +1,8 @@
+Lần đầu tiên xuất hiện trojan trên điện thoại di động tại Việt Nam
+09:52, 19/12/2011
+Mới đây, hệ thống cảnh báo virus của Bkav phát hiện hacker phát tán tin nhắn rác kèm đường link chứa trojan trên điện thoại di động. Đây là lần đầu tiên xuất hiện loại trojan trên điện thoại di động tại Việt Nam.
+  Người dùng không nên vội bấm vào những đường link nhận được trên di động vì có thể đó là link độc hại do hacker gửi tới. Nếu bấm vào những đường link này, trojan được tải về và cài đặt vào điện thoại của người dùng. Chương trình sẽ tự động gửi tin nhắn đến một đầu số dịch vụ hacker đã đăng ký với nhà mạng và tài khoản trên điện thoại di động của người dùng bị trừ tiền.
+Người dùng không nên vội bấm vào những đường link được chia sẻ qua di động
+Phát tán tin nhắn rác kèm đường link độc hại trước nay chủ yếu hướng tới người sử dụng máy tính. Tuy nhiên, mới đây, hacker đã mở rộng sang đối tượng là người sử dụng điện thoại di động. Vì vậy, người sử dụng nên đề cao cảnh giác, không bấm vào các đường link chưa rõ nguồn gốc. Nên sử dụng phần mềm diệt virus dành riêng cho điện thoại di động để được bảo vệ toàn diện.
+  Giang Nam
+(Nguồn Bkav)

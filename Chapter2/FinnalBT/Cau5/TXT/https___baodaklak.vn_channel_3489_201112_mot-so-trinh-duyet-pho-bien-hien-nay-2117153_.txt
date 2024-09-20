@@ -1,0 +1,24 @@
+Một số trình duyệt phổ biến hiện nay
+09:02, 13/12/2011
+Trình duyệt (Browser) chính là cánh cửa để đi vào thế giới Internet. Nếu không có trình duyệt thì Internet cũng không thể phát triển và phổ biến được như ngày nay. Vì vậy, trình duyệt có vai trò hết sức quan trọng trong việc sử dụng có hiệu quả các nguồn tài nguyên trên Internet. Hiện nay, ngoài trình duyệt Internet Explorer được cài đặt sẵn với hệ điều hành Windows còn có rất nhiều trình duyệt khác.
+Xin giới thiệu với các bạn một số trình duyệt đó:
+1. FireFox
+FireFox (cáo lửa) hiện là trình duyệt phổ biến thứ 2 trên thế giới. Phiên bản mới nhất là FireFox 8. Phiên bản này hỗ trợ tìm kiếm thông tin trên Twitter, hồi phục tab nhanh hơn và cải tiến giao diện cho khu quản lý add-on. Ngoài ra, Firefox 8 bổ sung tính năng mới cho tab. Do đó, khi hồi phục, chỉ có 1 tab được tải nội dung, còn lại sẽ tải mỗi khi người dùng bấm vào những vị trí đó.
+FireFox của hãng Mozilla là một trong hai trình duyệt phổ biến nhất hiện nay.
+2. Chrome
+Chrome là trình duyệt web của hãng Google được thiết kế gọn nhẹ để lướt web nhanh, an toàn và dễ dàng hơn. Điểm nhấn của Chrome đó là việc tìm kiếm mọi thứ diễn ra ngay trên thanh địa chỉ, bạn chỉ cần gõ nội dung cần tìm kiếm vào thanh địa chỉ sẽ nhận được các gợi ý về nội dung.
+Trình duyệt Chrome có tốc độ tải trang khá nhanh so với nhiều trình duyệt khác.
+Ngoài ra, tốc độ nhanh, bảo mật tốt, sắp xếp hợp lý, thiết kế gọn gàng và đơn giản là những ưu thế của Chrome.
+3. Opera
+Opera có khả năng tương thích với ứng dụng web. Nó hỗ trợ trình duyệt xử lý các mã lỗi một cách hiệu quả, đồng bộ để đạt được hiệu suất cao hơn. So với các phiên bản trước, phiên bản Opera 11 có thể tải trang web nhanh hơn đồng thời sử dụng bộ nhớ trên các website ít hơn cùng với JavaScript.
+Giao diện của Opera đơn giản nhưng đầy đủ các chức năng cao cấp của một trình duyệt.
+Cùng với nhiều cải tiến cho trình duyệt, Opera còn bao gồm một bộ phân tích HTML5 phù hợp cung cấp nhiều tính năng cho người phát triển web và tăng tính tương thích với các trình duyệt khác.
+4. Safari
+Safari là trình duyệt web được phát triển bởi tập đoàn Apple và được cài đặt kèm theo hệ điều hành Mac OS X. Nó là trình duyệt mặc định trong hệ điều hành Mac OS X và trên các máy iPhone và iPod touch của Apple.
+Safari của hãng Apple luôn ghi những dấu ấn của thiên tài Steve Jobs
+Sau những thành công nhất định, Apple đã phát hành phiên bản Safari dành cho hệ điều hành Windows. Bản ổn định và mới nhất là Safari 5.1.2, dành cho cả Windows và Mac OS X. Hiện Safari là trình duyệt được dùng nhiều thứ 4, sau Internet Explorer, Mozilla Firefox và Google Chrome.
+5. Maxthon
+Maxthon là một trình duyệt có tùy biến giao diện cao, được xây dựng trên nền tảng của trình duyệt Internet Explorer nên được gọi là IE2. Tuy nhiên, nó được bổ sung thêm nhiều tính năng hơn như tùy biến giao diện, toolbar, icon, sửa đổi và sử dụng các phím tắt. Hơn nữa, Maxthon được tích hợp các plugin từ thư viện có sẵn, hay sử dụng các tính năng như quản lí mật khẩu, chụp ảnh màn hình…
+Giao diện của Maxthon
+Việc chọn cài đặt trình duyệt nào là do bạn quyết định. Tuy nhiên, qua kinh nghiệm sử dụng cho thấy, một máy tính nên cài đặt hai trình duyệt song song để có thể tận hưởng được tối đa các tính năng cũng như hiệu quả của mỗi trình duyệt. Bên cạnh đó, hầu hết các trình duyệt hiện nay đều hỗ trợ tiếng Việt.
+Đàm Việt

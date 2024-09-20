@@ -1,0 +1,7 @@
+Xe lăn robot tự giữ thăng bằng
+07:23, 25/10/2012
+Các kỹ sư đến từ Học viện Công nghệ Chiba (Nhật Bản) đang phát triển một loại xe lăn robot đặc biệt, có khả năng giữ thăng bằng trong mọi hoàn cảnh dành cho người khuyết tật.
+Xe được trang bị một hệ thống bánh xe có kết cấu bước lên – xuống, tự leo thang, vượt chướng ngại vật… mà vẫn giữ thăng bằng cho người ngồi trên xe.
+Chiếc xe lăn được thiết kế với 4 bánh xe, ngoài ra các kỹ sư còn bổ sung thêm 5 cái trục xoay, cho phép xe có thể tự nhấc mỗi bánh và di chuyển theo phương pháp từng bước một. Xe robot được trang bị một cảm biến tự động được lắp ở dưới xe, nó có chức năng nhận biết các vật cản như: cầu thang, đường khó đi… và ra lệnh cho 4 bánh xe luân phiên vượt qua các vật cản đó. Người điều khiển chỉ có một việc là điều chỉnh hướng đi cho xe thông qua một cần lái.
+Điều đáng ghi nhận nhất ở chiếc xe chính là khả năng tự động cân bằng ghế ngồi, qua đó giúp người lái luôn ở tư thế cân bằng nhất  với mặt đất, dù cho xe đang lên, xuống dốc... Ngoài ra nó cũng có thể tự xoay tại chỗ 360 độ nhờ vào các trục xoay bên dưới xe.
+G.T (Theo Engadget)

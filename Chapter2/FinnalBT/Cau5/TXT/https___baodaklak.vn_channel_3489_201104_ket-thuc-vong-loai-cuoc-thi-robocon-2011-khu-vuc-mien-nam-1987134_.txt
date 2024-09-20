@@ -1,0 +1,22 @@
+Kết thúc vòng loại cuộc thi Robocon 2011 khu vực miền Nam
+17:44, 09/04/2011
+12 đội có thành tích cao nhất trong Cuộc thi Robocon 2011 khu vực miền Nam đã được xác định vào chiều ngày 8-4-2011.
+  Khởi tranh từ ngày 5-4, có 73 đội tuyển đến từ 18 trường đại học, cao đẳng thuộc TP. Hồ Chí Minh, Cần Thơ và Đồng Nai đã tham dự vòng đấu bảng để chọn ra 32 đội thành tích cao lọt vào vòng hai. Kết quả 8 đội đầu bảng và 4 đội hạng nhì có số điểm cao nhất đã được chọn làm đại diện cho khu vực miền Nam tham dự vòng Chung kết Robocon 2011 diễn ra tại Đà Nẵng, từ ngày 9 tới 15-5-2011.
+  Robocon 2011 với chủ đề “Tình bạn thắp sáng niềm vui” cùng với những bước thi đấu đòi hỏi sự chính xác, tỉ mỉ tuyệt đối khiến không ít người nhầm tưởng các trận đấu sẽ thiếu kịch tính, nhưng khi vào vòng loại thứ 2, 3 đã có rất nhiều trận đấu kịch tính và hồi hộp. Có những đội đã giành điểm số đầu tiên chỉ trong thời gian rất ngắn, nhằm sớm hoàn thành việc lắp đặt cánh hoa và đài hoa cũng như thả hoa trên sông... Tuy nhiên, chiến thuật của các đội đã liên tục được thay đổi ở từng lượt thi, khi gặp từng đối thủ khác nhau, nhờ đó rất nhiều đội đã gây được bất ngờ trước đối thủ và nắm bắt được thế trận.
+  Kết quả cuộc thi đã phản ánh đúng thực lực và sự chuẩn bị của các đội. Các đội đến từ Trường ĐH Bách Khoa TP. Hồ Chí Minh vẫn thể hiện thế mạnh ở khâu lập trình, nhưng ĐH Lạc Hồng của Đồng Nai cho thấy có sự chuẩn bị kỹ lưỡng cuộc thi. Trong 12 đội được chọn, ĐH Lạc Hồng chiếm hết một nửa với những chiến thắng hết sức ngoạn mục, như đội LH-B7 chỉ cần 100 giây để kết thúc trận đấu; đội LH-WAVE cũng chỉ cần 120 giây; các đội LH-CACTUS 1 và LH-CACTUS 2 mỗi đội thắng hai trận với điểm “Loy Krathong”.
+  Robocon 2011 được nhận định là một cuộc thi khá khó, nếu như các cuộc thi ở những năm trước chú trọng vào ý tưởng, giải pháp thì năm nay lại nhấn mạnh tới tính ứng dụng thực tiễn. Thực tế qua 3 ngày thi cho thấy chỉ có vài đội kết thúc trận đấu với việc giành trọn điểm “Loy Krathong”, tức là đặt thành công ngọn đèn lên thuyền Krathong đã được trang trí đầy đủ đài hoa, hoa, nến đặt lên sông trước đó.
+  G.T ( Tổng hợp)
+Danh sách 12 đội đại diện khu vực miền Nam sẽ tham dự vòng chung kết cuộc thi sáng tạo Robot Việt Nam 2011:
+
+LH-CACTUS 1 (ĐH Lạc Hồng)
+HIAST C&C (CĐ Kinh tế Công nghệ TP.HCM)
+HIAST-FIRE ANTS (CĐ Kinh tế Công nghệ TP.HCM)
+BKIT-FIBER (ĐH Bách Khoa TP.HCM)
+LH-AIO (ĐH Lạc Hồng)
+BKIT 4U (ĐH Bách Khoa TP.HCM)
+LH-CACTUS2 (ĐH Lạc Hồng)
+BKIT MEGA (ĐH Bách Khoa TP.HCM)
+SPK VENUS ++ (ĐH Sư phạm kỹ thuật TP.HCM)
+LH-E&M (ĐH Lạc Hồng)
+LH-B7 (ĐH Lạc Hồng)
+LH-WAVE (ĐH Lạc Hồng).

@@ -1,0 +1,12 @@
+Hơn 64 triệu lượt máy tính nhiễm virus trong năm 2011
+08:20, 12/01/2012
+Tổng kết từ Hệ thống giám sát virus của Bkav ghi nhận, trong năm 2011 đã có  64,2 triệu lượt máy tính tại Việt Nam bị nhiễm virus, trung bình một ngày đã có hơn 175 nghìn máy tính bị nhiễm virus. 
+  Năm 2011, đã có 38.961 dòng virus xuất hiện mới, lây lan nhiều nhất là virus W32.Sality.PE. Virus này đã lây nhiễm trên 4,2 triệu lượt máy tính, trung bình mỗi ngày có thêm 11 nghìn máy tính bị nhiễm loại virus này.
+Ảnh minh họa
+Không chỉ là virus lây lan nhiều nhất năm 2011, đây thực sự là quả “bom nổ chậm”, sẵn sàng phát nổ gây ảnh hưởng đến hàng triệu máy tính trong thời gian tới. Bởi mặc dù lây nhiễm hàng triệu máy tính, tuy nhiên trong suốt một thời gian dài theo dõi dòng virus này từ năm 2009 đến nay, các chuyên gia Bkav cho biết virus Sality vẫn đang chỉ “nằm vùng” mà chưa kích hoạt các tính năng phá hoại như ăn cắp thông tin hay phá hủy dữ liệu. 
+  Đây thực sự là một điều khó lý giải. Theo chuyên gia Bkav, rất có thể có một tổ chức, thậm chí là một quốc gia đứng đằng sau mạng lưới virus này và chưa rõ ý đồ thực sự của họ là gì.
+  Lý do khiến W32.Sality.PE có thể lây lan tới hàng triệu máy tính là vì virus này có khả năng sử dụng các giải thuật di truyền để tự động lai tạo, sinh ra các thế hệ virus “con cháu” F1, F2… Càng lây nhiễm lâu trên máy tính, virus càng sinh ra nhiều biến thể với độ phức tạp càng cao, khiến cho khả năng nhận dạng và bóc lớp của các phần mềm diệt virus càng khó khăn. Chính vì thế W32.Sality.PE có thể qua mặt được hầu như tất cả các phần mềm diệt virus trên thế giới.
+  Vì tính chất nghiêm trọng của sự việc, người sử dụng máy tính trên toàn quốc cần kiểm tra máy tính bằng phần mềm diệt virus có trang bị công nghệ diệt virus siêu đa hình.
+  Giang Nam
+(Nguồn VTV)
+ 

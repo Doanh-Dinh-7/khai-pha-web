@@ -1,0 +1,9 @@
+Đắk Lắk có 8 Trạm thời tiết thông minh iMetos 3.3 AG
+21:18, 18/04/2017
+Nhằm hỗ trợ nông dân sản xuất nông nghiệp hiệu quả, UBND tỉnh Đắk Lắk phối hợp với Công ty Cổ phần Truyền thông nông nghiệp đa phương tiện (Agrimedia) xây dựng 8 Trạm thời tiết thông minh iMetos 3.3 AG và Cổng thông tin thời tiết – môi trường.
+Bản Demo nhiệt độ tại một số huyện trên địa bàn tỉnh có các trạm thời tiết thông minh imetos ngày 17-4
+Các trạm được đặt tại 8 tiểu vùng khí hậu của tỉnh gồm TP. Buôn Ma Thuột, huyện Ea Súp, Cư M’gar, Ea H’leo, Krông Pắc, Krông Năng, M’Đrắk, Lắk. Hiện tại, 8 trạm đã đi vào hoạt động ổn định và cung cấp thông tin 8  thông số bức xạ nhiệt độ, độ ẩm không khí, lượng mưa, tốc độ gió, hướng gió, độ ướt lá-mô hình bệnh, độ ẩm 2 tầng đất 20-40 cm theo giờ (có thể đặt 15 – 20 – 30 phút). Dựa vào những thông số này có thể tổng hợp, xây dựng bản đồ nhiệt, mưa, hạn tiến tới bản đồ lũ lụt, cháy rừng, bệnh cây trồng.
+Trạm thời tiết thông minh tại Viện Khoa học kỹ thuật Nông lâm nghiệp Tây Nguyên
+Trạm thời tiết thông minh iMetos có thể cung cấp số liệu thời tiết trong vòng bán kính 5-25 km (tùy địa hình) liên tục 24/24 giờ (mỗi giờ phát 1 lần qua Internet) và lưu trữ số liệu qua Excel; dự báo thời tiết sâu bệnh 24-144 giờ (1-6 ngày); lượng mưa và thời gian mưa (bắt đầu, kết thúc, báo động lượng mưa quá ngưỡng); nhiệt độ cực đoan (nóng, lạnh, rét đậm, rét hại, sương muối)… 
+Thanh Hường
+ 

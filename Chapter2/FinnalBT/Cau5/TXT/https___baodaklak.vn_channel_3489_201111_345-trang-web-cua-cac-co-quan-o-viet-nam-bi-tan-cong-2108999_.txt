@@ -1,0 +1,6 @@
+345 trang web của các cơ quan ở Việt Nam bị tấn công
+10:29, 11/11/2011
+Theo Công ty An ninh mạng Bkav, trong tháng 10 đã có 345 website của các cơ quan, doanh nghiệp tại Việt Nam bị hacker xâm nhập, trong đó có 9 trường hợp bởi hacker trong nước, 336 trường hợp do hacker nước ngoài gây ra. Trong tháng 10 đã có 3.582 dòng virus máy tính mới xuất hiện tại Việt Nam, làm lây nhiễm gần 4,5 triệu lượt máy tính.
+Virus lây nhiều nhất trong tháng qua là W32.Sality.PE, đã lây nhiễm trên 391.000 lượt máy tính. Điều nguy hiểm là khi người sử dụng diệt virus, file chứa mã độc được loại bỏ, nhưng người dùng sẽ không thấy các thư mục dữ liệu nữa và nghĩ rằng chúng đã bị xóa mất. Thực tế, các thư mục chứa dữ liệu bị virus làm ẩn đi, thay vào đó là các file chứa mã độc. Các file này cố tình sử dụng biểu tượng của một thư mục (folder) với tên giống thư mục đã bị ẩn đi để đánh lừa người dùng. Do đó, khi mở thư mục, thay vì bấm chuột vào thư mục chứa dữ liệu (lúc này đã bị ẩn đi), người dùng sẽ bấm nhầm vào file virus khiến chúng được kích hoạt và lây lan vào máy tính.
+K.B
+ 

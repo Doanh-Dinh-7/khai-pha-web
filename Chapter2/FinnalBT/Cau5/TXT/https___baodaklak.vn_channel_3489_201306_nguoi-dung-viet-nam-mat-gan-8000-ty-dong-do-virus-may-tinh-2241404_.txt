@@ -1,0 +1,14 @@
+Người dùng Việt Nam mất gần 8.000 tỷ đồng do virus máy tính
+08:43, 05/06/2013
+Công ty An ninh mạng Bkav cho biết, thiệt hại do virus máy tính tại Việt Nam hiện nay vẫn ở mức cao, trong vòng 12 tháng qua, người sử dụng đã phải chịu tổn thất lên đến gần 8 nghìn tỷ đồng. Kết quả được đưa ra từ chương trình khảo sát do Bkav thực hiện vào tháng 4-2013.
+
+Theo Bkav, con số này tuy thấp hơn nhiều so với mức thiệt hại do tội phạm mạng tại các nước phát triển, nhưng là một thiệt hại rất lớn đối với người sử dụng tại Việt Nam. Số liệu tại Việt Nam được tính dựa trên mức thu nhập của người sử dụng máy tính và thời gian công việc của họ bị gián đoạn do các trục trặc gây ra bởi virus máy tính.
+Thiệt hại do virus máy tính tại Việt Nam hiện nay vẫn ở mức cao. Ảnh minh họa
+Theo đó, bình quân mỗi người sử dụng máy tính tại Việt Nam đã bị thiệt hại 1.354.000 đồng/năm. Với ít nhất 5,9 triệu máy tính (theo Sách Trắng về Công nghệ Thông tin – Truyền thông 2012) đang được sử dụng trên cả nước thì mức thiệt hại do virus gây ra mỗi năm lên tới gần 8.000 tỷ đồng.
+
+Cũng trong nghiên cứu này, các chuyên gia Bkav cho biết, nguy cơ  nhiễm mã độc từ USB có xu hướng tăng trở  lại. Với 93% người dùng thừa nhận ổ đĩa USB của mình đã bị nhiễm virus ít nhất một lần trong 12 tháng qua, tăng 5% so với năm ngoái, USB tiếp tục là phương tiện phát tán ưa thích của virus. Nguy cơ này sẽ còn tiếp tục tăng cao vì sự xuất hiện của mã độc W32.UsbFakeDrive mà hệ thống giám sát virus của Bkav đã phát hiện hồi cuối tháng 3-2013. Đây là loại virus có khả năng lây lan bùng phát chỉ với thao tác đơn giản là mở ổ đĩa của người dùng.
+
+Trước đây, các dòng virus AutoRun phát tán với tốc độ chóng mặt khiến Microsoft buộc phải cắt bỏ tính năng AutoRun đối với USB từ Windows 7 và trên cả Windows XP phiên bản cập nhật. Tuy nhiên, với sự xuất hiện của W32.UsbFakeDrive, các chuyên gia nhận định đây sẽ là mã độc thay thế các dòng AutoRun này.
+
+Bkav cho biết, trong tháng 5 vừa qua đã có 2.638 dòng virus máy tính mới xuất hiện tại Việt Nam. Các virus này đã lây nhiễm trên 4.235.000 lượt máy tính. Virus lây nhiều nhất trong tháng qua là W32.Sality.PE đã lây nhiễm trên 344.000 lượt máy tính. Trong tháng 5, đã có 425 website của các cơ quan, doanh nghiệp tại Việt Nam bị hacker xâm nhập, trong đó có 9 trường hợp gây ra bởi hacker trong nước, 416 trường hợp do hacker nước ngoài.
+N.X (nguồn SGGP)

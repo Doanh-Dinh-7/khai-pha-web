@@ -1,0 +1,21 @@
+Những phát minh mới tiện ích cho cuộc sống
+15:05, 11/02/2023
+Công nghệ mới chẩn đoán bệnh bằng cách “đếm” tế bào chết trong máu
+Theo THX, các nhà khoa học Israel vừa phát triển công nghệ di truyền có thể phát hiện tổn thương trong các hệ cơ quan chính của cơ thể bằng cách xác định các tế bào chết trong máu. Đây là nghiên cứu của Đại học Hebrew và Trung tâm Y tế Hadassah ở Jerusalem phối hợp thực hiện.
+Nghiên cứu dựa trên việc xác định một quá trình sinh học, được gọi là methyl hóa, trong các đoạn DNA có nguồn gốc từ các tế bào chết và trôi nổi trong máu. Công nghệ mới này có thể được sử dụng để chẩn đoán các thiệt hại đối với hệ thống miễn dịch, máu, hô hấp và tim; đặc biệt, phát hiện nhanh ung thư, bệnh gan, bệnh Alzheimer và các chứng bệnh nan y khác.
+Cho đến nay, các nhà khoa học vẫn phải đánh dấu thủ công tế bào trông còn sống và tế bào nào trông đã chết dưới kính hiển vi. Cách làm thủ công này vừa chậm, vừa tốn kém mà dễ bị lỗi. Nay nhờ công nghệ methyl hóa, việc xác định tế bào chết trở nên dễ dàng và chính xác hơn.
+Robot thu hoạch ớt năng suất cao
+Nhật Bản hiện đang thiếu hụt nhân lực trầm trọng trong lĩnh vực nông nghiệp. Để khắc phục tình trạng này, các kỹ sư hãng Agrist đã nghiên cứu phát triển thành công một loại robot mới có tên L. Sản phẩm vừa được trao Giải thưởng Sáng tạo tại Hội chợ Điện tử tiêu dùng 2022 (CES).
+Robot thu hoạch ớt năng suất cao
+Thay vì lăn trên bánh xe hoặc đi bằng chân, L di chuyển giữa các hàng cây ớt trên những sợi dây dày phía trên, giống như một chiếc thuyền nằm ngang. Khi thực hiện kiểm tra cây trồng hằng ngày, nó sử dụng nhiều loại máy ảnh cùng với thuật toán thị giác máy tính dựa trên trí tuệ nhân tạo (AI) để phát hiện ớt chín giữa các tán lá. Khi xác định được quả chín, L dùng cánh tay duy nhất của mình và sử dụng một công cụ hái chuyên dụng cắt cuống, sau đó thả vào ngăn chứa. Để giữ cho ngăn không bị đầy, robot thường xuyên dừng phía trên một giỏ riêng biệt, sau đó trượt mở đáy ngăn, cho phép ớt đã gom rơi vào giỏ để nhân công lấy ra.
+L có khả năng làm việc liên tục tới 12 giờ một ngày, miễn là có ánh sáng để nó nhìn thấy quả. Theo Agrist, việc sử dụng công nghệ này sẽ cho phép nông dân tăng năng suất khoảng 20%. Agrist cũng đang lên kế hoạch thành lập các trang trại được thiết kế đặc biệt hợp với robot L.
+Máy kéo chạy bằng phân bò
+Hãng máy kéo Cornish Bennamann (CB) có trụ sở tại thị trấn Newquay (Anh) vừa giới thiệu mẫu máy kéo thân thiện với môi trường, có thể góp phần chống biến đổi khí hậu thông qua việc dùng nhiên liệu sạch. Chiếc máy có tên T7 Methane Power LNG (gọi ngắn T7) chạy bằng nhiên liệu khí methane sinh học lỏng, thu được từ quá trình xử lý phân bò. Trong thời gian chạy thử kéo dài một năm, T7 đã giúp giảm lượng khí thải CO2 của một trang trại từ 2.500 tấn xuống còn 500 tấn.
+Máy kéo T7 có công suất 270 mã lực chạy bằng phân bò đột phá được cho là hoạt động ngang bằng với các loại máy chạy bằng động cơ diesel thông thường.
+Máy kéo chạy bằng phân bò
+Dao mổ "ngửi” thấy khối u ung thư
+Đại học Hoàng gia London, Anh (UCL) vừa phát triển thành công thiết bị đột phá có thể chẩn đoán ung thư tử cung trong giây lát, đó là dao mổ iKnife. Nó có thể “ngửi” thấy khối u ung thư trong tích tắc, đặc biệt là ung thư nội mạc tử cung, căn bệnh phổ biến thứ tư ở phụ nữ tại Anh hiện nay. Do căn bệnh này không hề có dấu hiệu nhận biết nên trước đây chỉ khoảng 10% trường hợp nghi mắc bệnh được sinh thiết và phát hiện kịp thời.
+iKnife của UCL thực chất là thiết bị thường được sử dụng để điều trị ung thư vú và ung thư não, giờ đây có thêm chức năng tìm kiếm các tế bào ung thư bằng cách phân tích khói tỏa ra từ mô sinh thiết tử cung. Phương pháp này nhanh và dễ thực hiện hơn các phương pháp truyền thống. iKnife có độ chẩn đoán ung thư nội mạc tử cung cao tới 89%, thời gian trong vòng vài giây. Kết quả trên dựa vào nghiên cứu thử nghiệm dùng iKnife cho 150 phụ nữ nghi mắc ung thư tử cung sau đó so sánh với thủ thuật chẩn đoán truyền thống.
+Ung thư tử cung có triệu chứng nan y là chảy máu sau mãn kinh, khi có dấu hiệu này người ta mới đi khám nhưng phải chờ tới 3 tuần mới có kết quả. Nay nhờ có dao iKnife, thời gian trên giảm xuống chỉ còn vài giây, cho phép những phụ nữ được xác nhận mắc bệnh ung thư bắt đầu điều trị sớm và nếu không mắc bệnh sẽ biết ngay mà không phải lo lắng chờ đợi nhiều tuần.
+Duy Nguyễn
+(Theo NAC/CN/IEC/Guardian- 1/2023)

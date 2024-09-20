@@ -1,0 +1,21 @@
+“Giảm tải” cho máy tính bằng những phần mềm chạy trên nền web
+19:28, 24/12/2011
+Máy tính chạy chậm do nhiều nguyên nhân và một trong những nguyên nhân chủ yếu là cài đặt quá nhiều phần mềm. Nhưng nếu không cài đặt thì không tiến hành được công việc. Do đó, vấn đề đặt ra là làm sao không cài phần mềm trên máy tính mà vẫn có thể giải quyết được công việc cần thiết. Đáp ứng nhu cầu đó, một số phần mềm chạy trên nền web ra đời. Sau đây là một số phần mềm như thế:
+1. Kiểm tra tốc độ đường truyền Internet: Trang web cho phép bạn kiểm tra tốc độ đường truyền Internet bằng cách gửi và nhận gói dữ liệu từ máy của bạn đến máy chủ và ngược lại trong một khoảng thời gian nhất định. Để kiểm tra bạn vào địa chỉ speedtest.net và bấm “Begin test” để bắt đầu kiểm tra, sau khi kiểm tra xong website sẽ đưa ra thông số về tốc độ download/upload của đường truyền bạn đang dùng.
+Địa chỉ: speedtest.net
+Tốc độ download của đường truyền thử nghiệm là 4.46Mbps và Upload là 0.50Mbps.
+2. Phần mềm kiểm tra cấu hình:
+Đây là trang web giúp bạn kiểm tra xem cấu hình máy có đáp ứng được yêu cầu của phần mềm trò chơi bạn định cài đặt hay không. Nó kiểm tra các thông số CPU, RAM, card màn hình, dung lượng đĩa cứng, card âm thanh… và đưa ra các khuyến cáo đối với bạn. Systemrequirementslab rất hữu ích đối với các game thủ thường chơi các trò chơi yêu cầu cấu hình cao.
+Địa chỉ: www.systemrequirementslab.com
+Hệ thống máy tính đáp ứng được đầy đủ về cấu hình của trò chời Dragon Age II
+3. Chỉnh sửa, biên tập ảnh:
+Website cho phép chỉnh sửa ảnh trực tuyến tương đối hoàn chỉnh. Bạn có thể chỉnh sửa những bức ảnh trên máy tính của bạn ngay trên trình duyệt mà không cần cài đặt bất cứ phần mềm nào. Nó có nhiều tính năng và hiệu ứng hay, phù hợp với công việc chỉnh sửa và biên tập ảnh.
+Địa chỉ: sumopaint.com/app/
+Sumopaint cung cấp nhiều hiệu ứng hữu ích trong việc chỉnh sửa, biên tập ảnh.
+  4. Bảng trắng trực tuyến:
+Dabbleboard là một công cụ bảng trắng trực tuyến và dễ sử dụng trong việc tạo ra sơ đồ công việc, sơ đồ mạng và nhiều thứ khác. Nó giống như một chiếc bảng phấn, bạn có thể viết, vẽ hay làm bất cứ thứ gì bạn muốn. Nó rất phù hợp với các cháu nhỏ thích khám phá.
+Địa chỉ: dabbleboard.com/draw
+5. Phần mềm thiết kế nhà, không gian sống:
+Homestyler cho phép bạn có thể thiết kế nhà và nội thất theo ý mình, từ việc dựng phần khung, tường bao, cửa … đến các đồ đạc trong nhà. Hơn nữa, với một thư viện phong phú gồm nhiều mẫu đồ đạc, thiết bị, cây cảnh đủ loại cho phép bạn tạo ra ngôi nhà và không gian sống theo ý tưởng. Ngoài ra, nó còn cho phép bạn quan sát căn phòng từ nhiều hướng trên nền không gian ba chiều. Ứng dụng của chương trình rất hữu dụng trong việc xây nhà, cho phép bạn thấy trước ngôi nhà mà bạn dự định xây.
+Địa chỉ: www.homestyler.com/designer
+Lương Nam Việt

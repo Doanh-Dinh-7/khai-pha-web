@@ -1,0 +1,8 @@
+Robot lái xe đạp Primer V2
+08:08, 06/12/2011
+Tại Triển lãm thương mại Robot iRex 2011 vừa tổ chức tại Tokyo (Nhật Bản), Masahika Yamaguchi đã giới thiệu tới khách tham quan mẫu robot có khả năng lái xe đạp một cách điêu luyện không kém gì con người, Primer-V2.
+  V2 có khả năng lái xe đạp và giữ thăng bằng chỉ đơn giản bằng cách điều khiển tay lái. Tại triển lãm, Yamaguchi đã trình diễn khả năng của V2 bằng một thiết bị điều khiển từ xa, Primer-V2 lái xe đạp vòng quanh iRex 2011 rồi dừng lại bằng cách đặt một chân xuống mà không cần dùng phanh, sau đó, vẫy tay chào mọi người rất vui vẻ.
+  Khả năng giữ thăng bằng của Primer-V2 chủ yếu nhờ vào bộ điều khiển PID (Proportional-Intelgral-Derivative) cổ điển, sử dụng rộng rãi trong các hệ thống điều khiển công nghiệp và hệ thống kiểm soát trong mô hình tiểu não nhân tạo cùng công nghệ con quay hồi chuyển để hoàn thiện khả năng giữ thăng bằng.
+  Primer-V2 cao 415 mm, dày 495 mm, trọng lượng 2,5 kg, ngoại hình khá nhỏ so với robot Murata Boy trước đây. Với chiếc xe đạp có đường kính lốp 195 mm, Primer-V2 có khả năng lái xe với tốc độ khoảng 10 km/h và có thể dễ dàng ôm cua 45°.
+G.T ( Dịch, tổng hợp)
+ 

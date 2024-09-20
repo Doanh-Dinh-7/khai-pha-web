@@ -1,0 +1,12 @@
+400 nghìn tài khoản Yahoo đã bị đánh cắp
+20:16, 13/07/2012
+Trong một tuyên bố trên blog công nghệ TechCrunch, Yahoo cho biết, khoảng 400 nghìn tài khoản Yahoo, tên và mật khẩu của công ty khác bị đánh cắp vào ngày 11-7.
+Yahoo nói rằng, họ đang sửa chữa sơ hở dẫn tới vụ ăn cắp trên, thay đổi mật khẩu của những người dùng bị ảnh hưởng và thông báo cho các công ty có tài khoản người sử dụng có thể đang được thỏa hiệp. Tuy nhiên, Yahoo không tiết lộ chi tiết số tài khoản được thỏa hiệp hay xác định những người và công ty bị ảnh hưởng.
+Ảnh minh họa
+Cuối ngày 11-7, một nhóm tin tặc có tên D33Ds Company đã công bố 453.492 tài khoản trên một trang web công cộng và cho rằng đây là việc làm “thức tỉnh” hơn là một sự đe dọa với Yahoo.
+  “Có những lỗ hổng an ninh trong các máy chủ của Yahoo và đã gây tổn hại lớn hơn người ta tưởng. Không nên coi thường chuyện này” – nhóm tin tặc viết ở cuối thông báo trên.
+  D33Ds cho biết thêm, một số thông tin nhạy cảm mà họ có không được đưa ra để tránh tổn hại lớn hơn.
+  Công ty an ninh TrustedSec cho biết nhóm tin tặc trên có thể là Yahoo Voices, một chi nhánh của Yahoo tập trung vào việc xuất bản trên mạng mà trước đây được gọi là Associated Content.
+  Giang Nam
+(Nguồn: Xinhua)
+ 

@@ -1,0 +1,8 @@
+7.500 máy tính tại Việt Nam bị nhiễm virus “chuyển phát nhanh”.
+19:11, 05/05/2011
+Thông tin từ Bộ phận an ninh mạng Công ty Bkav cho hay, tại Việt Nam, lượng thư rác mạo danh các hãng chuyển phát nhanh nổi tiếng thế giới như DHL, Post Express gửi tới người dùng e-mail tăng đột biến trong tháng 4. Các e-mail này có nội dung: “Bưu kiện đã được gửi đến nhà bạn, sau 3 ngày bạn sẽ nhận được thông tin và mã số biên nhận xem ở file đính kèm”. 
+
+Ảnh: minh họa
+Khi giải nén file đính kèm theo các thư điện tử này, người dùng thấy xuất hiện các file văn bản .doc hoặc file .pdf. Theo phân tích của các chuyên gia Bkav, thực chất đây chính là những mã độc ẩn dưới biểu tượng (icon) file .doc hoặc .pdf. Ông Vũ Ngọc Sơn, Giám đốc bộ phận nghiên cứu của Bkav (Bkav R&D) cho biết: “Hầu hết máy tính để chế độ mặc định không hiển thị đuôi file, hơn nữa icon của file lại là những file văn bản thông thường, do đó người sử dụng rất dễ bị mắc lừa”.
+Thống kê mới nhất của Bkav cho thấy: đã có 7.500 máy tính tại Việt Nam bị nhiễm virus “chuyển phát nhanh” này. Khi được kích hoạt, virus sẽ kiểm soát máy tính, đe dọa tống tiền hoặc biến máy tính bị nhiễm trở thành công cụ gửi spam đến các máy tính khác. Vì vậy, Bkav khuyến cáo người dùng máy tính nên thiết lập chế độ hiển thị đuôi file nhằm dễ phân biệt các file chứa mã độc, tốt nhất nên cài phần mềm diệt virus có bản quyền.
+Theo DĐDN

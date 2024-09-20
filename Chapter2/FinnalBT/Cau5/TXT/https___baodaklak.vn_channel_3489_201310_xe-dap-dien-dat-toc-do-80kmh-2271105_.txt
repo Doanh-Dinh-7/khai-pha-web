@@ -1,0 +1,9 @@
+Xe đạp điện đạt tốc độ 80km/h
+16:04, 25/10/2013
+Một chuyên gia người Nga tên là Ivan Talopov vừa chế tạo thành công một loại xe đạp điện thế hệ mới 2 motor tên là Desperado, có khả năng đạt tốc độ tới 80km/h.
+Xe đạp điện Desperado
+Desperado được xây dựng trên nền xe đạp điện do hãng Nirve ở California (Mỹ)  sản xuất, nhưng nó lại được Ivan Talopov cải tiến bằng cách lắp 2 motor ngoài kèm theo hộp số. Hai motor này là sản phẩm của hãng Headline Elictric sản xuất, kèm theo công tắc tiết lưu bên phải và trái cho phép điều khiển 2 motor  một cách độc lập nhau, hoặc cũng có thể điều khiển kết hợp cả hai qua một công tắc tiết lưu. Việc kết hợp 2 motor công suất 5kw đã giúp xe đạt tốc độ 50 dặm/h (hay 80km/h). Qua thử nghiệm đã đạt được các thông số kỹ thuật theo yêu cầu mong muốn.
+Desperado có thể đạt tốc độ lên tới 80km/h
+Nguồn điện cung cấp cho Desperado là ắcquy 20-Ah Lithium ion, thời gian nạp khoảng 2 giờ. Khi đủ điện xe có thể đi được quãng đường dài 80 km với tốc độ 30km/h và 25 km ở tốc độ 60 km/h. Các số liệu như dòng điện, điện áp, tốc độ, các thông số tích  hợp GPS được hiển thị lên điện thoại thông minh Android nếu được kết nối. Các chức năng chính trên được thực hiện bằng bảng điều khiển 5 nút nhấn kèm theo hệ thống chuyển số 8 tốc độ Himano Nexus SG-8R20, lắp ở moay-ơ sau. Xe nặng 43 kg, chi phí chế tạo hết 3.000 USD (khoảng 63 triệu đồng).
+Khắc Nam (Theo Gizmag-10/2013)
+ 

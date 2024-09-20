@@ -1,0 +1,27 @@
+Hãng Dell giới thiệu AIO Inspiron One 20 và One 23
+09:05, 30/05/2012
+Hãng máy tính khổng lồ của mỹ Dell vừa chính thức giới thiệu hai chiếc máy tính all-in-one (AIO) trong dòng Inspiron mang tên One 20 và One 23. Chữ số trong tên gọi của Inspiron One 20 và One 23 được dùng để thể hiện cho kích cỡ màn hình. Với One 23, khách hàng có các tuỳ chọn CPU Intel Core i3-2120 3.3Ghz hay mạnh nhất là Core i7-3770. Dell trang bị cho máy dung lượng bộ nhớ chuẩn là 500GB nhưng người dùng có thể nâng cấp lên tối đa 2TB.
+Được bán ra với giá bắt đầu từ 749USD, Inspiron One 23 sẽ có hai tuỳ chọn về CPU gồm Sandy Bridge hoặc Ivy Bridge trong khi với One 20, có giá khởi điểm là 549USD, người mua chỉ có một lựa chọn là Sandy Bridge. Người mua Inspiron One 20 sẽ có một tuỳ chọn CPU duy nhất là Sandy Bridge với G620T hai nhân hoặc Core i3-2120T 2.6Ghz. Cổng USB 3.0 không xuất hiện trên One 20 khi nó có tới 5 cổng USB 2.0, HDD chuẩn 500GB, màn hình 1600 x 900 điểm ảnh. Dell hiện đã bán ra One 20 và One 23 tại châu Á trong khi tại Mỹ là những tuần sắp tới.
+Cấu hình chi tiết Dell Inspiron One 20:
+Intel Sandy Bridge
+GPU Intel HD 2000
+Màn hình 20" 1600 x 900 điểm ảnh WLED
+RAM chuẩn 2GB, tuỳ chọn lên tới 6GB
+HDD 500GB chuẩn, tuỳ chọn 1TB 7200rpm
+Ổ DVD, tuỳ chọn Blu-ray
+Loa Waves MaxxAudio 3
+Webcam HD
+Cài sẵn Windows 7 Home Premium
+5 cổng USB 2.0, HDMI, tuỳ chọn TV Tuner
+Cấu hình chi tiết Dell Inspiron One 23:
+Intel Sandy Bridge hoặc Ivy Bridge (Core i3-2120 3.3GH/Core i5-2400 3.3Ghz/Core i7-3770)
+GPU Intel HD 4000 chuẩn, tuỳ chọn AMD Radeon HD 7650A 1GB
+Màn hình 23" Full-HD WLED
+RAM 2GB chuẩn, tuỳ chọn 8GB
+HDD 500GB chuẩn, tuỳ chọn 2TB 7200rpm
+Ổ DVD, tuỳ chọn Blu-ray
+Âm thanh Waves MaxxAudio 3
+Webcam HD
+Cài sẵn Windows 7 Home Premium
+4 cổng USB 3.0, 2 cổng USB 2.0, HDMI, tuỳ chọn TV Tuner
+G.T (Tổng hợp)

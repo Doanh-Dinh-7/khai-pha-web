@@ -1,0 +1,15 @@
+Quản lý thời gian sử dụng máy tính và Internet với Child Control
+08:44, 09/12/2011
+  Ngày nay, Internet và máy tính là một công cụ không thể thiếu đối với hầu hết mọi người, trong đó đối với cả trẻ em. Nó không chỉ giúp con trẻ tiếp cận với sự phát triển của công nghệ thông tin, qua đó làm tăng tính nhạy bén và sự hiểu biết của trẻ mà còn giúp trẻ học tập, giải trí. Tuy nhiên, nếu không quản lý tốt thời gian sử dụng máy tính hay Internet của trẻ, thì nó lại là con dao 2 lưỡi, biến con bạn thành một “con nghiện mạng”. Vì vậy, kiểm tra, kiểm soát trẻ sử dụng máy tính hay truy cập Internet là điều hết sức cần thiết. Child Control sẽ giúp bạn giải quyết các vấn đề trên.
+Bạn có thể download phần mềm Child Control tại địa chỉ http://www.salfeld.com. Phần mềm có dung lượng 19MB nên thời gian download chỉ mất một vài phút với đường truyền ADSL.
+Giao diện chính của Child Control
+Phần mềm có rất nhiều tính năng, trong đó có một số tính năng chủ yếu sau:
+Time limits: Tab này có 2 tap con là: “Time limits” và “Blocked Times”. Time limits: dùng để giới hạn thời gian sử dụng máy tính và truy cập Internet. Trong đó “PC Time Limit Enable” dùng để giới hạn thời gian sử dụng máy tính; “Internet Time Limit Enable” giới hạn thời gian sử dụng Internet. Bạn có thể sử dụng tính năng này để kiểm soát lượng thời gian sử dụng máy tính của con trẻ trong một ngày, tuần, tháng. Blocked Times: dùng để hạn chế khoảng thời gian con trẻ sử dụng máy tính và truy cập Internet.
+Internet Filter: chính là bộ lọc Internet, bao gồm “Internet Filter disable”: tắt tính năng lọc; “Internet Filter – unwanted websites/URL will be filter”: lọc các trang web không mong muốn (chặn những trang web thiếu lành mạnh); “Internet Filter – Only allowed Websites accessible”: những trang web được phép truy cập; “Internet Filter – No Internet Allowed”: chặn việc truy cập Internet.
+Tab Internet Filter giúp ngăn chặn các trang web thiếu lành mạnh một cách hiệu quả
+Programs: kiểm soát việc sử dụng chương trình, phần mềm. Trong tab này, bạn có thể thiết lập những phần mềm nào cài trên máy bạn được phép chạy và những phần mềm nào bị cấm, cũng như thiết lập thời gian cho phép chạy chương trình phần mềm.
+Security: gồm “Windows security” và “Folders security”. Trong đó, “Windows security” dùng để vô hiệu hoá các tính năng của hệ điều hành như: Control Panel, Task Manager, Registry…. Qua đó nâng cao khả năng bảo mật của hệ thống. Ngoài ra còn có tính năng ẩn các phân vùng của đĩa cứng. “Folders security” dùng để thiết lập an ninh cho các thư mục chứa các thông tin quan trọng trong máy tính của bạn.
+Bảo vệ máy tính an toàn hơn bằng cách tắt các tính năng của hệ điều hành mà không làm ảnh hưởng tới sự vận hành của máy tính
+Ngoài các tính năng chủ yếu trên, còn có một số tính năng hữu dụng khác. Đặc biệt, Child Control cho phép thiết lập các cấu hình khác nhau trên mỗi Account (nếu máy tính có nhiều Account) hoặc toàn bộ máy tính.
+Nam Lương
+   

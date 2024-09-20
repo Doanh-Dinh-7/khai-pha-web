@@ -1,0 +1,10 @@
+Nhật Bản chế tạo Rô-bốt hình người làm hướng dẫn viên
+15:27, 22/02/2012
+Các kỹ sư Nhật Bản đã chế tạo được một loại rô-bốt hình người có thể đóng vai trò người hướng dẫn tại văn phòng hoặc các cơ sở công cộng.
+  Rô-bốt này do công ty Hitachi chế tạo có một bộ phận cảm ứng cho phép phân biệt được hình dạng của vật mà rô-bốt nhìn thấy. Ngay lập tức, rô-bốt sẽ xác định được vật mà nó nhìn thấy là cái gì bằng cách so sánh với 100 triệu hình ảnh ghi nhớ trong cơ sở dữ liệu của mình.
+Ảnh minh họa. Nguồn: Internet
+Rô-bốt này cũng có khả năng nhận ra giọng nói. Khi có người nói với rô-bốt nơi nào đó thì rô-bốt sẽ hướng dẫn họ tới nơi cần đến bằng cách lựa chọn những hình ảnh do máy ảnh bên trong toà nhà chụp lại.
+  Các công ty Nhật Bản đang cạnh tranh gay gắt trong việc chế tạo rô-bốt hình người. 
+  Công ty Honda đang chế tạo một rô-bốt có thể đi thẳng đứng còn công ty Toyota và công ty Fujitsu cũng đang nghiên cứu trong lĩnh vực này.
+  Giang Nam
+(Nguồn: NHK World)

@@ -1,0 +1,22 @@
+Những phát minh giúp kiểm soát dịch Covid-19
+06:34, 17/05/2020
+Bộ xét nghiệm kháng thể Covid-19 chính xác gần 100%
+Trung tuần tháng 4-2020, Công ty công nghệ sinh học ZenTech ở Liege, Bỉ đã bắt đầu sản xuất các bộ xét nghiệm mới có thể phát hiện nhanh kháng thể chống lại sự lây nhiễm vi rút SARS-CoV-2, thủ phạm gây bệnh viêm đường hô hấp cấp Covid-19. Bộ xét nghiệm nói trên có tiến độ nhanh, chỉ mất 10 - 15 phút với độ nhạy gần như 100%. Hiện nó đã được Chính phủ Bỉ cấp phép, có tên bộ xét nghiệm phát hiện nhanh kháng thể vi rút SARS-CoV-2.
+ Tuy nhiên, nó chỉ dùng cho các chuyên gia y tế, trước hết là ở Bỉ, EU chứ không dùng tại nhà bởi việc đọc kết quả không đơn giản. Đây là công cụ quan trọng trong việc xác định những người mắc Covid-19, đặc biệt là những người không có biểu hiện, có thể miễn dịch với căn bệnh nguy hiểm này, ít nhất là trong một khoảng thời gian nhất định. Nó khắc phục tình trạng phải cách ly quá lâu và đóng vai trò quan trọng bảo vệ các nhân viên ở tuyến đầu chống dịch.
+Vòng đeo tay nhắc nhở hạn chế nhiễm Covid-19
+Để giúp mọi người hạn chế nhiễm vi rút SARS-CoV-2, Công ty Slightly Ro-bot của Mỹ vừa cho ra đời vòng đeo tay thông minh có tên Immutouch có chức năng nhắc nhở người đeo hạn chế sờ tay lên gần mặt, mắt mũi để ngăn ngừa vi rút thâm nhập vào cơ thể. Theo đó, mỗi khi người dùng xuất hiện ý muốn đưa tay lên mặt, vòng Immutouch sẽ rung lên cảnh báo dừng ngay sự thôi thúc này lại.
+Vòng đeo Immutouch được trang bị gia tốc kế với độ nhạy cao, có khả năng cảm nhận chuyển động tay của người đeo 10 lần mỗi giây. Ngoài nhắc nhở mọi người không đưa tay lên mặt, Immutouch còn giúp cảnh báo người dùng hạn chế những thói xấu khác như cắn móng tay, mút móng tay (ở trẻ nhỏ).
+Công nghệ biến nước máy thành chất sát khuẩn diệt vi rút
+Các chuyên gia ở Đại học Ben Gurion (BGU), Israel vừa phát minh công nghệ giúp biến nước máy thành chất sát khuẩn diệt vi rút Corona chủng mới. Loại nước sát khuẩn này có khả năng vô hiệu hóa hoàn toàn vi rút Corona OC43 ở người – loại vi rút có cấu trúc tương tự vi rút gây bệnh Covid-19 hiện nay.
+Theo BGU, nước sát khuẩn mới này an toàn khi sử dụng nên rất phù hợp dùng trong các bệnh viện, nhà trẻ hay những nơi tương tự khác. Các vật dụng phòng dịch như khẩu trang hay găng tay cũng có thể sát khuẩn được bằng loại nước nói trên để dùng lại. Nó cũng có thể dùng để khử trùng quần áo, điều hòa không khí, tay nắm cửa, rèm cửa, các bề mặt và giường chiếu.
+Tia cực tím đặc biệt tiêu diệt vi rút SARS-CoV-2
+Đại học Columbia (UoC), Mỹ hiện đang thực hiện nghiên cứu mới phát triển loại đèn LED sử dụng tia cực tím đặc biệt khử trùng bề mặt nhằm giảm sự lây lan của vi rút SARS-CoV-2.
+Hệ thống máy móc nghiên cứu tạo ra tia UV-C giúp tiêu diệt tới 99% vi rút gây bệnh.
+Theo nhóm nghiên cứu, sản phẩm đèn LED UV từng được áp dụng để khử trùng nội thất trong ô tô với bước sóng thích hợp. Tia UV-C phù hợp với công nghệ khử trùng hiện tại song vẫn có hại cho da người, do đó UV-C chỉ sử dụng vào thời điểm không ai có mặt tại nơi khử trùng. Tuy nhiên, có một loại tia cực tím đặc biệt gọi là tia cực tím tầm xa (far-UVC light) có tác dụng tiêu diệt mầm bệnh mà không gây hại cho con người, không nguy hiểm cho tế bào da. Vì vậy, các chuyên gia Mỹ đang kêu gọi sử dụng loại bức xạ này để bảo vệ con người trước nguy cơ nhiễm Covid-19.
+Kháng thể của lạc đà không bướu giúp kiểm soát Covid-19
+Kháng thể trong máu lạc đà không bướu từ lâu đã được chứng minh là có hiệu quả chống lại hội chứng hô hấp Trung Đông, hay MERS và SARS (dịch bệnh cũng có liên quan đến Covid-19). Nay các nhà khoa học lại phát hiện thấy chồn bị nhiễm Covid-19 dùng kháng thể của lạc đà không bướu có thể trung hòa được vi rút SARS-CoV-2.
+Kháng thể của lạc đà không bướu có thể giúp ngăn chặn dịch bệnh Covid-19
+Theo đó, khi các chuyên gia ở Viện Công nghệ sinh học Vlaams (VIB) ở Ghent (Bỉ) tiêm protein vi rút cho lạc đà không bướu (llamas) thì thấy có kháng thể liên kết protein vi rút VHH-72 vừa đủ bám chặt vào các protein bề mặt của vi rút SARS-CoV-2, có thể chặn việc lây nhiễm tế bào. Đặc biệt, dùng công nghệ di truyền liên kết 2 bản sao của VHH-72 khiến kháng thể gắn kết hiệu quả hơn trong việc trung hòa các protein tăng đột biến. Những kháng thể này có kích thước siêu nhỏ dạng nano, nhỏ hơn rất nhiều so với kháng thể ở người nên chúng nhắm chính xác vào các hạt vi rút siêu nhỏ một cách hiệu quả hơn.
+Nguyễn Khắc
+(Dịch từ DM/IC/THX/DM/Time/DM/LC- 4 và 5/2020)
+ 

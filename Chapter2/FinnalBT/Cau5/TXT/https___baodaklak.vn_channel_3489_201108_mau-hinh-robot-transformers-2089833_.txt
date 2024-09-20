@@ -1,0 +1,8 @@
+Mẫu hình robot “Transformers”
+17:10, 19/08/2011
+Các nhà nghiên cứu của trường Đại học Minnesota (Mỹ) đang phát triển một mẫu hình robot di chuyển trên mặt đất và khi cần nó sẽ biến hình thành một máy bay thực thụ để bay trên không.
+Trạng thái di chuyển
+Với các robot thiết kế để di chuyển có ưu thế về thời gian hoạt động nhưng dễ gặp trở ngại ở những địa hình khó, thì các robot bay lại dễ dàng khắc phục được nhược điểm đó, bù lại thời gian hoạt động của chúng không được dài bằng. Vì thế, mẫu robot biến hình của các nhà nghiên cứu trên không những kết hợp được ưu điểm mà còn khắc phục được nhược điểm của mỗi loại robot. Robot có thể di chuyển bình thường, nhưng khi cần bay thì nó biến hình và cất cánh như một chiếc máy bay trực thăng đồng trục.
+Trạng thái cất cánh
+Đây chỉ là robot hình mẫu vì nó mới ở giai đoạn rất sơ khai tuy nhiên thiết kế bên trong nó cực kỳ phức tạp. Để chế tạo phần khung gập các nhà khoa học đã tiêu tốn hết 20.000 $. Trong tương lai các nhà khoa học hy vọng loại robot này sẽ được dùng nhiều trong công tác cứu hộ dài ngày ở những nơi có địa hình phức tạp.
+G.T ( Dịch, tổng hợp)

@@ -1,0 +1,20 @@
+Những phát minh mới thời COVID-19
+07:33, 12/09/2021
+Sô cô la đen giúp tăng cường khả năng miễn dịch 
+Để kiểm soát dịch COVID-19, Chính phủ Ấn Độ vừa công bố hướng dẫn mới về cách tăng cường miễn dịch cho cơ thể. Hướng dẫn nêu rõ hoạt động thể chất thường xuyên như yoga và tập thở cho đến các loại thực phẩm hữu ích, đặc biệt là sô cô la đen, cá, trứng... 
+Theo nghiên cứu của các nhà khoa học Ấn Độ, bệnh COVID-19 thường làm cho con người mất vị giác, khứu giác, khó ăn, khó nuốt nên điều quan trọng là phải ăn thức ăn mềm, tăng cường sữa nghệ mỗi ngày. Đặc biệt, hướng dẫn đã đề cập đến ăn sô cô la đen hay thẫm màu, nhất là loại có chứa ít nhất 70% ca cao. Sô cô la tốt cho sức khỏe vì được làm từ những hạt của cây cacao sấy khô và nghiền nhỏ. Sô-cô-la có tác dụng tăng cường miễn dịch, tốt cho hệ tuần hoàn, kháng ung thư, kích thích não, trị bệnh ho và chống tiêu chảy.
+Sô cô la đen có tác dụng tăng cường hệ miễn dịch.
+Ứng dụng làm việc từ xa thực tế ảo thời COVID-19
+Công ty Truyền thông xã hội và Công nghệ Mỹ Facebook Inc. vừa trình làng phiên bản thử nghiệm ứng dụng làm việc từ xa thực tế ảo có tên Workroom giúp người dùng có thể sử dụng tai nghe không dây thực tế ảo (VR) Oculus Quest 2 để tổ chức các cuộc họp dưới dạng phiên bản hình ảnh đại diện của chính mình. Workroom là công cụ “tình thế” giúp con người làm việc trong bối cảnh phải cách ly do dịch bệnh COVID-19. Theo Facebook, đây là bước đi mở đầu trong việc xây dựng một vũ trụ kỹ thuật số (Metaverse) mà nhà sáng lập Facebook Mark Zuckerberg tiết lộ gần đây.
+Workroom - ứng dụng làm việc từ xa thực tế ảo.
+
+Với Workroom, người dùng có thể làm việc tại nhà, tham gia vào phòng họp thực tế ảo, chia sẻ tài liệu trong khi vẫn sử dụng máy tính và bàn phím vật lý ngoài đời thực. Ứng dụng cho phép tối đa 16 người cùng sử dụng thiết bị VR và tổng cộng lên đến 50 người bao gồm cả những người tham gia hội nghị truyền hình...
+Diệt Corona virus bằng ánh sáng đèn LED
+Viện Khoa học kỹ thuật và công nghệ Ghulam Ishaq Khan (GIKI) Pakistan vừa phát triển thành công kỹ thuật mới để diệt Corona virus bằng ánh sáng đèn LED. Chính xác hơn là bằng các bước sóng cụ thể thông qua đèn LED để vô hiệu hóa vi rút SARS-CoV-2, thủ phạm gây bệnh COVID-19 hiện đang bùng phát tại nhiều nơi trên thế giới.
+Nghiên cứu trên vừa được công bố tại Hội nghị trực tuyến AIP Publishing Horizons - Lưu trữ và Chuyển đổi năng lượng, được tổ chức đầu tháng 8-2021. Theo báo cáo, các nhà khoa học đã thiết kế đèn LED tia cực tím xa (đèn LED UV-C) ở bước sóng nhắm mục tiêu là 222 nanomet, bước sóng này được chọn vì khả năng vô hiệu hóa vi rút và an toàn đối với con người. Mô hình thiết kế của GIKI dựa trên vật liệu nhôm gali nitride, một phần cụm vật liệu gọi là III-nitride vừa hiệu quả, rẻ tiền và thân thiện với môi trường. Đèn LED UV-C III-nitride thích hợp để khử trùng thiết bị y tế, thiết bị bảo vệ cá nhân cùng các vật dụng cá nhân như điện thoại, bút và có thể dễ dàng tích hợp vào các ứng dụng lâm sàng.
+Mũ bảo hiểm thông minh “nhìn được” cả phía sau
+Beyond - một startup Mỹ ở New York đã phát triển loại mũ bảo hiểm có tên Classon dành cho người tham gia giao thông. Classon được trang bị cảm biến, gắn đèn và camera giúp phát hiện phương tiện tiến tới từ phía sau. Nó giúp cảnh báo cho người lái khi không thể quan sát ở phía sau trong quá trình đang điều khiển phương tiện. 
+Classon nặng 58 gram, chịu nước phun từ nhiều hướng với áp lực thấp. Ngoài ra, Classon còn được trang bị đèn chiếu sáng phía trước, phía sau, đèn LED xinhan ở cả trước lẫn sau. Cụm thiết bị điện tử này được kết nối với hai bộ xử lý 1,2 GHz, hoạt động nhờ vào năng lượng từ pin Lithium với dung lượng 2.800 mAh. Thời gian sạc đầy 60 phút, hoạt động tối đa 4 tiếng.
+Bộ nhớ trong của mũ bảo hiểm lưu được video dài khoảng 6 giờ. Khi camera phát hiện một phương tiện đang tiến tới từ phía sau, trong điểm mù của người điều khiển phương tiện, mũ sẽ phát cảnh báo qua đèn LED nhấp nháy gắn ở lưỡi phía trước mũ.
+Nguyễn Duy 
+(Dịch từ IEC/Reuters/SDC/CDC/NAC/NAC- 8/2021)

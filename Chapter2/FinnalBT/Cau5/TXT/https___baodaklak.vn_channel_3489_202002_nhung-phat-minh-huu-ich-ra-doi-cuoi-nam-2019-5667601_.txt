@@ -1,0 +1,23 @@
+Những phát minh hữu ích ra đời cuối năm 2019
+09:39, 02/02/2020
+Giải pháp kiểm tra ô nhiễm thực phẩm tại chỗ
+  Hãng Inspecto Ltd của Israel vừa phát triển thiết bị có tên Inspecto dùng để kiểm tra, cung cấp thông tin nhanh chóng và chính xác về các chất gây ô nhiễm hoặc dị ứng có trong thực phẩm.
+  Chìa khóa của Inspecto là dùng quang phổ Raman để phát hiện chất gây ô nhiễm ở cả dạng lỏng và rắn thông qua các viên nang Inspecto. Quang phổ này thường được sử dụng trong ngành hóa học để cung cấp dấu vân tay cấu trúc mà qua đó các phân tử có thể được xác định. Inspecto có thể dùng để kiểm tra các chất gây ô nhiễm trong thực phẩm dạng hạt, như gạo, mì, đậu đỗ... hay cà phê.
+  Thịt nuôi trồng trong... không khí
+  Một doanh nghiệp khởi nghiệp ở San Francisco (Mỹ) có thể sản xuất được thịt từ không khí: thịt Air Protein. Thịt này được sản xuất bằng cách chuyển hóa khí thải thành thức ăn nhờ các vi khuẩn hydrogenotrophic tổng hợp ra tế bào sợi từ khí CO2, giống quá trình lên men làm sữa chua hoặc ủ men bia.
+  Tóm tắt kỹ thuật này như sau: trong các bình ủ men có vi khuẩn, khí CO2 cùng với nước và nhiều khoáng chất được đưa vào. Sản phẩm thu được là bột màu nâu nhạt chứa đến 80% protein nhưng không mùi vị.
+  Từ protein nguyên liệu người ta sẽ chế ra nhiều thực phẩm khác nhau dựa theo thành phần pha chế, có chứa các chất dinh dưỡng như thịt heo, thịt gà, nhân thịt cho các loại bánh khác nhau... Cả quá trình sản xuất thịt chỉ dùng hũ, bình kín nên không cần đến đất đai, chăn nuôi và vật thải gây hại cho môi trường.
+  Trạm dự báo thời tiết cá nhân
+  Trạm dự báo thời tiết cá nhân có tên Tempest sử dụng trí thông minh nhân tạo (AI) và hàng loạt các cảm biến để cung cấp thông tin thời tiết theo từng phút cho người sử dụng. Đây là sản phẩm của hãng Weather Flow (Mỹ) hiện đang gọi vốn trên Kickstarter để sớm đưa vào sản xuất đại trà. 
+  Trạm dự báo thời tiết cá nhân Tempest
+Tempest sử dụng năng lượng mặt trời, có thiết kế đơn giản dễ bảo trì, không có bộ phận chuyển động, gồm hàng loạt các cảm biến thu thập dữ liệu liên quan đến mưa, gió, ánh sáng, sét, nhiệt độ và áp suất. Thông tin thu được sẽ gửi đến trung tâm dữ liệu WeatherFlow để xử lý, phát hành các tin tức dưới dạng dự báo thời tiết trên ứng dụng đồng hành.
+  Thủy tinh dẻo, uốn cong nhưng không vỡ
+  Dr. Erkka Frankberg và các đồng nghiệp ở Đại học Tampere (Phần Lan) vừa nghiên cứu phát triển thành công một loại thủy tinh mới, dẻo như kim loại, có thể uốn cong như một thanh nhôm và không hề vỡ. Các nhà nghiên cứu đã sử dụng một kỹ thuật đặc biệt có tên lắng đọng xung laser để chuyển vật liệu alumina (Al2O3) sang một trạng thái giống thủy tinh.
+  Ở thủy tinh thông thường, lực đè sẽ khiến chúng vỡ ra trước khi các nguyên tử bắt đầu di chuyển, nhưng nghiên cứu trên lại khắc phục được nhược điểm này. Đó là một màng mỏng thủy tinh, đè thử nó dưới các áp lực cơ học mà không hề vỡ, dẻo như kim loại. Loại vật liệu này nếu thành công sẽ có ứng dụng rất lớn, như làm màn hình máy tính, điện thoại di động và nhiều thiết bị dân dụng khác.
+  Bẫy ADN phòng tránh sốt xuất huyết Dengue
+  Học viện Bách khoa Rensselaer (RPI) Mỹ vừa phát triển thành công một loại bẫy sốt xuất huyết từ ADN để giúp con người phòng tránh bệnh sốt xuất huyết Dengue hiện đang bùng phát, bằng cách phát hiện virus trong máu và bắt giữ nó trước khi lây nhiễm sang các tế bào.
+  Bẫy ADN làm việc ở cấp độ kích thước nano giống như bẫy thú rừng, được tạo ra bằng cách sử dụng công nghệ nano ADN cấu trúc để gấp các đoạn ADN nhỏ thành một ngôi sao năm cánh. Các phân tử mà điểm chốt virus sốt xuất huyết liên kết, gọi các aptamer, được gắn vào đỉnh của cấu trúc ngôi sao, nơi chúng chúng tạo thành hàng thẳng để virus sử dụng treo các tế bào chủ của chúng vào đó.
+  Virus sốt xuất huyết bị cuốn hút và gom lại trong cấu trúc ADN, không lây nhiễm sang các tế bào khác, nói cách khác là bị vô hiệu hóa. Cấu trúc ADN cũng sẽ phát sáng huỳnh quang khi virus bám vào, dễ dàng nhìn thấy dưới kính hiển vi để giúp bác sĩ chẩn đoán nhanh.
+  Khắc Duy
+(Dịch từ TST/CWC/GGC/CC/NSC/IDC- 11/2019)
+ 

@@ -1,0 +1,7 @@
+24 trang mạng của tỉnh bị hacker tấn công
+22:53, 19/08/2014
+Từ đầu năm đến nay, Sở Thông tin và Truyền thông phối hợp với Trung tâm Ứng cứu khẩn cấp máy tính của Bộ Thông tin và Truyền thông đã xử lý trên 14 trang mạng của cơ quan Nhà nước bị tin tặc (hacker) tấn công.
+  Ngoài ra, qua theo dõi của Bộ Công an, hiện tại còn 10 trang mạng của các cơ quan Nhà nước đã xuất hiện nhiều lỗi bảo mật nghiêm trọng nhưng chưa được khắc phục, đang hoạt động trong tình trạng mất an toàn, an ninh thông tin và thiếu độ bảo mật cao. Theo báo cáo của Ban Chỉ đạo Công nghệ Thông tin của tỉnh thì nguyên nhân chính dẫn đến tình trạng các trang web bị tấn công là do các đơn vị chưa thực sự quan tâm (hoặc chưa hiểu) đến vấn đề an toàn, an ninh thông tin trong ứng dụng công nghệ thông tin và hoạt động thông tin trên môi trường mạng; rất ít máy tính được trang bị phần mềm chống virus bản quyền và các phần mềm duyệt web chưa được cập nhật kịp thời bản vá lỗi hoặc nâng cấp phiên bản mới; đội ngũ cán bộ kỹ thuật để triển khai nhiệm vụ này còn thiếu, yếu về nghiệp vụ và chưa chuyên nghiệp…
+Không sử dụng chương trình diệt virut bản quyền nên nhiều máy tính dễ dàng bị virut xâm nhập và đánh cắp thông tin
+Được biết, hệ thống Cổng Thông tin điện tử, Thư điện tử công vụ của tỉnh được đầu tư sử dụng từ năm 2009 gồm có 7 máy chủ đang vận hàng tại Trung tâm Công nghệ thông tin và Truyền thông của tỉnh.
+Hoàng Gia

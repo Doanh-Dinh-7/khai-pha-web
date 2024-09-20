@@ -1,0 +1,10 @@
+SOFC - Máy phát điện ít gây ô nhiễm môi trường
+13:37, 11/08/2011
+Công ty Dantherm Power (Đan Mạch) đã phát triển loại máy phát điện có khả năng tích hợp nhiệt năng sử dụng oxít rắn và tạo ra năng lượng điện. Máy phát điện dạng SOFC (Solid Oxide Fuel Cell) sử dụng nguyên liệu là gas tự nhiên do đó thải ra rất ít chất ô nhiễm và có tính bảo vệ môi trường cao hơn những máy phát điện dùng dầu diesel truyền thống.
+  SOFC (còn có tên gọi khác là Micro CHP) tạo ra năng lượng điện trực tiếp từ nguồn nhiên liệu bị ôxy hóa, mỗi đơn vị SOFC được tính là một tấm kim loại mỏng và phẳng, tạo ra dòng điện khoảng 1V, nhưng khi xếp chồng nhiều tấm SOFC lại với nhau thì dòng điện ra sẽ có điện thế cao hơn rất nhiều.
+  Những tấm SOFC này hoạt động ở một nhiệt độ rất cao, theo lý thuyết hiệu suất tạo ra năng lượng điện có thể đạt tới con số 60%. Khi kết hợp cả nhiệt và năng lượng với nhau thì hiệu suất này còn cao hơn nữa. SOFC khi chạy thải ra rất ít khí Nitơ và Sulphua-Oxít nên không làm ô nhiễm môi trường nhiều.
+Ngoài việc sử dụng làm máy phát điện trong các hộ gia đình, người ta cũng có thể trang bị Micro CHP cho các tòa nhà cao tầng có sử dụng các công nghệ năng lượng xanh khác như năng lượng mặt trời, tua-bin gió để làm nguồn năng lượng thay thế mỗi khi về đêm hay trời không có gió.
+  Hiện tại thì công ty Dantherm Power đã làm ra một số lượng máy hạn chế để cung cấp cho các thợ hàn, thợ điện dùng thử và thu thập ý kiến. Mỗi máy này sẽ cung cấp 1 kW năng lượng điện và 1 kW năng lượng nhiệt. Từ năm 2012 đến 2015, công ty dự đoán sẽ có nhiều người sử dụng máy phát Micro CHP hơn nhờ vào giá thành hạ và mức độ hoàn thiện của sản phẩm.
+  Hiện Micro CHP sẽ dùng gas tự nhiên làm nhiên liệu tuy nhiên các nhà khoa học đang nghiên cứu để máy có thể dùng cả chất methanol, dầu lửa dạng lỏng và thậm chí cả nhiên liệu sinh học. Sản phẩm là kết quả hợp tác chung của công ty Topsoe Fuel Cell, phòng nghiên cứu Risø DTU (châu Âu) và công ty Dantherm Power.
+G.T ( Theo Gizmag)
+ 

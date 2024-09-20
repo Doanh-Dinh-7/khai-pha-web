@@ -1,0 +1,21 @@
+Khám phá các tiện ích của Google
+09:55, 05/12/2011
+Khi nói đến Google là nghĩ đến công cụ tìm kiếm hàng đầu thế giới hiện nay. Tuy nhiên, không nhiều người biết rằng, bên cạnh cung cấp dịch vụ tìm kiếm thì Google còn cung cấp nhiều dịch vụ hữu ích phục vụ rất hiệu quả khi làm việc trên môi trường Internet. Xin giới thiệu một số dịch vụ đó của Google:
+1. Thư điện tử Gmail
+Gmail là một trong những dịch vụ thư tín điện tử rất phổ biến hiện nay và được nhiều người sử dụng. Bởi vì, bên cạnh cung cấp nhiều ngôn ngữ, trong đó bao gồm cả tiếng Việt, tốc độ truy cập nhanh, dung lượng lớn, có nhiều giao diện tuỳ chọn phù hợp với sở thích mỗi người, còn có tính bảo mật cao với việc tạo code xác nhận qua tin nhắn và nhiều tiện ích đi kèm trong Gmail: như lập và quản lý lịch; lưu trữ và quản lý dữ liệu; thông báo sự kiện qua tin nhắn vào điện thoại của bạn…. Đặc biệt, giống như các trang web về ngân hàng và thẻ tín dụng, Gmail sử dụng mã hoá bảo mật HTTPS để bảo đảm an toàn cho email.
+Một góc giao diện của gmail.com
+  Để sử dụng dịch vụ này, bạn truy cập vào gmail.com để đăng ký.
+2. Trình duyệt Chrome:
+Chrome là một trong những trình duyệt web tốt nhất hiện nay, không chỉ vì dung lượng cài đặt nhỏ, dễ cài đặt mà còn có tốc độ tải trang nhanh hơn so với các trình duyệt khác.
+Ngoài tính năng duyệt web, Chrome còn được sử dụng như một website tìm kiếm, bạn chỉ việc gõ nội dung tìm kiếm vào thanh địa chỉ (address bar) và nhấn phím Enter, lập tức kết quả tìm kiếm sẽ xuất hiện. Bên cạnh đó, Chrome còn cung cấp rất nhiều các tiện ích mở rộng (add on) miễn phí rất hữu ích cho công việc, học tập, nghiên cứu, giải trí….
+Giao diện trình duyệt Chrome đang truy cập các tiện ích mở rộng.
+  Bạn truy cập vào website: www.google.com/Chrome để tải và cài đặt trình duyệt Chrome. Để cài đặt tiện ích mở rộng, bạn truy cập địa chỉ: https://chrome.google.com/webstore/category/extensions?hl=vi để chọn và cài đặt.
+3. Bản đồ trực tuyến maps.google.com:
+Google map là một trong những trang web cung cấp dịch vụ bản đồ trực tuyến tốt nhất thế giới hiện nay.
+Trung tâm Ngã sáu Buôn Ma Thuột nhìn từ vệ tinh được chụp bởi Google map.
+Bản đồ được chụp bằng vệ tinh với độ nét và độ chính xác cao, nên bạn có thể thấy được từng con đường đến những ngôi nhà hầu khắp trên thế giới. Google map có thể được sử dụng như một bản đồ chỉ đường cho du khách, và đặc biệt rất hữu ích cho thiếu nhi trong việc tìm hiểu, khám phá thế giới.
+  4. Dịch thuật với translate.google.com.vn:
+Hiện công cụ dịch thuật của Google có thể dịch tới khoảng 50 ngôn ngữ trên thế giới, trong đó bao gồm cả tiếng Việt. Nó không chỉ dịch được từng chữ, từng câu và cả văn bản dài mà còn dịch luôn cả một trang web. Để dịch trang web bất kỳ, bạn chỉ cần nhập địa chỉ trang web vào trong ô dịch thuật và bấm “Translate” (dịch), ngay lập tức nội dung trang web sẽ được dịch sang ngôn ngữ mà bạn mong muốn. Đặc biệt, nó có thể tự động phát hiện ra ngôn ngữ nguồn và dịch ra ngôn ngữ của bạn. Mặc dù, mức độ dịch thuật không thể hoàn hảo 100% nhưng cũng quá đủ để bạn đọc và hiểu được nội dung.
+Toàn bộ nội dung trang web cnn.com được translate.google.com.vn dịch sang tiếng Việt từ tiếng Anh.
+  Bên cạnh, những tiện ích chủ yếu trên, Google còn cung cấp rất nhiều tiện ích khác. Bạn có thể khám phá chúng qua trang chủ google.com hoặc google.com.vn.
+Nét Việt

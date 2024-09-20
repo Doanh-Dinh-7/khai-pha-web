@@ -1,0 +1,19 @@
+Những phát minh công nghệ đột phá
+17:58, 22/07/2023
+Dùng công nghệ AI để thăm dò mỏ đất hiếm
+Nhờ trí tuệ nhân tạo (AI) các nhà khoa học Trung Quốc đã xác định vị trí mỏ đất hiếm khổng lồ trên dãy Himalaya - đó là tin mới vừa được tờ Hoa Nam Buổi sáng của Hồng Kông (SCMP) cập nhật cuối tháng 6 vừa qua. Theo nguồn tin này, các kỹ sư ở Đại học Khoa học địa chất Trung Quốc (CUG), ở Vũ Hán đã phát triển hệ thống AI tự động xử lý mọi dữ liệu thô do vệ tinh và các phương tiện khác thu thập để xác định vị trí mỏ đất hiếm trên cao nguyên Tây Tạng.
+Dùng công nghệ AI để thăm dò mỏ đất hiếm.
+Từ năm 2020, các kỹ sư, nhà khoa học tại CUG đã phát triển hệ thống AI chuyên dụng dùng cho thăm dò khoáng sản, kết quả đã xác định vị trí mỏ đất hiếm trên cao nguyên Tây Tạng dài hơn 1.000 km. Hiện tại, hệ thống AI của CUG có độ chính xác 60%, và sau khi cải tiến tăng lên 90%.
+Nhờ hệ thống AI giúp việc thăm dò vừa nhanh lại chính xác so với kỹ thuật truyền thống có thể mất nhiều năm, thậm chí hàng chục năm.
+Bê tông mới kiêm chức năng "ăn" khí ô nhiễm
+Bê tông là loại vật liệu không thể thiếu trong xây dựng nhưng mới đây các nhà khoa học lại trang bị thêm chức năng nữa cho loại vật liệu này: hút khí thải ô nhiễm trong không khí, sau đó phân hủy thành các chất vô hại. Đó là sản phẩm của Viện Kỹ thuật và Công nghệ xây dựng Hàn Quốc (KICT) vừa trình làng. Đây là bê tông quang xúc tác (photocatalytic concrete), hút các chất gây ô nhiễm trong không khí nhờ lớp phủ bên ngoài.
+Bê tông quang xúc tác hút các chất gây ô nhiễm trong không khí.
+Lớp phủ này được chế từ titan dioxit, khi phơi ra ánh sáng mặt trời nó sẽ kích hoạt, tạo ra các loại oxy phản ứng (ROS). Đến lượt nó, các ROS này phản ứng với các chất ô nhiễm, như oxit nitơ và amoniac… để phân hủy thành các hợp chất vô hại.
+Cho đến thời điểm này, việc bổ sung titan dioxit vào bê tông bằng cách nào là mối quan tâm chính của các nhà nghiên cứu và họ đã thử một số cách khác nhau. Hiện, nhóm nghiên cứu đã chọn phương án phun thẳng dung dịch titan dioxit lên bê tông tiêu chuẩn, tạo ra một lớp vỏ ngoài bê tông có thể tương tác với các chất ô nhiễm mà vẫn duy trì tính vẹn toàn của bê tông.
+Qua thử nghiệm trong đường hầm ô tô, nơi ô nhiễm cao gấp 1.000 lần so với không khí bên ngoài. Sau khi để bê tông trong 24 giờ, nhóm nghiên cứu nhận thấy nồng độ oxit nitơ trong đường hầm giảm 18%. Chưa hết, loại bê tông này cũng biến oxit nitơ thành một dạng muối được tìm thấy ở dưới chân tường. Nước rửa hầm hoặc nước mưa có thể cuốn trôi muối này xuống cống nên làm sạch môi trường rất tốt.
+Phát hiện sớm bệnh cây trồng bằng miếng dán cảm biến
+Bộ Nông nghiệp và Quỹ Khoa học quốc gia Mỹ vừa hỗ trợ các nhà nghiên cứu ở Đại học North Carolina (NCSU) phát triển miếng dán cảm biến để theo dõi liên tục các loại bệnh thực vật, stress gây hại cây trồng và làm giảm năng suất nông nghiệp.
+Phát hiện sớm bệnh cây trồng bằng miếng dán cảm biến.
+Các phương pháp kiểm tra truyền thống về căng thẳng (stress) hoặc bệnh cây trồng là lấy mẫu mô thực vật và kiểm tra trong phòng thí nghiệm. Cách làm này vừa lâu lại chỉ thu được thông tin dùng một lần. Để khắc phục, miếng dán của NCSU có thể theo dõi stress và bệnh của cây theo cách không xâm lấn, thông qua đo các hợp chất hữu cơ dễ bốc (VOC) do cây thải ra. Thực vật thải ra VOC khác nhau trong các trường hợp khác nhau. Bằng cách nhắm vào mục tiêu là các VOC có liên quan đến các bệnh cụ thể hoặc căng thẳng, các cảm biến này có thể phát hiện ra các loại bệnh cụ thể mà cây trồng đang mắc phải.
+Duy Nguyễn
+(Theo ZSC/SCMP/ISC/FO/NFC- 7/2023)

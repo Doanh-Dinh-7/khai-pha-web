@@ -1,0 +1,15 @@
+Microsoft phát hành Windows Defender Offline Beta
+21:21, 10/12/2011
+  Trong một nỗ lực để cung cấp cho người dùng với tùy chọn tăng cường an ninh trên máy tính của mình, Microsoft đã tung ra phần mềm Windows Defender Offline Beta, một phiên bản của công cụ chống phần mềm gián điệp dành cho Windows của Microsoft.
+Sự khác biệt chính của phiên bản mới là khả năng cho phép người dùng có thể tải về dưới dạng tập tin ISO và sau đó có thể ghi lên CD/DVD hoặc ổ flash USB.
+Với công cụ này trong tay, người dùng có thể loại bỏ khỏi máy tính những phần mềm độc hại ngay khi Windows được khởi động, chẳng hạn như các rootkit.
+Theo Microsoft cho biết: “Phần mềm độc hại có thể xâm nhập vào hệ thống ngay khi có kết nối Internet hoặc cài đặt một số chương trình từ CD, DVD hay các thiết bị khác. Một khi trên máy tính có phần mềm độc hại, chúng có thể chạy vào các thời điểm bất kì. Windows Defender Offline Beta có thể giúp loại bỏ điều này, tìm ra phần mềm độc hại ngay trong môi trường ngoài hệ điều hành để người dùng có thể loại bỏ tận gốc mã độc”.
+Công ty cũng giải thích rằng Windows Defender Offline Beta có khả năng phát hiện phần mềm độc hại trên máy tính cũng như những nơi lưu trữ khác, cung cấp cho người dùng khả năng nhận diện mã độc mới thông qua tính năng Update.
+Dưới đây là những bước mà người dùng phải làm với Windows Defender Offline Beta theo mô tả của Microsoft:
+• Download Windows Defender Offline Beta và ghi lên CD, DVD hoặc ổ flash USB (không gian trống ít nhất 250 MB).
+• Khởi động lại máy tính ở chế độ khởi động từ CD, DVD hoặc flash USB để có thể khởi động Windows Defender Offline Beta ở ngoài Windows.
+• Quét phần mềm độc hại và trên các thiết bị lưu trữ khác.
+• Loại bỏ bất k phần mềm độc hại mà người dùng phát hiện.
+Windows Defender Offline Beta sử dụng khá đơn giản, người dùng chỉ cần thông qua tất cả các bước cần thiết khi phần mềm được khởi động.
+           Theo XHTT
+ 

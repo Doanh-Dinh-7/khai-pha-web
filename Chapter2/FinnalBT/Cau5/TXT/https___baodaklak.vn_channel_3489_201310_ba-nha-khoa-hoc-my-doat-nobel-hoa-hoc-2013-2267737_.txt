@@ -1,0 +1,19 @@
+Ba nhà khoa học Mỹ đoạt Nobel Hóa học 2013
+14:26, 10/10/2013
+Ngày 9-10, giải Nobel Hóa học năm 2013 đã được trao cho 3 nhà nghiên cứu trong lĩnh vực mô hình máy tính, giúp nghiên cứu sâu sắc hơn các phản ứng phức tạp như sự quang hợp và sự cháy cũng như cấu trúc của các loại thuốc mới.
+
+Giải Nobel hóa học năm nay đã được trao cho Martin Karplus, Michael Levitt và Arieh Warshel vì những phát triển của họ về hệ thống mô hình máy tính đa tỉ lệ cho các phản ứng hóa học. Những mô hình này giờ đây đã trở thành nền tảng cho các nghiên cứu về protein, enzyme, dược khoa nhờ việc kết hợp mô tả cổ điển về chuyển động và cấu trúc của các phân tử cùng với mô tả lượng tử của các khu vực bên trong phân tử nơi phản ứng hóa học diễn ra.
+
+Một phản ứng hóa học làm biến đổi một loạt các chất hóa học thành những chất khác. Cách các phản ứng xảy ra có thể được mô tả chính xác bằng cơ học lượng tử. Tuy nhiên, vấn đề ở đây là các phương trình cơ học lượng tử không thể được giải một cách chính xác, thậm chí với những phản ứng đơn giản nhất như gỉ sắt trong nước.
+Arieh Warshel, Martin Karplus và Michael Levitt
+Do có trọng lượng rất nhỏ, các electron có thể di chuyển nhanh hơn so với các nguyên tử của phân tử trong quá trình phản ứng. Kết quả là hóa học hầu như chỉ nghiên cứu về chuyển động của các electron bên trong và giữa các phân tử liên quan trong một phản ứng. Một trong những phép tính xấp xỉ thường được áp dụng là giữ cố định các nguyên tử trong khi electron được tái phân phối. Tuy nhiên, việc mô tả sự tái phân phối của các electron quá phức tạp khiến giải pháp cơ học lượng tử vẫn được xem là không thực tế.
+
+Các phương pháp lý thuyết được phát triển bởi Karplus, Levitt và Warshel đã giải quyết vấn đề trên bằng cách kết hợp phương pháp mô tả cổ điển và lượng tử của phân tử trong phản ứng hóa học.
+
+Nghiên cứu của 3 giáo sư hóa học có tác động trực tiếp đến việc bào chế và thử nghiệm những loại thuốc mới. Bằng cách đưa vào trong máy tính thông số và phương thức hoạt động đầy đủ của các tế bào protein, các nhà khoa học có thể trực tiếp thử nghiệm những loại thuốc mới, thông qua việc nhập số liệu những phương thuốc này vào chương trình. Máy tính sẽ trực tiếp xử lý, giả lập quá trình xúc tác phản ứng hóa học và đưa ra kết quả một cách chính xác nhất.
+
+Cả 3 giáo sư Martin Karplus, Michael Levitt và Arieh Warshel đều sinh ra tại những quốc gia khác nhau nhưng cuối cùng, họ đã làm việc tại các trường đại học danh tiếng của Mỹ. Giáo sư Martin Karplus hiện đang công tác tại Trường Đại học Havard, giáo sư Michael Levitt đến từ Trường Đại học Stanford và giáo sư Arieh Warshel đến từ Trường Đại học Nam California.
+
+Đây là lần thứ 2 trong lễ công bố giải thưởng Nobel năm nay có cả 3 nhà khoa học cùng đoạt giải. Lễ công bố giải thưởng Nobel Y học vào ngày thứ Hai vừa qua đã vinh danh 2 nhà khoa học Mỹ và 1 nhà khoa học Đức do những đóng góp trong việc tìm hiểu cách thức các tế bào vận chuyển phân tử qua lại lẫn nhau.
+H.G (Tổng hợp)
+ 

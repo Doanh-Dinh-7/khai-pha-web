@@ -1,0 +1,8 @@
+Bkav phát hành công cụ quét mã độc miễn phí
+15:43, 09/08/2016
+Từ vụ việc mã độc tấn công Vietnam Airlines, Bkav đã phát hành công cụ quét và kiểm tra mã độc miễn phí, người sử dụng có thể tải công cụ kiểm tra tại link: Bkav.com.vn/ScanSpyware.
+Trước đó, chiều ngày 29-7, website của Vietnam Airlines đã bị tấn công. Theo kết quả phân tích từ bộ phận nghiên cứu mã độc của Bkav, mã độc sau khi xâm nhập vào máy tính sẽ ẩn mình dưới vỏ bọc giả mạo là một phần mềm diệt virus. Nhờ đó, nó có thể ẩn mình trong thời gian dài mà không bị phát hiện.
+Mã độc có chức năng thu thập tài khoản mật khẩu, nhận lệnh cho phép hacker kiểm soát, điều khiển máy tính nạn nhân từ xa, thực hiện các hành vi phá hoại như xóa dấu vết, thay đổi âm thanh, hiển thị hình ảnh, mã hóa dữ liệu… Kết quả phân tích của Bkav cho thấy mã độc tấn công Vietnam Airlines cũng xuất hiện tại nhiều cơ quan, doanh nghiệp khác bao gồm cả các cơ quan Chính phủ, các tập đoàn, ngân hàng, viện nghiên cứu, trường đại học.
+Công cụ quét và kiểm tra mã độc miễn phí của Bkav không cần cài đặt mà có thể khởi chạy luôn để quét. Khi phát hiện hệ thống có mã độc, quản trị viên cần lập tức báo cho các cơ quan chức năng để được hỗ trợ rà soát toàn bộ hệ thống mạng vì khi mã độc này đã xuất hiện có nghĩa là hệ thống đã bị xâm nhập.
+Nguyễn Xuân (nguồn chinhphu.vn)
+ 

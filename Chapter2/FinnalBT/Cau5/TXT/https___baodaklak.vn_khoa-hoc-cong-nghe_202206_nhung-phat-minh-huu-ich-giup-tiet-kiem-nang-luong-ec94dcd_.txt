@@ -1,0 +1,18 @@
+Những phát minh hữu ích giúp tiết kiệm năng lượng
+16:07, 11/06/2022
+Thiết bị SHH thông minh
+SHH (Smart home hub) là thiết bị được ví như trung tâm điều khiển nhà thông minh, có nhiệm vụ kết nối các thiết bị thông minh về một nền tảng tập trung, cho phép điều khiển mọi thiết bị thông qua một ứng dụng duy nhất. Ví dụ, khi mua một bóng đèn sử dụng chuẩn kết nối là Zigbee, trong khi điện thoại của bạn chỉ có thể kết nối wifi, hoặc bluetooth thì để cho điện thoại của bạn có thể điều khiển được bóng đèn, bạn cần có một SHH để làm chức năng cầu nối cho cả hai.
+Đây là thiết bị lý tưởng để theo dõi và kiểm soát sử dụng năng lượng của gia đình, nhất là nhà thông minh. SHH kết nối hầu như mọi thiết bị sử dụng năng lượng để tự động hóa và tối ưu hóa. Nó có thể lên lịch để hệ thống kiểm soát nhiệt độ, độ ẩm và chất lượng không khí trong không gian căn hộ giảm năng lượng xuống mức thấp trong ngày khi chủ nhà ra khỏi nhà, sau đó chỉnh lại trước khi chủ nhà quay về. Hay đặt máy rửa bát chạy vào ban đêm khi năng lượng rẻ hơn; lập trình để ti vi tắt khi không hoạt động trong một thời gian nhất định.
+Thiết bị SHH thông minh của hãng Samsung.
+Bộ điều nhiệt thông minh
+Bộ điều nhiệt thông minh (Smart thermostats hay ST) kết nối với SHH và điện thoại để chủ nhà có thể lập trình theo sở thích cá nhân và điều khiển từ xa. Bộ điều nhiệt thông minh ST cao cấp có thể được trang bị công nghệ máy học đánh giá hiện trạng ngôi nhà nhằm tối ưu hóa cách máy sưởi hoặc điều hòa không khí hoạt động, tinh chỉnh hệ thống kiểm soát không khí, nhiệt độ nhằm tiết kiệm năng lượng và có lợi cho sức khỏe con người. Các thiết bị này ghi lại dữ liệu để người dùng xác định các kiểu năng lượng cho mục đích sưởi ấm hay điều hòa không khí.
+Đèn LED
+Bóng đèn LED và bóng đèn CFL khác nhau về công nghệ. Thay vì đốt nóng dây tóc cho đến khi nó phát sáng, đèn LED tạo ra ánh sáng từ chất bán dẫn. Đèn LED sử dụng ít năng lượng hơn 85% và tuổi thọ cao hơn 25 lần so với bóng đèn truyền thống. Để so sánh, khi hầu hết các ngôi nhà đã chuyển sang công nghệ LED vào năm 2035, sẽ có hơn 569 TWh được tiết kiệm mỗi năm. Con số này tương đương với sản lượng năng lượng của 92 nhà máy phát điện 1.000 MW.
+Các thiết bị thông minh có thể giúp tiết kiệm năng lượng và mang lại cuộc sống xanh hơn.
+Thiết bị gia dụng kết nối Internet
+Kết nối và tự động hóa các thiết bị nhà bếp có thể giúp tiết kiệm thời gian, tiền bạc và năng lượng. Bạn có thể ra lệnh cho máy pha cà phê làm việc để có đồ uống nóng khi thức dậy. Làm nóng lò nướng trên đường đi làm về để sẵn sàng cho bữa tối. Tối ưu hóa nhiệt độ tủ lạnh và tủ đông để giảm thiểu việc sử dụng năng lượng. Nói chung, các thiết bị nhà thông minh đáng sở hữu thường có trong nhà bếp, vì đó là nơi hầu hết năng lượng được sử dụng nhiều.
+Phích cắm điện thông minh (SPS)
+“Phụ tải ma” hoặc điện được sử dụng bởi các thiết bị điện tử khi chúng bị tắt hoặc ở chế độ chờ hay dự phòng, là một nguồn lãng phí năng lượng lớn. Trên thực tế, người ta ước tính 75% năng lượng được sử dụng để cung cấp năng lượng cho các thiết bị điện tử gia dụng được tiêu thụ khi chúng bị tắt, điều này có thể tốn tới 200 USD mỗi năm. Các ổ cắm điện thông minh (Smart Power Strips), còn được gọi là dải nguồn tiên tiến, loại bỏ vấn đề phụ tải ảo bằng cách ngắt nguồn điện cho các thiết bị điện tử khi chúng không được sử dụng.
+Phích cắm điện thông minh còn làm cho bất kỳ thiết bị nào được cắm vào chúng trở nên “thông minh”. Điều đó có nghĩa, bất kỳ đèn, âm thanh nổi hoặc thiết bị gia dụng nào đều có thể được điều khiển từ xa, kích hoạt và lập trình bằng giọng nói. Bạn có thể sử dụng phích cắm thông minh để ngắt kết nối nguồn điện của các thiết bị, chấm dứt tình trạng lãng phí năng lượng khi thiết bị không được sử dụng.
+Duy Hùng (Theo ESC/CC/MC– 5/2022)
+ 

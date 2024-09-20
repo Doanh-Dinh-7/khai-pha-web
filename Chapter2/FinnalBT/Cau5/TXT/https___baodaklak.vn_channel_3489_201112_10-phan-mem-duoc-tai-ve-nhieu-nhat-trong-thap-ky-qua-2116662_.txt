@@ -1,0 +1,29 @@
+10 phần mềm được tải về nhiều nhất trong thập kỷ qua
+23:04, 10/12/2011
+  Cnet.com - trang web hàng đầu về công nghệ của thế giới - vừa đưa ra thống kê 10 phần mềm được download nhiều nhất trong một thập kỉ qua. Dưới đây là danh sách về 10 phần mềm do Cnet bình chọn:
+1. ICQ
+  ICQ là phần mềm chat trực tuyến rất thông dụng đối với người dùng Internet. ICQ cho phép người dùng có thể tìm bạn, gửi thư, chat, gửi tin nhắn SMS vào điện thoại di động... với chất lượng dịch vụ khá tốt và ổn định.
+2. Winamp
+   Winamp là chương trình nghe nhạc gọn nhẹ, không chiếm nhiều tài nguyên như WMP, có thể chơi được các định dạng thông dụng, có điều khiển qualizer tốt, khả năng tìm kiếm nhanh bài hát trong danh.
+3. Napster
+  Napster bắt đầu như là một dịch vụ tải nhạc hợp pháp sử dụng kết nối mạng ngang hàng (peer to peer). Mọi người chưa bao giờ sử dụng một dịch vụ như thế này và chính Napster đã thay đổi cách thức bán âm nhạc và các nhãn hiệu âm nhạc. Nếu không có nó, mọi thứ như Spotify sẽ có thể không bao giờ tồn tại. Chính vì thế, người ta gọi Napster là kẻ mở ra kỷ nguyên nhạc số.
+Mặc dù, hiện Napster đã chính thức không còn tồn tại nữa. Nó đã được sáp nhập hoàn toàn với dịch vụ cung cấp nhạc trực tuyến Rhapsody nhưng dư âm của nó sẽ còn vang mãi.
+4. Firefox
+  Mozilla Firefox là một trình duyệt web nhanh, đầy đủ tính năng. Tích hợp với Google search, quản lý quyền riêng tư đã được đơn giản hóa, cửa sổ trình duyệt được sắp xếp hợp lý, giúp bạn quan sát được nhiều trang hơn trình duyệt khác và một số tính năng mà bạn có thể sử dụng mỗi khi trực tuyến.
+5. WinZip
+   Trong nhiều năm, WinZip là một trong các tiện ích nén, giải nén tốt nhất. Bạn không thể tải về hoặc gửi các tập tin lớn mà không có nó. Ngay cả khi Windows đã tích hợp giải nén thì sự phổ biến của Winzip vẫn không hề giảm đi. Chìa khóa cho sự thành công của WinZip là sự đơn giản nhưng hiệu quả.
+6. iTunes
+  iTunes là một trình quản lý và chơi các tập tin đa phương tiện cho hệ máy Mac và PC. Nó được phát triển bởi tập đoàn Apple. Tính năng chính của iTunes là tìm kiếm các file nhạc, phim ảnh trên máy tính để quản lý tập trung. Đồng thời cho phép kết nối vào các cửa hàng âm nhạc trực tuyến của Apple. Bên cạnh có tính năng nghe radio, podcast và xem các show truyền hình với chất lượng HD.
+7. Ad-aware
+  Ad-Aware là chương trình chống phần mềm gián điệp, do Lavasoft phát triển và phát hành. Nó có khả năng tìm và diệt các loại spyware (bao gồm cả keylogger). Ngoài ra còn có khả năng phát hiện dialer; trojan, phần mềm có hại, data-mining, các quảng cáo không mong muốn, các trang web ký sinh, các phần mềm cướp trang chủ (browser hijackers) và các thành phần dùng để theo dõi.
+8. Skype
+  Skype là phần mềm gọi điện miễn phí, cho phép bạn thực hiện cuộc gọi tới bất cứ nơi nào trên thế giới. Skype sử dụng công nghệ P2P (peer-to-peer) để kết nối bạn với người dùng khác. Cung cấp một số tính năng bao gồm SkypeOut gọi từ Skype đến một số điện thoại thuê bao bất kỳ trên toàn thế giới với chất lượng âm thanh không hề kém điện thoại thông thường.
+Ngoài ra, Skype còn được sử dụng như một công cụ chat bình thường như Yahoo Messenger, MSN hay AOL. Với Skype, người sử dụng còn có thể chat bằng tay, gửi file, gửi hình ảnh và sử dụng webcam để có thể vừa trò chuyện vừa nhìn thấy người trò chuyện với mình.
+9. RealPlayer
+  Realplayer là trình chơi nhạc vốn chủ yếu được biết đến với tính năng xem phim và nghe nhạc trực tuyến. RealPlayer được cải thiện các chức năng điều khiển video, và khả năng truy cập vào 3200 trạm nghe radio trực tuyến trên Internet.
+RealPlayer là công cụ hoàn hảo để chơi và chia sẻ video với bạn bè thậm chí cả trên Facebook và Twitter. Không chỉ thế, nó còn hoạt động cả trên Blackberry, iPhone, iPod và các hệ thống trò chơi.
+10. Adobe Acrobat Reader
+  Adobe Acrobat là phần mềm đọc file văn bản pdf và có khả năng quản lý các cách xem văn bản, tổng hợp các phản hồi từ nhiều người xem trong khi đó vẫn bảo vệ được định dạng và tính nguyên vẹn của tài liệu.
+Ngoài ra, Adobe Acrobat còn có thể mở rộng các khả năng chú giải đối với bất kỳ người nào sử dụng Adobe Reader. Người sử dụng Windows có thể thiết kế các biểu mẫu Adobe PDF thông minh bao gồm nguyên lý kinh doanh, các tính toán và đánh giá dữ liệu, nhằm gia tăng độ chính xác việc thu thập dữ liệu trong khi đó có thể giảm bớt chi phí việc nhập dữ liệu thủ công.
+Nét Việt (Tổng hợp và lược dịch)
+ 

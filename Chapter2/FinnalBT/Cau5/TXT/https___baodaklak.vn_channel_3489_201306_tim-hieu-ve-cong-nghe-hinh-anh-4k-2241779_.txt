@@ -1,0 +1,17 @@
+Tìm hiểu về công nghệ hình ảnh 4K
+20:42, 06/06/2013
+Công nghệ hình ảnh trên toàn cầu đang phát triển lên một bước mới, với chất lượng được gọi là 4K hoặc Ultra HD 4K. Một thuật ngữ mới mà có thể chỉ vài năm nữa thôi, cụm từ Full HD có thể sẽ bị quên lãng giống như những gì mà nó đã làm với SD. Cùng tìm hiểu về những thuật ngữ 4K hiện đang được phát triển cho công nghệ hình ảnh trong hiện tại và tương lai
+Thuật ngữ 4K được hiểu theo tỉ lệ 3.840 × 2.160 pixel, hay còn được gọi là: độ phân giải 4K. Theo đó, độ phân giải 4K được phân loại  theo 2 cách:
+- Độ phân giải 4K dùng trong ngành công nghiệp chế tạo màn hình dân dụng (digital television)
+- Độ phân giải 4K dùng trong ngành công nghiệp điện ảnh (digital cinematography)
+Như vậy số lượng điểm ảnh theo chiều ngang của độ phân giải 4K khi làm tròn đến đơn vị phần nghìn sẽ tương đương với 4.000 pixel.
+Một tivi đạt chuẩn 4K của hãng Sony
+Ultra HD 4K là thuật ngữ thường được dùng trong ngành công nghiệp chế tạo màn hình. Thông thường một chiếc TV Ultra HD 4K (hay còn gọi là UHDTV và TV 4K) sẽ có độ phân giải là 3.840 x 2.160 pixel, tương đương với 8.294.400 pixel ~ 8,3 megapixel. Nhưng hiện nay, các nhà khoa học mới chế tạo được hai định dạng Ultra HD, là: Ultra HD 4K và Ultra HD 8K (7.680 x 4.320 pixel ~ 33,2 megapixel). Cả 2 định dạng này đều được sử dụng với mục đích dân dụng.
+Digital Cinema Initiatives 4K
+Digital Cinema Initiatives hay DCI, là một tiêu chuẩn được tạo ra từ một liên doanh của các hãng phim lớn, nhằm tạo ra một chuẩn chung cho rạp chiếu phim kỹ thuật số. Tổ chức này được thành lập vào năm 2002 với sự tham gia của nhiều tên tuổi lừng danh như Paramount Pictures, Warner Bros, 20th Century Fox, Sony Pictures Entertainment, Walt Disney...
+Một chiếc máy quay của hãng Canon đạt chuẩn 4K
+Theo tiêu chuẩn DCI, phim 4K sẽ có độ phân giải chuẩn là 4.096 x 2.160 (8,8 megapixel và tỷ lệ xấp xỉ 17:9 - so với 16:9 của Ultra HD 4K). Tuy nhiên, trong thực tế thì đây cũng chỉ là một chuẩn chung nhằm mục đích tham chiếu, còn trong thực tế các nhà sản xuất phim có thể thay đổi một chút độ phân giải để phù hợp với mục đích nghệ thuật của họ. Hiện nay, bộ cảm biến trong các máy quay 8K chuyên nghiệp dùng để làm phim hiện nay thường có độ phân giải 7.680 x 4.320 pixel.
+Như vậy, nếu đổi độ phân giải video ra megapixel, một hình ảnh 1080p (1920 x 1080) chỉ bằng 2,1 megapixel. Hình ảnh 4K (3840 x 2160 hoặc 4096 x 2160) xấp xỉ 8,5 megapixel. Chuẩn 8K (7680 x 4320) tương đương số pixel 33,2 megapixel. 
+H.G (Tổng hợp)
+
+ 

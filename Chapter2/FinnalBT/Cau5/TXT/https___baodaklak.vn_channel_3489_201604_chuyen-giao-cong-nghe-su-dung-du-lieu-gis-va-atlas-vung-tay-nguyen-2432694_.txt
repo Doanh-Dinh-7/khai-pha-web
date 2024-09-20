@@ -1,0 +1,9 @@
+Chuyển giao công nghệ sử dụng dữ liệu GIS và ATLAS vùng Tây Nguyên
+22:08, 27/04/2016
+Từ ngày 25 đến 27-4, tại TP.Buôn Ma Thuột, Viện Hàn lâm Khoa học và Công nghệ Việt Nam - Chương trình Tây Nguyên 3 phối hợp với Bộ GD-ĐT, Trường Đại học Tây Nguyên  tổ chức tập huấn về “Đào tạo chuyển giao công nghệ khai thác sử dụng cơ sở dữ liệu GIS và ATLAS điện tử tổng hợp vùng Tây Nguyên thuộc đề tài khoa học cấp Nhà nước mang mã số KHCN-TN3/T22”.
+  Tham dự lớp tập huấn có các cán bộ chuyên trách về Công nghệ thông tin của Ban Chỉ đạo Tây nguyên, Sở KH-CN các tỉnh Đắk Lắk, Đắk Nông, Gia Lai, Kon Tum và Lâm Đồng.  
+Các học viên tham gia lớp học đang thực hành trên máy tính.
+Các học viên đã được tập huấn các nội dung cơ bản như: Cơ sở lý thuyết về GIS và WEBGIS; khai thác sử dụng cơ sở dữ liệu Tây Nguyên; khai thác và sử dụng Atlas điện tử Tây Nguyên; giới thiệu Hệ thống máy chủ và máy quản lý cơ sở dữ liệu đặt tại Ban Chỉ đạo Tây Nguyên và các tỉnh Tây Nguyên; vấn đề tổ chức mạng lưới kết nối hiệu quả phù hợp với thực tiễn Tây Nguyên. 
+  Chương trình Tây Nguyên 3 với lĩnh vực “khoa học và công nghệ phục vụ kinh tế - xã hội vùng Tây Nguyên giai đoạn 2011-2015” thực hiện 4 mục tiêu và 8 nội dung nghiên cứu; trong đó có mục tiêu về “Cung cấp cơ sở dữ liệu phục vụ quy hoạch phát triển kinh tế - xã hội khu vực Tây Nguyên trong xây dựng kế hoạch 5 năm trước mắt và tiếp theo”. Nội dung chủ yếu của chương trình đào tạo nói trên là  xây dựng và chuyển giao cơ sở dữ liệu toàn vùng về thiên nhiên, môi trường, kinh tế - xã hội toàn vùng Tây Nguyên và mỗi tỉnh bằng các phần mềm tiên tiến dễ truy cập; xây dựng cơ sở hạ tầng thông tin, tạo nguồn lực quản lý khoa học và cơ chế cập nhật cơ sở dữ liệu phục vụ công tác quản lý lãnh thổ.
+  Nguyễn Tiên Tri
+ 

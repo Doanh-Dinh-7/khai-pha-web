@@ -1,0 +1,8 @@
+Cảnh giác với một kiểu phát tán mã độc mới
+22:27, 27/12/2011
+Thời gian gần đây, rất nhiều tài khoản Yahoo! Messenger nhận được đường link
+http://youtube.com%2Eche[removed]nfig%2Einfo/?video=flash&vid=thr2503. Hầu hết người sử dụng nghĩ rằng, link này sẽ dẫn đến website chia sẻ video clip nổi tiếng thế giới youtube.com. Thực chất không phải như vậy, link này dẫn tới một website chứa virus.
+Đường link http://youtube.com%2Eche[removed]nfig%2Einfo/?video=flash&vid=thr2503 sẽ dẫn đến một Website chứa virus có giao diện giống Youtube.com
+Điểm bất thường ở đây là cụm ký tự “%2E” xuất hiện ngay sau cụm “youtube.com” trong đường link. Với các trình duyệt, “%2E” được hiểu là một dấu chấm (.). Do vậy, đường link này thực chất là youtube.com.che[removed]nfig.info (một tên miền cấp 4), chứ không phải là youtube.com thật (vốn là một tên miền cấp 2). Việc thay thế dấu chấm bằng cụm ký tự “%2E” đã đánh lừa thị giác của người dùng, tạo cảm giác ký hiệu “%” giống với dấu gạch chéo “/”, dấu phân cách thư mục trên đường link.
+Ngoài việc ngụy trang bằng đường link giả mạo, giao diện của website chứa mã độc cũng được làm giống hệt giao diện của Youtube. Điều này khiến cho hầu hết những người đã bấm vào link đều không nghi ngờ và bị lừa tải virus về. Đây là một hình thức lừa đảo mới, quá trình lừa đảo được thực hiện rất tinh vi. Thậm chí, ngay cả những người am hiểu về IT cũng có thể bị lừa.
+G.N

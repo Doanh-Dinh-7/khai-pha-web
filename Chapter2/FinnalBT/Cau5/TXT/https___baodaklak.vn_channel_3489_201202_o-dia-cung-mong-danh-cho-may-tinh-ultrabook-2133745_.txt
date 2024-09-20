@@ -1,0 +1,9 @@
+Ổ đĩa cứng mỏng dành cho máy tính ultrabook
+20:11, 25/02/2012
+Tập đoàn điện tử Hitachi (Nhật Bản) vừa giới thiệu ổ đĩa cứng HDD có đường chéo 6,35 cm, kích cỡ 2,5" đầu tiên trên thế giới có độ mỏng 7mm, tốc độ vòng quay 7200rpm và sử dụng giao tiếp SATA 6Gb/s.
+Chiếc ổ cứng mang tên Travelstar Z7K500 có dung lượng 500GB và chỉ sử dụng một phiến đĩa, nhờ đó giảm tối đa độ dày cho ổ cứng. Z7K500 là chiếc ổ lưu trữ 2,5" chỉ mỏng 7mm, biến nó trở thành một sản phẩm thích hợp dành cho những máy tính siêu mỏng hay ultrabook.
+Không chỉ có tốc độ vòng quay 7200rpm mà Travelstar Z7K500 còn sử dụng giao tiếp SATA 6Gb/s tốc độ cao cũng như bộ nhớ cache 32MB. Lợi thế của Z7K500 so với những ổ SSD hiện nay đó là giá thành, trong khi có giá thành rẻ hơn nhưng ổ cứng của Hitachi vẫn cho tốc độ và dung lượng không thua kém ổ SSD hiện nay là mấy.
+Nhà sản xuất cho biết, Travelstar Z7K500 đạt tốc độ tối đa khi được đi kèm với ultrabook dùng SSD cache. SSD cache được cho là sáng kiến của Intel nhằm cải thiện thời gian khởi động OS và nâng cao hiệu suất hệ thống. Tuy vậy, công nghệ này chỉ được một số nhà cung cấp áp dụng, hầu hết với mục đích là giảm giá thành của ultrabook.
+Ultrabook Folio của hãng HP
+Hitachi cho biết ổ cứng mới của họ có công suất tiêu thụ điện khi đang hoạt động (đọc/ghi dữ liệu) là 1,8W trong khi ở chế độ nghỉ là 0,8W. Dòng ổ Travelstar Z7K500 sẽ xuất hiện với các mức dung lượng gồm 500GB, 320GB và 250GB. Hiện tại, Hitachi đang trong quá trình thử nghiệm và sẽ bắt đầu bán ra Travelstar Z7K500 từ tháng 3 tới. Sản phẩm được cho là ổ đĩa cứng HDD có tốc độ nhanh nhất trong thời điểm hiện tại.
+G.T (Dịch, tổng hợp)

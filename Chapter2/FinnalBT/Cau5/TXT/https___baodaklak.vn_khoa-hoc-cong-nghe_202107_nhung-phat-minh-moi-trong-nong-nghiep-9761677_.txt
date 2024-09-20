@@ -1,0 +1,18 @@
+Những phát minh mới trong nông nghiệp
+09:27, 12/07/2021
+Những phát minh mới có tính ứng dụng cao
+Phát minh khoa học - công nghệ tiện ích
+Phát minh khoa học công nghệ mới
+Bù nhìn laser dùng trong nông nghiệp
+Kể từ buổi bình minh của nghề nông, cuộc chiến giữa nông dân với loài chim đã được xem là dai dẳng và vĩnh viễn. Các loài gây hại như chim sáo, chim đen và quạ có thể phá hủy tới 75% cây trồng, dẫn đến thất thu lớn. Gần đây, một nhà nghiên cứu từ Đại học Rhode Island đã phát minh ra biện pháp ngăn chặn chim phá hoại mùa màng, đó là bù nhìn laser sử dụng tia laser đuổi chim với phạm vi xa tới gần 200 m. Không chỉ hiệu quả trong việc đuổi chim chóc phá hoại mùa màng, bù nhìn laser còn ít gây hại môi trường hơn và ít sử dụng lao động hơn so với việc sử dụng lưới.
+Nông nghiệp chính xác
+Công nghệ nông nghiệp chính xác ngày càng phát triển mạnh mẽ và đa dạng hơn. Một trong những công nghệ kiểu này có tên RTK (Real-Time Kinematic). RTK có nghĩa là đo động thời gian thực, đây là kỹ thuật được sử dụng để tăng độ chính xác của tín hiệu GPS bằng cách sử dụng một máy thu GPS 2 tần số đặt cố định, gọi là trạm tĩnh để thu và gửi tín hiệu đến máy GPS 2 tần số đang chuyển động, gọi là trạm động.
+  RKT có thể áp dụng trong nông nghiệp để điều hướng gieo hạt và bón phân chính xác. Ngoài ra, công nghệ nông nghiệp chính xác còn có thể ứng dụng trong phương pháp canh tác bảo tồn (gieo trồng trực tiếp trên đất vừa thu hoạch cây trồng từ vụ trước, không cày xới toàn bộ diện tích, hoặc chỉ cày xới một dải hẹp) hay ứng dụng trong lắp đặt nhanh hệ thống thoát nước vô cùng hiệu quả, chính xác, làm tăng năng suất và giảm tải công việc cho nhà nông.
+Biến bánh mì thừa thành… bia
+Để tận dụng tối đa thực phẩm dư thừa, một nữ doanh nhân khởi nghiệp người Anh tên là Louisa Ziane đã phát minh công nghệ biến bánh mì thừa thành bia. Loại bia có tên Crust này có chất lượng không kém gì bia truyền thống.
+Theo Louisa Ziane, người Babylon cổ đại từng tạo ra một thức uống bằng cách lên men bánh mì. Thức uống đó không giống với bia như chúng ta đang uống ngày nay mà giống món cháo cồn hơn. Từ ý tưởng này, Louisa Ziane đã cho ra đời công nghệ nấu bia nói trên. Đây có thể là lời giải cho vấn đề lãng phí thực phẩm và hạn chế nguy cơ ô nhiễm môi trường. Hiện, công ty Toast Ale của Louisa Ziane đã hợp tác với hơn 50 hãng sản xuất bia tại Phần Lan, Nga, Ukraine, Ai Cập và Sudan để sản xuất loại bia này.
+Robot diệt cỏ dại không dùng hóa chất
+Small Robot, một doanh nghiệp khởi nghiệp của Anh vừa trình làng bộ ba robot “nông dân” có tên Tom, Dick và Harry có thể diệt cỏ dại không dùng hóa chất. Bộ ba robot này làm những nhiệm vụ riêng. Trong khi Tom quét hình ảnh chân ruộng, lập bản đồ dữ liệu cây cỏ thì Dick lại sử dụng dữ liệu trên để phóng điện diệt cỏ thay vì dùng hóa chất độc hại. Và cuối cùng, Harry sẽ làm nhiệm vụ gieo hạt giống ngay tại chỗ sau khi cây dại bị tiêu diệt. Vì vậy, bộ ba robot này được xem là “người máy canh tác cây trồng”, giúp nông dân có thể giảm 40% chi phí và hạn chế việc sử dụng hóa chất lên đến 95%. Đây được xem là những thiết bị đa năng, vô cùng hữu ích cho ngành nông nghiệp và môi trường bởi theo Tổ chức Nông lương Liên hiệp quốc, năm 2018 ngành nông nghiệp toàn cầu đã tiêu thụ hơn 6 triệu tấn thuốc trừ sâu, trị giá 38 tỷ USD. Hiện Small Robot đang gọi vốn, hy vọng đến năm 2023 cụm robot này sẽ có mặt trên các cánh đồng.
+Khắc Duy
+(Theo CTC/ATC/MIT/PTC/GNC/CNN- 6/2021)
+ 

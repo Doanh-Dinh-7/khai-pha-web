@@ -1,0 +1,23 @@
+HP cho ra sản phẩm All in One (AIO) mạnh nhất thế giới giá từ 1.899 USD
+10:30, 15/02/2012
+Ngày 15-2, Hãng vi tính “khổng lồ” HP đã cho ra mắt một trong những mẫu máy tính để bàn AIO mạnh nhất thế giới mang tên HP Z1. Mẫu máy trạm mạnh mẽ này sẽ không hề đụng hàng với hai dòng sản phẩm AIO có sẵn hướng đến giải trí và người dùng bình dân của HP trước đó là Omni và TouchSmart.
+HP Z1 trang bị màn hình IPS độ phân giải cao hơn Full HD, cấu hình mạnh với chip lõi tứ và card đồ họa Nvidia Quadro.
+HP Z1 trang bị màn hình lớn 27 inch độ phân giải cao hơn chuẩn Full HD là 3.560 x 1.440 pixel, sử dụng tấm nền IPS cao cấp và hỗ trợ 1,07 tỉ màu. Máy có thể dễ dàng mở ra để thay thế và nâng cấp phần cứng (HDD, card đồ họa, RAM) cho phù hợp với nhu cầu của người quản trị hệ thống IT, đây cũng là một trong số ít những mẫu máy tất cả trong một có thể làm được việc này.
+Cấu hình của sản phẩm này cũng rất mạnh với tùy chọn vi xử lý lõi tứ Intel Xeon hoặc hai nhân Core-i3, card đồ họa rời Nvidia Quadro cũng như lựa chọn ổ SSD dung lượng 160 GB hoặc 300 GB để lưu trữ. Ngoài ra, máy có hỗ trợ RAM ECC (Error-correcting code memory), một loại RAM có khả năng tự phát hiện và sửa các lỗi thông thường để đảm bảo tính liên tục ổn định cho hệ thống IT mà máy trạm Z1 quản lí.
+HP Z1 sẽ dự kiến lên kệ vào tháng 4 tới với giá khởi điểm là 1.899 USD.
+Cấu hình của HP Z1:
+Màn hình: 27" độ phân giải 2560 x 1440, sử dụng tấm nền IPS, đèn nền LED, có khả năng lật lên
+Vi xử lí: Tùy chọn Intel Core i3-2120, 3.33 GHz, 3MB cache, 2 nhân
+Intel Xeon E3-1245, 3.3 GHz, 8MB cache, 4 nhân
+Intel Xeon E3-1280, 3.5 GHz, 8MB cache, 4 nhân
+Chipset: Intel C206
+RAM: hỗ trợ tối đa 32GB DDR3 1600MHz, cho phép dùng RAM ECC
+HDD: SATA 7200rpm 3.5": 250GB, 500GB, 1TB, 2TB
+SATA 10.000rpm 2.5": 300GB, 600GB
+SATA SSD: 160GB, 300GB
+Chip đồ họa: Intel HD 2000 (với CPU Core i3), Intel HD P3000 (với CPU Xeon)
+Tùy chọn NVIDIA Quadro Q500M, Q1000M, Q3000M, Q4000M
+Cổng kết nối: 2 x USB 3.0, 1 x IEEE 1394a, cổng cắm tai nghe, micro, đầu đọc thẻ 6 trong 1, DisplayPort, SPDIF, 9 x USB 2.0, FireWire 400, Wifi, Bluetooth 3.0
+Webcam: độ phân giải Full-HD 1080p
+Cổng cắm mở rộng: 1 PCIe x16, 3 miniPCIe, hỗ trợ tối đa 2 ổ HDD 2,5" và 1 ổ HDD 3,5"
+G.T (Dịch, tổng hợp)

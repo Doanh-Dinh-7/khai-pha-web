@@ -1,0 +1,9 @@
+Vòng loại cuộc thi Robocon Việt Nam 2014 chính thức khai mạc
+06:01, 03/04/2014
+Ngày 2-4, vòng loại cuộc thi Robocon Việt Nam 2014 chính thức khai mạc tại ba khu vực. Cuộc thi ở khu vực phía Bắc được tổ chức tại Hà Nội với 110 đội; miền Trung - Tây Nguyên được tổ chức ở Đà Nẵng gồm 31 đội và miền Nam tổ chức ở TP HCM với 20 đội.
+Năm nay cuộc thi có chủ đề “Gia đình Robot”, các đội thi đấu sẽ phải thiết kế chế tạo một Gia đình robot gồm: 2 Robot điều khiển bằng tay (Robot cha và Robot mẹ) và một Robot tự động (Robot con). Sân thi đấu sẽ giống như một công viên, từ đó Robot cha, mẹ có nhiệm vụ mang Robot con đến các khu vực trò chơi và Robot con sẽ hoàn thành nhiệm vụ cuối cùng của mỗi trò chơi đó.
+Theo đó, mỗi đội sẽ có nhiệm vụ thực hiện 3 trò chơi: Seesaw (cầu bập bênh), Pole walk (đi bộ trên cột) và Swing (xích đu). Khi Robot con hoàn thành 3 nhiệm vụ trên, nó có thể thực hiện nhiệm thứ 4 là: tại cầu thang vận động được đặt giữa công viên, nếu khi đó robot con có thể vẫy cờ trên điểm cao nhất thì đội đó sẽ đạt được “SHABAASH” hay còn được gọi lại chiến thắng tuyệt đối. Thử thách mới hơn và lớn hơn đối với các đội chơi năm nay là phải giải quyết được bài toán kỹ thuật cho Robot con có khả năng di chuyển độc lập sau khi rời Robot mẹ và khả năng tự ghi điểm của Robot này.
+Robocon 2014 vinh danh và ca ngợi những người cha, người mẹ với những cống hiến và đóng góp vĩ đại của họ bằng chủ đề “Tri ân đấng sinh thành” với ý tưởng “Gia đình Robot”. 
+Bắt đầu từ ngày mùng 3-4, Vòng loại khu vực miền Trung và miền Nam sẽ được mở màn. Sau vòng loại, 32 đội thi xuất sắc nhất sẽ tham gia vòng chung kết từ ngày 5-5 đến 11-5-2014 tại Nha Trang (Khánh Hòa). Đội giành giải cao nhất sẽ đại diện cho Việt Nam tham dự Robocon Châu Á - Thái Bình Dương (ABU Robocon 2014) được tổ chức tại Ấn Độ vào tháng 8-2014. Đây là năm thứ 13 cuộc thi Sáng tạo Robot Việt Nam được tổ chức và và Toyota Việt Nam tiếp tục là nhà tài trợ chính.
+H.G ( Tổng hợp)
+ 

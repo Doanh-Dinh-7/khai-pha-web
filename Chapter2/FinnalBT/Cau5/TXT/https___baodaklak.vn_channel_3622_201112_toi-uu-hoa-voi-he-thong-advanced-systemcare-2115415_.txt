@@ -1,0 +1,16 @@
+Tối ưu hoá với hệ thống ADVANCED SYSTEMCARE
+22:13, 05/12/2011
+Sau một thời gian sử dụng, máy tính sẽ chạy chậm hơn, đồng thời bắt đầu xuất hiện các lỗi liên quan đến các phần mềm đã cài, nghiêm trọng hơn là hỏng cả hệ điều hành và buộc phải cài lại máy. Việc này không chỉ mất thời gian, công sức mà nhiều khi còn tốn cả tiền bạc.
+Để giải quyết vấn đề trên, không ít người cài đặt các chương trình tối ưu hoá hệ thống. Đây được coi là một giải pháp tốt khi chưa có điều kiện nâng cấp phần cứng. Xin giới thiệu một chương trình hoạt động rất hiệu quả là IObit Advanced SystemCare (ASC). Nó không chỉ giúp tối ưu hoá hệ thống qua đó tăng tốc máy tính mà có các tính năng chống phần mềm gián điệp, bảo vệ sự riêng tư và khả năng dọn dẹp hệ thống một cách toàn diện.
+ASC được cung cấp cho người dùng với 2 phiên bản: miễn phí và có phí. Ở phiên bản miễn phí, một số tính năng không được kích hoạt nhưng qua thử nghiệm cho thấy vẫn hoạt động rất hiệu quả. Bạn có thể tải phần mềm này từ địa chỉ: http://www.iobit.com. Hiện phiên bản mới nhất là v5.0.0.158 với dung lượng 28.5MB. Tuy nhiên, phiên bản v5 không có tiếng Việt, phiên bản v4 có tiếng Việt.
+Khi khởi động, chương trình có giao diện như sau:
+     Chương trình có 4 chức năng chủ yếu tương ứng với 4 biểu tượng: Quick Care, Deep Care, Toolbox và Turbo Boost.
+Quick care: Chức năng này dùng để dọn dẹp và sửa lỗi, bao gồm: tìm kiếm và gỡ bỏ các phần mềm độc hại và các nguy cơ; sửa lỗi registry; tìm kiếm và sửa lỗi shortcut; dọn dẹp rác máy tính.
+Deep Care: Tương tự Quick Care nhưng thực hiện dọn dẹp chuyên sâu hơn và được bổ sung thêm tính năng tăng tốc hệ thống, làm cho hệ thống chạy nhanh, ổn định hơn. Ngoài chức năng của Quickcare thì Deep Care còn gồm: ngăn ngừa các phần mềm độc hại cài vào máy; quét và sửa lỗi đĩa cứng; sửa chữa các vùng nhạy cảm của hệ điều hành; chống phân mảnh đĩa cứng, qua đó giúp cho việc truy xuất dữ liệu nhanh hơn.
+Toolbox: Gồm hơn 20 công cụ với các chức năng dọn dẹp, tối ưu, sửa chữa và kiểm tra, kiểm soát máy tính, hệ thống như: tối ưu hoá RAM, tăng tốc kết nối Internet, quét các lỗ hổng an ninh… và rất nhiều công  cụ khác. 
+  Toolbox gồm hơn 20 công cụ hữu ích trong việc sửa chữa và tối ưu hoá hệ thống
+   Toolbox gồm hơn 20 công cụ hữu ích trong việc sửa chữa và tối ưu hoá hệ thống.
+Turbo Boost: Có chức năng tối ưu và tăng tốc hệ thống. Nó gồm 2 tuỳ chọn: “Work mode” và “Game mode”. Work mode khi bạn cần tối ưu hoá hệ thống để phục vụ cho công việc; còn khi chơi trò chơi thì dùng Game mode. Bạn nên chọn Turbo Boost luôn ở chế độ “On” để máy tính luôn được tối ưu hoá.
+Để sử dụng chức năng nào trong 4 chức năng trên bạn chọn biểu tượng tương ứng và thực hiện theo hướng dẫn. Tóm lại, ASC là một phần mềm tích hợp gần như tất cả các chức năng, công cụ cần thiết cho máy tính. Chính vì vậy, được hơn 10 triệu người trên toàn thế giới sử dụng.
+Nam Việt
+ 

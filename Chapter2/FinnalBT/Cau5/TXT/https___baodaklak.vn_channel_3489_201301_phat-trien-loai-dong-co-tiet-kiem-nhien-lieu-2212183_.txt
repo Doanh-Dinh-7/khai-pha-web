@@ -1,0 +1,8 @@
+Phát triển loại động cơ tiết kiệm nhiên liệu
+09:34, 11/01/2013
+GE Aviation thuộc Tập đoàn General Electric, cho biết họ đang phát triển một thế hệ động cơ phản lực mới, với đặc điểm kết hợp giữa các ưu điểm của phản lực một và hai luồng khí, từ đó mang lại tốc độ siêu âm và tiết kiệm nhiên liệu.
+Loại động cơ này có tên ADVENT (Adaptive Versatile Engine Technology), ADVENT được thiết kế với dòng phụt áp suất cao và dòng tách áp suất thấp của động cơ được hòa vào nhau bằng một đường thoát thứ 3 nằm bên ngoài, có thể đóng mở thích ứng. Khi khởi động, cửa thoát sẽ đóng để giảm hệ số tách dòng. Đối với động cơ một luồng khí, do không có dòng khí phân tách, toàn bộ khí đi thẳng vào buồng đốt nên hệ số tách dòng sẽ bằng 0. Trong khi với loại động cơ hai luồng khí hệ số càng lớn thì hiệu suất càng tốt và vận tốc càng thấp. Do đó, với ADVENT, việc đóng đường thoát thứ 3 khi cất cánh sẽ ưu tiên toàn bộ dòng khí nén áp suất cao vào buồng đốt để tăng lực đẩy và giảm mức tiêu thụ nhiên liệu.
+Đây là loại động cơ được phát triển theo dự án USAF ADVENT với mục tiêu tiết kiệm ít nhất 25% nhiên liệu và tăng khả năng hoạt động lâu hơn.
+Thiết kế động cơ ADVENT của GE Aviation dựa trên các công nghệ sản xuất mới như công nghệ in 3D, chế tạo các bộ phận siêu cứng nhưng nhẹ bằng gốm composite… GE hiện tại đang thử nghiệm các bộ phận cốt lõi của động cơ và đã lên kế hoạch cho bài thử toàn diện vào giữa năm 2013. 
+G.H (Dịch, tổng hợp)
+   

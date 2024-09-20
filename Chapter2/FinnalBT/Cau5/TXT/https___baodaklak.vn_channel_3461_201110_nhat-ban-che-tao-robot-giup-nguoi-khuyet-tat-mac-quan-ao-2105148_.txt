@@ -1,0 +1,15 @@
+Nhật Bản chế tạo robot giúp người khuyết tật mặc quần áo
+22:19, 25/10/2011
+Các nhà nghiên cứu Nhật Bản đã chế tạo thành công một loại người máy (robot) mới có thể giúp cho người khuyết tật mặc quần áo.
+
+Phó giáo sư Shibata Tomohiro, thuộc trường Đại học Khoa học và Công nghệ Nara và nhóm nghiên cứu của ông đã chế tạo ra một loại robot có hai cánh tay và một thiết bị quan sát để nhận biết tư thế của cơ thể con người.
+Ảnh minh họa. Nguồn: Internet
+
+Robot này có thể thực hiện được các động tác đã được dạy. Ví dụ nếu một người giữ cánh tay của robot và đưa cánh tay đó lên phía trên giống như khi mặc áo cho một người nào đó, thì robot sẽ ghi nhớ động tác này và lặp lại động tác đó đối với người ngồi trước mặt.
+
+Robot này được thiết kế có thể tự động điều chỉnh cử động cho phù hợp với bất cứ tư thế nào của người khuyết tật ngồi trước mặt robot.
+
+Giáo sư Shibata cho biết hiện nay, robot này chỉ có thể giúp người sử dụng mặc áo phông, nhưng ông hy vọng trong tương lai, robot sẽ được cải tiến chức năng tới mức độ có thể giúp người sử dụng mặc được cả quần nữa.
+
+Giang Nam
+(Nguồn NHK World)

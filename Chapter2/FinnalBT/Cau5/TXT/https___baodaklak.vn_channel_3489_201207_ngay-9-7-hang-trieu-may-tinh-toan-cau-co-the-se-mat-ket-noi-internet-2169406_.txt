@@ -1,0 +1,13 @@
+Ngày 9-7, hàng triệu máy tính toàn cầu có thể sẽ mất kết nối Internet
+15:48, 07/07/2012
+  Google lẫn Facebook vừa đưa ra lời cảnh báo, hàng trăm nghìn, thậm chí hàng triệu người dùng Internet trên toàn cầu có thể sẽ bị mất kết nối vào ngày 9-7 tới đây, do sự ảnh hưởng của loại virus có tên gọi DNS Changer – FBI.
+Thông tin về loại virus này đã từng được Cục Điều tra Liên Bang (FBI) đưa ra cảnh báo lần đầu tiên vào tháng 11-2011, sau khi họ bắt giữ một nhóm 6 hacker người Estonia, là thủ phạm gây ra loại phần mềm độc hại này.
+Virus DNS Changer, đúng như tên gọi của nó, sau khi lây nhiễm vào máy tính của người dùng sẽ làm thay đổi hệ thống DNS của máy tính, hiểu một cách đơn giản như “cuốn danh bạ điện thoại” của Internet. Virus này sẽ chuyển hướng người dùng đến các máy chủ DNS giả mạo, thông thường là các trang web giả mạo, lừa đảo hoặc những trang web quảng bá sản phẩm giả mạo.
+Trong phản ứng nhằm đảm bảo sự an toàn cho người sử dụng Internet, FBI đã sử dụng hệ thống máy chủ của chính phủ Mỹ để tạo ra một hệ thống Internet “sạch”, thay thế cho hệ thống máy chủ DNS giả mạo để đảm bảo người dùng bị lây nhiễm loại virus DNS Changer vẫn có thể tiếp tục sử dụng Internet như thông thường.
+Song song với hệ thống mạng “sạch” được tạo ra, FBI đã khuyến khích người dùng Internet trên toàn cầu hãy sử dụng các công cụ để kiểm tra xem máy tính của mình liệu có lây nhiễm virus DNS Changer hay không.
+  Trong trường hợp phát hiện ra bị lây nhiễm loại mã độc hại này, theo các chuyên gia bảo mật, người dùng nên sao lưu toàn bộ dữ liệu quan trọng trên ổ cứng (sao lưu ra các thiết bị lưu trữ bên ngoài) sau đó sử dụng các phần mềm diệt virus mạnh mẽ để quét toàn bộ hệ thống của mình.
+Các chuyên gia bảo mật cũng khuyên người dùng nên sử dụng đồng thời nhiều công cụ bảo mật khác nhau để kiểm tra độ “sạch” của hệ thống, để đảm bảo rằng không rơi vào trường hợp xấu nhất là không thể tiếp tục truy cập Internet vào ngày 9-7 tới đây.
+Mặc dù máy tính bị lây nhiễm có thể xảy ra các tình trạng như kết nối Internet chậm hơn, phần mềm diệt virus không nâng cấp được hoặc máy ì ạch hơn… tuy nhiên rất ít người dùng có thể nhận ra các triệu chứng này để có thể khắc phục kịp thời.
+Biện pháp đề phòng hữu hiệu nhất là nhờ đến các phần mềm diệt virus mạnh mẽ và uy tín để kiểm tra hệ thống của bạn.
+Theo Dân trí
+   

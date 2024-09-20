@@ -1,0 +1,11 @@
+Đọc, trả lời, tìm kiếm và lưu trữ tin nhắn không cần kết nối mạng
+14:48, 09/10/2011
+Nếu vì lý do gì mà kết nối Internet bị gián đoạn, bạn vẫn có thể tiến hành truy cập vào các dịch vụ Gmail của Google thông qua một ứng dụng mang tên Gmail Offline. Tuy nhiên, để làm được điều này thì bạn phải sử dụng trình duyệt Chrome của Google.
+
+Gmail Offline sẽ cho phép bạn có thể đọc, trả lời, tìm kiếm và lưu trữ nội dung tin nhắn mà không cần phải kết nối mạng. Để làm được điều này, khi có kết nối Internet, bạn hãy truy cập vào Web Chrome Store tại địa chỉ http://goo.gl/yBI1Q bằng trình duyệt Chrome của mình và tải về ứng dụng hỗ trợ. Ứng dụng chạy trên nền HTML 5 và có nhiều tính năng hữu ích tương tự như ở phiên bản online.
+Khi đã tải về ứng dụng Gmail Offline, bạn có thể tiếp tục sử dụng Gmail ngay cả khi mất kết nối Internet. Bạn có thể chuyển sang chế độ ngoại tuyến bằng cách bấm vào biểu tượng Gmail Of. ine ngay trên trang Tab của Chrome.
+Gmail Offline cho phép người dùng thực hiện các thao tác trên Gmail như đọc, soạn thư trả lời, sắp xếp và lưu trữ thư điện tử (không bao gồm tính năng nhận và gửi thư mới) mà không cần đến kết nối Internet.
+Sau khi bắt đầu có kết nối Internet trở lại, Gmail Offline sẽ tự động đồng bộ hóa các dữ liệu đang “xếp hàng” chờ mà bạn đã thực hiện khi ở chế độ Offline. Lưu ý, nếu sử dụng máy tính công cộng hoặc chia sẻ với nhiều người thì bạn không nên kích hoạt tính năng Gmail Offline.
+Đối với các ứng dụng khác của Google Apps là Calendar và Docs, bạn bấm vào biểu tượng công cụ ở góc trên bên phải của ứng dụng web và chọn tùy chọn để truy cập of. ine. Ứng dụng Calendar giúp xem các sự kiện và các cuộc hẹn, ứng dụng Docs cho phép bạn xem các tài liệu và bảng tính (nhưng không cho phép chỉnh sửa nội dung).
+Tính năng chỉnh sửa nội dung đang được Google hứa hẹn hoàn thiện trong thời gian tới. Ngoài ra, một tính năng cho phép bạn tùy chỉnh số lượng email của mình để đồng bộ hóa cũng đang được phát triển.
+(Theo LBVMVT)

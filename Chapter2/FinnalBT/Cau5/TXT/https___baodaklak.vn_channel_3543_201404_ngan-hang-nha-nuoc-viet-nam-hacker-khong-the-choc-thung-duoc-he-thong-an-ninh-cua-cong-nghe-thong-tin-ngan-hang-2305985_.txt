@@ -1,0 +1,7 @@
+Ngân hàng Nhà nước Việt Nam: Hacker không thể chọc thủng được hệ thống an ninh của công nghệ thông tin Ngân hàng
+15:53, 12/04/2014
+Ngày 10-4, NHNN Việt Nam đã phát đi thông cáo báo chí khẳng định : Hiện nay hệ thống thông tin của ngành ngân hàng (NH) vẫn hoạt động bình thường; hacker không thể chọc thủng được hệ thống an ninh của hệ thống công nghệ thông tin NH.
+Theo NHNN, giải pháp bảo mật trong giao dịch của ngành NH là một nhóm các giải pháp tích hợp, ngoài việc sử dụng giao thức mã hóa SSL, còn sử dụng hạ tầng khóa công khai (PKI), thiết bị sinh khóa theo từng lần giao dịch (OTP)... Do đó, hacker có thể lợi dụng được lỗ hổng bảo mật OpenSSL Heartbleed, nhưng cũng không thể chọc thủng được hệ thống an ninh của hệ thống thông tin NH.
+Về lỗ hổng của OpenSSL Heartbleed, các đơn vị trong toàn ngành NH đã triển khai rà soát và cập nhật phiên bản OpenSSL mới. Đến thời điểm hiện nay, việc rà soát và khắc phục lỗ hổng OpenSSL của các NH đã hoàn tất, và các hệ thống thông tin của ngành NH vẫn hoạt động bình thường, khách hàng có thể yên tâm sử dụng các dịch vụ NH.
+NHNN cũng khuyến cáo: Để bảo đảm an toàn cho các giao dịch trên Internet, khách hàng cần thực hiện đúng quy định của NH về việc quản lý, thay đổi mã khóa giao dịch và sử dụng các dịch vụ kiểm soát giao dịch, số dư tài khoản để giám sát tài khoản của mình; phản hồi ngay cho NH đối với những thông báo về các giao dịch không phải do mình thực hiện.
+Lê Ngọc

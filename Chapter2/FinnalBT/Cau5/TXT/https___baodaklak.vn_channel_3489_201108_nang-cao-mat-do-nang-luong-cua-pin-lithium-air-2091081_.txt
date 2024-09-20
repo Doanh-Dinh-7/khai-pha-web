@@ -1,0 +1,9 @@
+Nâng cao mật độ năng lượng của pin lithium-air
+10:13, 25/08/2011
+Các nhà nghiên cứu tại Viện công nghệ Massachusetts MIT (Mỹ), đã đạt được một bước tiến mới trong công nghệ pin lithium-air.
+  Phát triển từ một nghiên cứu từ năm ngoái, khi các nhà khoa học tại MIT đã chứng minh thành công khả năng hoạt động và hiệu suất của loại pin lithium-air (lithium-oxygen), qua việc sử dụng các điện cực với chất xúc tác là vàng hoặc platinum, giờ đây, sau một năm phát triển, các nhà nghiên cứu đã có thể tăng khả năng lưu trữ năng lượng của pin lithium-air mà không làm thay đổi trọng lượng với việc thay thế các điện cực bằng sợi cacbon.
+  Pin lithium-air có mật độ năng lượng cao do sự tương tác giữa điện cực dương (làm bằng lithium) và oxy trong không khí, thông qua một điện cực âm bằng cacbon có cấu trúc lỗ hổng. Trong quá trình xả pin, các ion lithium sẽ "trôi" từ điện cực dương thông qua chất điện phân và kết hợp với oxy để hình thành lithium oxit đến điện cực âm. Trong quá trình sạc, lithium oxit tiếp tục chia tách thành lithium và oxy, quy trình tương tự sẽ có thể bắt đầu trở lại. Các hạt lithium peroxit hình thành dưới dạng các chấm nhỏ trên sợi cacbon (trái) và có thể lớn bằng hạt đậu (phải) khi pin tiếp tục quá trình xả.
+  Với điện cực bằng hơi cacbon được sử dụng trong cuộc nghiên cứu vào năm ngoái, các nhà khoa học chỉ có được khoảng 70% khoảng trống nhưng điện cực bằng sợi cacbon mới lại có nhiều lỗ hổng hơn và tăng tỉ lệ khoảng trống lên đến 90%. Điều này có nghĩa điện cực bằng sợi cacbon có thể lưu trữ nhiều lithium oxit hơn nhằm lấp đầy các lỗ trống trong quá trình xả pin. Các ion lithium kết hợp với oxy trong không khí hình thành các hạt lithium oxit và chúng sẽ bám dính vào các sợi cacbon trên điện cực khi pin đang trong quá trình sử dụng.
+  Các nhà nghiên cứu cho rằng điện cực bằng sợi cacbon có thể lưu trữ năng lượng nhiều hơn gấp 4 lần so với các điện cực trong pin lithium-ion hiện nay với cùng trọng lượng pin.
+G.T ( Dịch, tổng hợp)
+ 

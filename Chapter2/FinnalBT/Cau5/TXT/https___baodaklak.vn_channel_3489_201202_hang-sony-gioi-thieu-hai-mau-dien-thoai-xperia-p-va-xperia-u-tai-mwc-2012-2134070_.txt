@@ -1,0 +1,40 @@
+Hãng Sony giới thiệu hai mẫu điện thoại Xperia P và Xperia U tại MWC 2012
+13:00, 27/02/2012
+Ngày 27-2, trong sự kiện riêng tại Mobile World Congress 2012 (MWC 2012), triển lãm chuyên về điện thoại lớn nhất thế giới với khoảng 60.000 người tham dự tổ chức hàng năm tại thành phố Barcelona (Tây Ban Nha), hãng Sony đã công bố 2 mẫu smartphone mới là Xperia U và P.
+Nếu như Xperia P từng có tên mã là Nyphone, thì Xperia U được gọi là Kumquat. Đây là những phiên bản rút gọn của chiếc Xperia S đã giới thiệu tại CES 2012.
+Xperia P
+Vỏ máy bằng nhôm, CPU hai nhân NovaThor U8500, màn hình cảm ứng 4" độ phân giải qHD (540x960) dùng công nghệ "White Magic" cho khả năng hiển thị tốt dưới trời nắng. Sony cho biết màn hình của Xperia P là màn hình thông minh nhất và sáng nhất hiện nay, sáng hơn gấp đôi so với một màn hình thông thường. Máy được trang bị camera 8MP có thể quay phim Full-HD 1080p và kết nối tầm ngắn NFC. Ứng dụng Xperia SmartTags được kèm theo cho phép bạn làm được nhiều thứ với NFC...
+Ngoài ra khi kết nối máy Xperia P vào đế SmartDock, người dùng còn có thể xuất phim ảnh ra TV qua cổng HDMI, gắn thêm bàn phím và chuột gắn ngoài để biến chúng thành một máy vi tính hay một trung tâm giải trí với màn hình rộng hơn gấp nhiều lần. Máy có 3 màu: đỏ, đen và bạc. Xperia P sẽ được bán ra từ giữa quý II
+Cấu hình chi tiết Xperia P:
+HĐH: Android 2.3 (sẽ được lên 4.0 vào quý II)
+CPU: 1GHz STE U8500 hai nhân
+Màn hình: TFT 4" 16 triệu màu, chống trầy, cảm ứng đa điểm (4 ngón), 540 x 960 điểm ảnh
+RAM: 1GB
+Bộ nhớ trong: 16GB
+Camera chính: 8MP, Flash LED, AutoFocus, quay phim Full-HD
+Camera phụ: VGA
+Cảm biến ảnh: Sony Exmor R™
+Kết nối: Wi-Fi, Bluetooth, A-GPS, cổng 3.5 mm, DLNA, HDMI, Micro USB, NFC
+Pin: 1.265mAh (tối thiểu) / 1.305 mAh (chuẩn)
+Kích thước: 122 x 59,5 x 10,5 mm
+Nặng: 120 g
+Xperia U
+Là chiếc máy có màn hình nhỏ nhất trong 3 mẫu thuộc series NXT với màn hình 3.5" Reality Display độ phân giải 480x854. Máy được trang bị CPU 2 x 1GHz và camera 5MP quay phim HD 720p. Tuy có cấu hình thuộc dòng thấp nhất trong 3 mẫu, nhưng Xperia U lại có một điểm rất đặc biệt đó là dãy đèn LED bên dưới màn hình có thể đổi màu sắc theo Notification hay đổi màu theo hình ảnh và video mà bạn đang xem.
+Máy cũng sẽ được bán từ giữa quý II với 4 màu sắc đen, trắng, hồng và vàng.
+Cấu hình chi tiết Xperia U:
+HĐH: Android 2.3 (sẽ được lên 4.0 vào quý II)
+CPU: 1GHz Qualcomm hai nhân
+Màn hình: TFT 3.5" 16 triệu màu, chống trầy, cảm ứng đa điểm (4 ngón), 480 x 854 điểm ảnh
+RAM: 512MB
+Bộ nhớ trong: 4GB
+Camera chính: 5MP, Flash LED, AutoFocus, quay phim HD 720p
+Camera phụ: VGA
+Cảm biến ảnh: Sony Exmor R™
+Kết nối: Wi-Fi, Bluetooth, A-GPS, cổng 3.5 mm, DLNA, Micro USB, NFC
+Pin: 1.290mAh (tối thiểu) / 1.320 mAh (chuẩn)
+Kích thước: 112 x 54 x 12 mm
+Nặng: 110 g
+Cả hai dòng sản phẩm này sẽ bán ra thị trường trong quý II tới. Chưa có thông tin về giá của Xperia U và P. Cũng tại sự kiện này, Sony công bố kế hoạch lớn quảng cáo dòng Xperia trong nhiều năm. Hãng cho biết, mẫu Xperia S sẽ bán ra trong tuần tới, trong khi Xperia Ion có mặt vào mùa hè.
+Bộ 3 series máy Xperia
+Ngoài ra, hãng cũng công bố chiếc SmartDock cho phép kết nối điện thoại với TV tốt hơn để chia sẻ các ứng dụng giải trí.
+G.T (Dịch, tổng hợp)

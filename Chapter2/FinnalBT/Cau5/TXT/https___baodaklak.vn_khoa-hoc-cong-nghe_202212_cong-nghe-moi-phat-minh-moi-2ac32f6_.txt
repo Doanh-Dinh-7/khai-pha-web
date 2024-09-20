@@ -1,0 +1,16 @@
+Công nghệ mới - phát minh mới
+09:55, 27/12/2022
+Cảm biến siêu nhạy giúp cảnh báo cháy rừng sớm
+Cảm biến siêu nhạy hay mũi điện tử cảnh báo sớm cháy rừng vừa được doanh nghiệp khởi nghiệp Dryad của Đức trình làng. Thiết bị này có thể phát hiện cháy rừng dựa vào khí nên rất nhanh, chính xác, có thể nhận biết ngay từ giai đoạn cháy âm ỉ, thường trong vòng 1 giờ đầu tiên. Lợi thế khác của cảm biến là dùng năng lượng mặt trời nên rất tiện lợi và không lo mất điện.
+Theo CEO của Dryad, cảm biến của họ có thể phát hiện khí hydro, carbon monoxide và những hợp chất hữu cơ dễ bốc. “Mũi điện tử” gắn vào cây có thể ngửi được lửa nên rất nhanh và nhạy. Khi phát hiện dấu hiệu hỏa hoạn, cảm biến sẽ gửi tín hiệu qua mạng không dây. Tín hiệu được chuyển tiếp đến các thiết bị bằng vệ tinh và 4G và gửi thẳng đến những người quản lý rừng. Qua thử nghiệm hệ thống tại khu rừng rộng 50 ha tại bang Saxony-Anhal (Đức) cho thấy cảm biến phát hiện sớm hỏa hoạn trong vòng 14 phút. Thời gian phát hiện cực nhanh này có thể giúp cứu được nhiều khu rừng khỏi bị cháy trong mùa hanh khô.
+Máy tắm tự động cho người bận rộn
+Các nhà khoa học ở công ty Science (Nhật Bản) vừa giới thiệu một loại thiết bị dân dụng độc lạ mà tiện lợi cho các gia đình, đó là máy tắm tự động, rất hợp với nhóm người bận rộn, hoặc cả những người ngại tắm. Theo Science mô tả, máy có tên Project Usoyaro, con người sau một ngày bận rộn, mệt mỏi chỉ cần nằm vào trong máy còn việc kỳ cọ, rửa, xoa bóp và sấy khô… đều do máy đảm nhận với thời gian chừng 5 phút.
+Máy tắm cho người bận rộn.
+Project Usoyaro có thiết kế dạng bồn khép kín có giường và hệ thống nước xịt rửa bao quanh. Hệ thống được trang bị nhiều cảm biến giám sát và hệ thống trí tuệ nhân tạo (AI) để làm sạch cơ thể một cách gọn gàng, kèm theo chức năng xoa bóp thư giãn. Dự kiến Project Usoyaro sẽ được “lên kệ” vào năm 2024, muộn nhất là năm 2025.
+Công nghệ Internet có tốc độ gấp 100 lần so với Wi-Fi
+Li-Fi là công nghệ kết nối Internet thế hệ mới với tốc độ gấp 100 lần so với phổ vô tuyến của Wi-Fi vì nó dùng ánh sáng truyền dữ liệu thay vì sóng vô tuyến. Ngoài ra, về mặt lý thuyết Li-Fi còn có ưu điểm ít bị nhiễu, bảo mật tốt hơn và phủ sóng Internet công cộng dễ dàng hơn so với Wi-Fi hiện có.
+Li-Fi – công nghệ Internet có tốc độ nhanh hơn Wi-Fi.
+Li-Fi (Light Fidelity) thực chất là truyền Internet thông qua ánh sáng đèn LED, dạng thức bậc cao hơn Wi-Fi (Wireless Fidelity) được Harald Haas, Giáo sư của Đại học Edinburgh (Anh) đặt tên. Về cơ bản, công nghệ Li-Fi hoạt động dựa trên sự kết hợp giữa chùm sóng ánh sáng và công nghệ xử lý tín hiệu. Ánh đèn phát ra ánh sáng với quy ước đèn sáng là số 1, đèn tắt là số 0, khi đèn bật tắt liên tục sẽ tạo ra một chuỗi dữ liệu thông tin, và thiết bị tiếp nhận có thể nhận dạng được chuỗi bật tắt này để chuyển thành tín hiệu trực tuyến. Quan trọng hơn, chuỗi bật tắt này của bóng đèn điện có thể diễn ra với một tần suất rất cao mà mắt thường không thể nhìn thấy và tần suất của bóng đèn LED thậm chí còn nhanh hơn gấp trăm lần so với bóng đèn thông thường.
+Nguyễn Duy
+(Theo CNN/DM/PCL/KMC- 11/2022)
+ 

@@ -1,0 +1,8 @@
+Mẫu chân robot nhân tạo kiểu mới
+08:35, 24/08/2011
+Những nhà khoa học tại Đại học Vanderbilt, Nashville, Tennesseen (Mỹ), vừa có một sáng chế mang lại niềm vui cho những người khuyết tật khi đã chế tạo thành công chân robot thế hệ mới, có thể hỗ trợ người khuyết tật di chuyển một cách tự nhiên và linh hoạt hơn so với các mẫu chân robot trước đây.
+  Theo đó, những công nghệ tiên tiến nhất hiện nay đã được áp dụng để chế tạo chiếc chân robot này. Chiếc chân này sử dụng nguyên tắc hoạt động: những cử động của người dùng sẽ được một chip cảm biến ghi nhận và theo dõi, sau đó dữ liệu được chuyển về bộ vi xử lý trung tâm để từ đó đưa ra những dự đoán nhằm giúp thiết bị phối hợp một cách chính xác với phần còn lại của cơ thể. Năng lượng cung cấp cho toàn hệ thống được lấy từ một bộ pin, có khả năng vận hành trong 3 ngày hoặc với một quãng đường 13-14 km hoạt động liên tục chỉ trong một lần sạc. Đầu gối và mắt cá được chế tạo thành một khối thống nhất chứ không tách rời riêng biệt như trong những mẫu chân nhân tạo truyền thống, vì thế giảm thiểu tối đa sự cứng nhắc và độ trễ khi di chuyển. Anh Craig Hutto, tình nguyện viên dùng thử đã xác nhận điều này: "chiếc chân giả trước kia không thể bắt kịp tốc độ của tôi, nhưng với chiếc chân mới này, khoảng cách chênh nhau chỉ còn là rất nhỏ". Hơn nữa, khối lượng toàn thiết bị chỉ vào khoảng hơn 4 kg, nhẹ hơn phần lớn chân của người bình thường, giúp tăng tốc độ đi lại của người dùng thêm 25%, với mức tiêu hao sức lực ít hơn từ 30 đến 40%.
+Giáo sư Michael Goldfarb, Đại học Vanderbilt
+và anh Craig Hutto cùng chiếc chân robot mới nhất.
+Đây là dự án đã kéo dài 7 năm trời để phát triển, hoàn thiện và hứa hẹn mở ra một hướng mới cho kỹ thuật chế tạo chân tay giả trong tương lai.
+G.T ( Dịch, tổng hợp)

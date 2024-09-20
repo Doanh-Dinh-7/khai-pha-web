@@ -1,0 +1,24 @@
+Cảnh báo sự cố công cộng “ẵm” giải của Microsoft
+21:29, 27/04/2012
+Ngày 26-4, Tổng Giám đốc điều hành Tập đoàn Microsoft, ông Kevin Turner đã trao giải cuộc thi Imagine Cup Việt nam cho các sinh viên có sản phẩm xuất sắc.
+
+Chủ đề của cuộc thi năm nay được "gã khổng lồ" phần mềm thế giới đặt ra là: "Hãy tưởng tượng một thế giới nơi công nghệ có thể giúp giải quyết những vấn đề nan giải nhất."
+
+Sau nhiều vòng chấm, dự án “Hệ thống cảnh báo sự cố công cộng” của đội GP3S (sinh viên trường Đại học Công nghiệp Thành phố Hồ Chí Minh) đã xuất sắc vượt qua 78 đội dự thi, dành giải quán quân.
+
+Nguyễn Đức Cương, thành viên của GP3S cho hay khi lưu thông trên đường, các em thường gặp nhiều sự cố (mất nắp hố ga, tắc đường…). Do đó, các bạn trẻ đã nảy ra ý tưởng viết phần mềm cảnh báo sự cố để mọi người biết cách để tránh, bảo đảm an toàn khi tham gia giao thông.
+
+Giao diện của phần mềm khá đơn giản, như một bản đồ. Nó cho phép người sử dụng chụp ảnh sự cố gặp phải khi lưu thông và gửi về máy chủ để cảnh báo. Từ thông báo này, nhà quản lý có thể xác minh lại thông tin, và đưa ra cảnh báo ngay trên bản đồ giúp người giao thông biết cách để phòng tránh.
+
+Đoạt giải nhất cuộc thi tại Việt Nam, Cương cho biết sẽ bổ sung các tính năng như cung cấp dữ liệu thời gian thực, cảnh báo bằng giọng nói… vào phần mềm, trước khi tham dự cuộc thi Imagine Cup quốc tế được tổ chức tại Australia vào tháng 7 tới.
+
+Ngoài ra, các dự án đoạt giải cũng sẽ được Microsoft cung cấp công cụ để phát triển ý tưởng vào thực tiễn.
+
+Có mặt ở Việt Nam từ năm 2004, Imagine Cup đã được giới sinh viên công nghệ đón nhận rất tích cực. Năm nay, có hơn 1.000 sinh viên thuộc 78 đội nộp giải pháp dự thi, tăng gấp 4 lần so với 2011.
+
+Thứ trưởng Bộ Khoa học và Công nghệ, ông Chu Ngọc Anh nhận định cuộc thi này đã đóng vai trò tích cực, là cơ hội, sân chơi cho bạn trẻ phát huy sức sáng tạo khoa học công nghệ cũng như tạo tiền đề tốt trong việc phát triển nguồn nhân lực công nghệ chất lượng cao.
+
+Nhận định Việt Nam có tiềm năng lớn để trở thành một cường quốc trong lĩnh vực phần mềm và phát triển ứng dụng, ông Kevin Turner cho hay Microsoft cam kết hỗ trợ toàn diện, nhằm phát triển lực lượng lao động tri thức, có sức mạnh để chuyển đổi nền kinh tế.
+
+Ngoài ImagineCup, Microsoft còn cung cấp công cụ phát triển phần mềm miễn phí DreamSpark dành cho sinh viên. Và trong năm nay, đã có hơn 140.000 lượt tải công cụ này từ Việt Nam.
+(Theo VietNam+)

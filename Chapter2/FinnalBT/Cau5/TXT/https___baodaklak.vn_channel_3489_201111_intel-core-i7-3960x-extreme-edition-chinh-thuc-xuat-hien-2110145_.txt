@@ -1,0 +1,11 @@
+Intel - Core i7-3960X Extreme Edition chính thức xuất hiện
+14:55, 16/11/2011
+Hãng Intel đã cho ra đời bộ vi xử lý mạnh nhất từ trước tới nay - Core i7 Extreme Edition-3960X, cùng với một chipset mới, Express X79.
+  Extreme Edition, là con chip mang lại hiệu năng xử lý mạnh mẽ nhất với 6 nhân và hoạt động ở tốc độ xung nhịp 3.3Ghz. Core i7-3960X hỗ trợ bộ nhớ DDR3 bốn kênh, L3 cache (bộ nhớ đệm) 15MB và có thể được ép xung lên tối đa 3.9Ghz với Turbo Boost, công nghệ ép xung tự động của Intel.
+  Nhà sản xuất cho biết sẽ bán ra Extreme Edition Core i7-3960X với giá 990USD dành cho khách hàng mua với số lượng lớn. Maingear là một trong số những cái tên đầu tiên trang bị Core i7-3960X cho ba dòng máy bàn của mình gồm SHIFT, Quantum SHIFT và F131. Với khả năng ép xung lên 5.2Ghz (cao hơn nhiều lần so với Turbo Boost), BXL này giúp mang lại khả năng xử lý với tốc độ nhanh hơn 34%.
+Bộ phận nâng cấp hy vọng sẽ sử dụng bộ vi xử lý mới có thể cảm thấy không thất vọng bởi Intel socket mới LGA 2011 của Intel.
+Quantum SHIFT
+ASUS có một loạt các bo mạch chủ mới sử dụng Chipset X79 và socket LGA 2011, dự định được sử dụng với hexacore i7-3930K Core i7-3960X. Thế hệ ASUS P9X79 nhằm mục đích thân thiện với người sử dụng, với các tính năng như bộ nhớ đệm SSD.
+ 
+Tất cả các loại trên người sử dụng mong đợi tăng được quy trình xử lý từ con chip mới của Intel, Intel tăng hiệu suất  20% trong xử lý video và tăng 14% xử lý 3D. Giá niêm yết dự kiến của ASUS cập nhật " Intel con chip", chỉ có giá $ 990 cho các i7-3960X và $ 555 cho các i7-3930K; các i7-3820 sẽ được niêm yết giá trên thị trường vào quý I năm 2012.
+G.T ( Tổng hợp)

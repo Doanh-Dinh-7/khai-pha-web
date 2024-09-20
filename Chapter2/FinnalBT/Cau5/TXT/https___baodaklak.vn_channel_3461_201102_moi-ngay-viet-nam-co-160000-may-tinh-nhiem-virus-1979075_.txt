@@ -1,0 +1,12 @@
+Mỗi ngày Việt Nam có 160.000 máy tính nhiễm virus
+14:35, 20/02/2011
+Hệ thống giám sát virus của Bkav cho thấy, đã có 58,6 triệu lượt máy tính tại Việt Nam bị nhiễm virus trong năm 2010.
+
+Trung bình một ngày đã có hơn 160 nghìn máy tính bị nhiễm virus, con số báo động về tình hình virus máy tính tại Việt Nam.
+Ảnh minh họa
+
+Đã có 57.835 dòng virus xuất hiện mới, nhưng virus lây lan nhiều nhất lại là một dòng virus cũ W32.Conficker.Worm. Virus này từng “nổi đình đám” trên toàn cầu từ cuối năm 2008, tuy nhiên theo thống kê của Bkav, đã có tới 6,5 triệu lượt máy tính bị nhiễm Conficker trong năm 2010.
+
+Các virus siêu đa hình (Metamorphic virus) tiếp tục đứng trong top 3 những virus lây nhiễm nhiều nhất trong năm và là nỗi ám ảnh với người sử dụng máy tính tại Việt Nam. Với khả năng “thay hình đổi dạng” để lẩn trốn, 2 dòng virus Vetor và Sality đã lan truyền trên 5,9 triệu lượt máy tính.
+
+G.N (Theo Bkav)

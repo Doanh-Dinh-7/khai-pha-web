@@ -1,0 +1,26 @@
+Những phát minh khoa học nổi bật năm 2022
+19:38, 01/01/2023
+Kết thúc năm 2022, nhiều tạp chí khoa học hàng đầu thế giới đã bình chọn danh sách những phát minh khoa học ấn tượng, tiêu biểu và nổi bật nhất trong năm.
+Phát minh khoa học - công nghệ mới
+Những phát minh khoa học - công nghệ mới
+Những phát minh khoa học giúp phòng, chống HIV/AIDS
+Phát minh khoa học môi trường hữu ích
+Kính thiên văn James Webb
+Tạp chí Science năm nay đã vinh danh Kính viễn vọng không gian James Webb (JWST) của NASA là thành tựu sáng chói trong lĩnh vực công nghệ hàng không vũ trụ. Không giống kính viễn vọng không gian Hubble quét bầu trời từ quỹ đạo thấp của Trái Đất, kính JWST lại đặt cách xa hàng trăm nghìn dặm dưới Trái Đất, nơi nó vĩnh viễn bị chặn khỏi ánh sáng mặt trời. Tầm nhìn của JWST còn được bảo vệ thêm bởi tấm chắn nắng nhiều lớp, và tọa lạc tại vị trí có nhiệt độ -223 độ C nên rất phù hợp cho quét hồng ngoại.
+JWST trị giá 10 tỷ USD, có thể nhìn sâu vào các trường hình thành các ngôi sao, và có thể nhìn ngược thời gian 13 tỷ năm về các thiên hà cổ đại. Nó có thể giúp con người quan sát và hiểu về cách những ngôi sao và thiên hà hình thành từ vật chất nguyên thủy, điều mà Hubble chỉ có thể nhìn thoáng qua hay khó làm được.
+Triển vọng đảo ngược cái chết
+Mùa hè 2022, các nhà khoa học Yale đã công bố nghiên cứu hồi sinh thành công các tế bào trong tim, gan, thận và não của lợn trong phòng thí nghiệm trong một giờ. Kỳ tích có một không hai này được tạo ra bằng cách sử dụng một thiết bị giống như máy tim phổi để bơm một dung dịch tùy chỉnh có tên là OrganEx vào cơ thể lợn. Tim của những con lợn bắt đầu đập và truyền dung dịch qua tĩnh mạch của chúng.
+Triển vọng đảo ngược cái chết thông qua nghiên cứu sinh các tế bào trong tim, gan, thận và não lợn.
+Tuy những con lợn này không được hồi sinh, nhưng các cơ quan của chúng bắt đầu hoạt động trở lại. Hy vọng bước đột phá này sẽ mở đường giúp tăng nguồn cung cấp nội tạng người để cấy ghép bằng cách cho phép các bác sĩ lấy nội tạng còn sống từ cơ thể sau khi chết. Công nghệ này cũng có thể hữu ích trong việc hạn chế thiệt hại cho tim do đau tim và não do đột quỵ.
+Liệu pháp vắc xin mới cho bệnh sốt rét và mọi chủng cúm
+Vắc xin cúm vạn năng (Universal flu vaccine) của nhóm đề tài do Tiến sĩ Scott Hensley tại Đại học Pennsylvania (UoP) và các đồng nghiệp được tạo ra dựa trên các phân tử mRNA — kỹ thuật tương tự mà Moderna và Pfizer cùng với đối tác BioNTech đã sử dụng để sản xuất vắc xin COVID-19. Vắc xin mới này đã tạo ra phản ứng kháng thể chống lại tất cả 20 chủng cúm A và B khi thử nghiệm trên chuột với hiệu quả kéo dài bốn tháng.
+Bên cạnh đó, các nhà khoa học tại Đại học George Washington (Mỹ) cũng đã sử dụng công nghệ mRNA để tạo ra loại vắc xin mới chống sốt rét. Qua thử nghiệm cho thấy vắc xin này có hiệu quả cao trong việc giảm lây nhiễm và lây truyền bệnh sốt rét.
+Tạo ra sự sống không cần tinh trùng hay trứng
+Viện Khoa học Weizmann ở Israel vừa tạo thành công phôi chuột bên trong lò phản ứng sinh học từ tế bào gốc nuôi cấy trong đĩa petri mà không cần có trứng và tinh trùng. Phôi phát triển bình thường, bắt đầu dài ra vào ngày thứ ba và phát triển tim đập vào ngày thứ tám.
+Đây là lần đầu tiên các nhà khoa học phát triển phôi chuột tổng hợp hoàn toàn bên ngoài tử cung. Thí nghiệm mở ra triển vọng trong nghiên cứu về cách tế bào gốc hình thành các cơ quan khác nhau cũng như cách đột biến dẫn đến bệnh tật. Bên cạnh đó, các nhà khoa học tin rằng nghiên cứu này giúp giảm số lượng thí nghiệm trên động vật, mở đường cho việc tạo ra nguồn cung tế bào và mô mới phục vụ cho cấy ghép chữa bệnh. Như tế bào da của một bệnh nhân ung thư bạch cầu có thể được biến đổi thành tế bào gốc tủy xương để điều trị căn bệnh ung thư cho chính bản thân họ.
+Phản ứng tổng hợp hạt nhân
+Tháng 12/2022, Phòng thí nghiệm quốc gia Lawrence Livermore (LNNL) ở California (Mỹ) đã phát minh phản ứng nhiệt hạch đầu tiên giúp tạo thêm nhiều năng lượng hơn. Bằng cách sử dụng chùm tia laser có độ rộng bao trùm 3 sân bóng đá, các nhà khoa học đã tạo ra một lượng năng lượng khổng lồ từ phản ứng tổng hợp, được kỳ vọng sẽ tạo ra nguồn năng lượng sạch mới. Cụ thể, các nhà khoa học đã chiếu gần 200 chùm tia laser vào một điểm nhỏ để tạo ra một vụ nổ có năng lượng cao gấp 8 lần so với những gì họ từng làm trước đây. Mặc dù năng lượng này chỉ tồn tại trong thời gian cực ngắn (100/1.000 tỷ của giây), song bước đột phá này đưa các nhà khoa học tiến gần hơn đến mục tiêu đạt được phản ứng tổng hợp hạt nhân hay phản ứng nhiệt hạch để kích thích phản ứng.
+Phản ứng tổng hợp hạt nhân của Phòng thí nghiệm Quốc gia Lawrence Livermore.
+Trong thí nghiệm, các nhà khoa học đã sử dụng hai đồng vị (biến thể nguyên tử) của hydro tạo ra heli. Quá trình này cũng đang diễn ra ở các ngôi sao, trong đó có cả mặt trời. Đánh giá về phát minh này, Bộ trưởng Năng lượng Mỹ Jennifer Granholm nói “đây là phát minh phi thường, bước tiến quan trọng nhất trong phản ứng tổng hợp quán tính kể từ khi ra đời vào năm 1972, tạo ra nguồn năng lượng nhiệt hạch phi carbon cho tương lai”.
+Duy Nguyễn
+(Theo TWC/Science-12/2022)

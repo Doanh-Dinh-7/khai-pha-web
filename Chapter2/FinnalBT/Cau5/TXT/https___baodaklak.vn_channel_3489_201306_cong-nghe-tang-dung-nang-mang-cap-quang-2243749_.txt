@@ -1,0 +1,8 @@
+Công nghệ tăng dung năng mạng cáp quang
+20:53, 16/06/2013
+Trung tâm thiết bị băng thông siêu cao tần hệ thống cáp quang (Úc) vừa phát triển thành công một công nghệ mã hóa dữ liệu cho phép tăng hiệu suất của mạng lưới cáp quang hiện có trên thế giới.
+Theo đó, các nhà khoa học thuộc nhóm nghiên cứu cho biết, phát minh của họ sẽ tăng khả năng dung năng của mạng cáp quang lên cao nhất có thể. Theo đó, chỉ cần một sợi cáp là có khả năng truyền dẫn tất cả lưu lượng Internet trên thế giới.
+Nhóm nghiên cứu đã lập trình lại một bộ LCoS WSS - một thành phần mạng sử dụng các bước sóng laser khác nhau để hợp/tách nhiều dòng dữ liệu kỹ thuật số trên một sợi cáp quang theo công nghệ vi chiếu LCoS nhằm khai thác các kênh dữ liệu hiệu quả hơn. Từ đó hệ thống này sẽ truyền dẫn một tín hiệu với tốc độ 10 Tb/s trên một khoảng cách hơn 850 km bằng công nghệ trên. Mặc dù tốc độ này vẫn chưa bằng so với kỷ lục 26 Tb/s được Viện công nghệ Karlsruhe, Đức xác lập 2 năm về trước nhưng so về khoảng cách thì lại nhiều hơn 50 km.
+Nhóm nghiên cứu tin rằng công nghệ trên sẽ cho phép giảm thiểu hạ tầng mạng hiện tại, khi nó đang đối mặt với nhu cầu sử dụng Internet tăng cao. Dự kiến, trong mười năm tới, nhu cầu sử dụng Internet sẽ tăng lên hơn 1000 lần so với hiện tại.
+H.G (Dịch, tổng hợp)
+ 

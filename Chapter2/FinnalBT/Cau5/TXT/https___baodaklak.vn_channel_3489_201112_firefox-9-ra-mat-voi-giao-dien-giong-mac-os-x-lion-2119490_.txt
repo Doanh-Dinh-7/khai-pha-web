@@ -1,0 +1,9 @@
+Firefox 9 ra mắt với giao diện giống Mac OS X Lion
+22:34, 22/12/2011
+  Với công nghệ mới "Type Inference", Mozilla đã tăng hiệu suất của JavaScript lên 30% trong phiên bản Firefox 9, và được kiểm chứng bởi một số thử nghiệm chuẩn. Frirefox 9 cũng hỗ trợ Mac OS X Lion của Apple tốt hơn, bao gồm hỗ trợ 2 điểm chạm và giao diện giống Lion.
+    Phiên bản mới cũng thêm một số tính năng cho các nhà phát triển Web. Trang web đã có thể cung cấp một lượng lớn dữ liệu cho trình duyệt bằng cách “hiển thị ngay các thông tin mà trang web đã tải lên thay vì đợi đến khi toàn bộ quá trình tải được hoàn thành”. Firefox 9 cũng hỗ trợ cho nền tảng CSS, HTML 5 mà MathML.
+Trong thử nghiệm sơ bộ, Mozilla cho biết tốc độ đạt được khi chạy trên chuẩn SunSpider Javascript, chuẩn Kraken của Mozilla và V8 của Google lần lượt tăng 9%, 32% và 36%.
+Phiên bản Firefox trên Android cũng được nâng cấp. Người dùng có thể lựa chọn hiển thị màn hình theo chiều thẳng (portrait) hoặc chiều ngang (landscape), các hình thu nhỏ (Thumbnail) được hiển thị cùng với mỗi tab. Người dùng cũng có thể thêm các trang bookmark trên Home screen như các ứng dụng bình thường.
+Thanh Action Bar mới cho phép người dùng Android truy cập vào các tùy chọn của Firefox, công cụ hỗ trợ (Add-on) và mục download.
+Cuối cùng, phiên bản Android của Firefox 9 cho phép các trang web sử dụng camera của điện thoại và hỗ trợ mẫu xác nhận của HTLM5, tự động xác nhận các website dựa trên các con số, các e-mail và liên kết URL mà không cần nhà phát triển phải viết một đoạn mã cho việc đó hoặc sử dụng một thư viện thứ 3.
+Nguồn thongtincongnghe.com

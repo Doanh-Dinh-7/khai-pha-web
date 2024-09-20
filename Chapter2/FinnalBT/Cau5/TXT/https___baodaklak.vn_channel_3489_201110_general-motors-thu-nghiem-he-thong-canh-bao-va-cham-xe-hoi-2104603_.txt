@@ -1,0 +1,9 @@
+General Motors thử nghiệm hệ thống cảnh báo va chạm xe hơi
+20:29, 23/10/2011
+Tại hội nghị Intelligent Transport Systems World Congress đang diễn ra tại Mỹ, hãng xe General Motors đã trình diễn một hệ thống cảnh báo va chạm mới có thể giảm đến 81% các vụ tai nạn.
+  Hệ thống này có tên Dedicated Short-Range Communication (DSRC), sẽ giúp các tài xế, người đi đường, chạy bộ, người đi xe đạp có thể giao tiếp không dây với nhau hoàn toàn tự động để cảnh báo sớm những va chạm có thể xảy ra khi đang lưu thông.
+  DSRC có thể được trang bị trên xe hơi lẫn điện thoại di động, từ đó giúp xe hơi và các thiết bị có thể kết nối với nhau trước để tránh bị va chạm khi đang di chuyển.
+  Thông qua giao tiếp không dây giữa những chiếc xe được trang bị DSRC, chúng có thể phát hiện những chiếc xe khác đang lưu thông gần đó như xe hơi, xe máy, xe đạp, tình hình giao thông, tình trạng kẹt xe, thậm chí là các công trường và cảnh sát giao thông gần đó. Đặc biệt là nó có thể nhận biết chiếc xe khác cách xa đến hơn 400 mét, giúp bạn có đủ thời gian để xoay chuyển tình hình.
+  Ngoài ra, DSRC khi được trang bị trên các smartphone thì những người đi đường, đi xe đạp hay cảnh sát giao thông cũng có thể được nhận biết từ xa bởi các xe hơi.
+  Khi đó nó sẽ giúp cho người điều khiển xe nhận biết tại các ngã tư có người đi bộ, xe đạp đang lưu thông hay không và ngược lại.
+G.T ( Dịch, tổng hợp)

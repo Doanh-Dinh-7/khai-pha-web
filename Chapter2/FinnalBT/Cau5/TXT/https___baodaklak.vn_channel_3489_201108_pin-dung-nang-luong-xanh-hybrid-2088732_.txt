@@ -1,0 +1,7 @@
+Pin dùng năng lượng xanh hybrid
+10:42, 15/08/2011
+Công ty Ixous Inc, chuyên ngành công nghiệp lưu trữ năng lượng vừa công bố đã chế tạo thành công một thiết bị lưu trữ hybrid, có thể thay thế hoàn toàn những viên pin vẫn thường sử dụng trên các thiết bị điện tử trong các ngành tự động hóa, y khoa và điện tử tiêu dùng.
+  Với kích cỡ chỉ bằng pin C-cell, thiết bị hybrid của Ixous kết hợp lợi thế sạc/xả rất nhanh của một "siêu tụ điện" với cường độ năng lượng tương đương trọng lượng của một điện cực lithium-ion. Theo đó, thiết bị này sản sinh năng lượng dựa vào sự kết hợp giữa vật liệu cacbon hoạt hóa để nạp điện và các lớp vật liệu li-ion đóng gói theo hình trụ. Qua đó nó có thể lưu trữ năng lượng gấp đôi so với các loại siêu tụ điện thông thường và thời gian sạc đầy chỉ tính bằng giây.
+Loại pin mới sẽ giúp tiết kiệm năng lượng trong công nghệ
+Tuy nhiên, thiết bị của Ixous có tuổi thọ vòng sạc thấp hơn (chỉ 20.000 lần) so với con số hàng triệu lần của các  tụ điện thông thường. Mặc dù vậy, thiết bị rất thích hợp để sử dụng trong các thiết bị khó có thể thay pin như bóng đèn không dùng dây điện. Trong xe hơi, nó có thể được dùng để chạy các mô-tơ nhỏ chẳng hạn như mô-tơ đóng mở cửa kính để giảm bớt nhu cầu sử dụng nguồn ắc-quy chính. Dự kiến, thiết bị hybrid của Ixous sẽ xuất hiện vào quí I năm 2010 và ứng dụng đầu tiên là trên xe hơi xanh hybrid với hệ thống "start-stop" hay microhybrid.
+G.T ( Theo Engadget)

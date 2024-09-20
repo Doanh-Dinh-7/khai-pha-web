@@ -1,0 +1,12 @@
+Tụ điện thể rắn làm từ công nghệ nano
+10:15, 06/09/2011
+Mới đây, các nhà khoa học của trường Đại học Rice, Houston, Texas (Mỹ), đã ứng dụng thành công công nghệ nano để phát triển một siêu tụ điện thể rắn (solid-state) hoàn toàn mới.
+Cấu tạo của EDLC
+Tụ điện có khả năng sạc/xả nhanh hơn pin, đồng thời quy trình này có thể lặp lại cả trăm ngàn lần. Pin lại có khả năng lưu trữ nhiều năng lượng hơn tụ điện. Hiện đã có loại tụ điện 2 lớp (EDLC – Siêu tụ điện) có khả năng lưu trữ năng lượng tương đương pin trong khi vẫn duy trì tốc độ sạc/xả nhanh như tụ điện thông thường. Nhưng EDLC có cấu tạo từ chất điện phân dạng gel, nó sẽ bị phá hủy khi tiếp xúc với môi trường nóng hoặc lạnh. Ứng dụng công nghệ nano để phát triển một siêu tụ điện thể rắn sẽ khắc phục điểm yếu này.
+"Rừng sợi cacbon"
+Siêu tụ điện của đại học Rice được cho là ổn định và có khả năng mở rộng. Tụ điện có thể giữ số lần sạc ngay cả khi sử dụng với tần số cao đồng thời không bị ảnh hưởng bởi nhiệt độ khắc nghiệt. Ngoài ra, tụ điện còn có thể được tích hợp vào các vật liệu khác, cho phép các microrobot có thể tự hoạt động bằng nguồn điện riêng.
+  Quy trình này bắt đầu bằng việc "nuôi" một bó gồm từ 15 đến 20 sợi nano đơn vách cacbon, mỗi sợi dài 50 micron. "Rừng sợi cacbon" này giúp tối đa diện tích tiếp xúc bề mặt với các electron. Sau đó, bó sợi cacbon được đưa vào một điện cực bằng đồng trong đó bao gồm các lớp vàng, titan mỏng để tạo sự dính kết và ổn định điện tích.
+Trong quy trình xử lý lắng đọng lớp hạt nhân, bó sợi được pha thêm axit sulfuric nhằm tăng tính dẫn điện. Tiếp theo, chúng được phủ một lớp nhôm oxit - nhôm oxit đóng vai trò là lớp điện môi và một lớp nhôm pha kẽm oxit - đóng vai trò là lớp phản điện. Cuối cùng, mạch điện được hoàn tất với một lớp điện cực bằng sơn bạc phủ trên cùng.
+  Các giải pháp thể rắn (solid-state) để lưu trữ năng lượng sẽ được tích hợp vào rất nhiều thiết bị trong tương lai, bao gồm màn hình dẻo, bộ phận cấy ghép sinh học, các cảm biến và tất cả ứng dụng điện tử khai thác tính năng sạc/xả nhanh của tụ điện.
+G.T ( Dịch, tổng hợp)
+ 

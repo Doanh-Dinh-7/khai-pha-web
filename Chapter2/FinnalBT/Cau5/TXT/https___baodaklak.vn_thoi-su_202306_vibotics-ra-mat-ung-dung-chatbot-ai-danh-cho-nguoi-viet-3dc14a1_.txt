@@ -1,0 +1,22 @@
+Vibotics ra mắt ứng dụng chatbot AI dành cho người Việt
+16:21, 16/06/2023
+Sáng 16/6, tại Hà Nội, Công ty Cổ phần Vibotics thuộc HTI Group chính thức ra mắt công cụ chatbot tích hợp trí tuệ nhân tạo (AI) Veronica với tham vọng phát triển một AI của người Việt Nam và dành riêng cho người Việt Nam.
+Trí tuệ nhân tạo: "Vệ sĩ" mới của con người trong tương lai
+Chia sẻ tại sự kiện, ông Đỗ Tuấn Anh, Giám đốc Vibotics cho biết, mục đích ban đầu xây dựng Veronica không phải là một AI giống ChatGPT mà đơn thuần là một AI có khả năng cạnh tranh.
+“Với phương châm là phát triển một AI của người Việt, cho người Việt, các thuật toán mà chúng tôi sử dụng tập trung vào việc phục vụ tốt nhất cho người Việt”, ông Đỗ Tuấn Anh nhấn mạnh.
+Giám đốc Công ty Cổ phần Vibotics Đỗ Tuấn Anh giới thiệu về chatbot AI Veronica.
+Giới thiệu về Veronica, ông cho biết ngoài việc thu thập dữ liệu, chatbot AI này còn có thể nhận định tính đúng, sai của dữ liệu này, theo đó nó loại bỏ tất cả các thông tin tiêu cực như: phân biệt chủng tộc, các nội dung đồi trụy, các thông tin chống phá Đảng, Chính phủ, Nhà nước Việt Nam…, qua đó định hướng trở thành một AI phục vụ mục đích đúng đắn của người Việt Nam.
+  Veronica hiện đã có mặt trên AppStore và GooglePlay. Người dùng có thể sử dụng ngay sau khi tải về mà không cần phải đăng ký. Nếu sử dụng Veronica trên web thì cần đăng nhập tài khoản bằng Gmail. Trong tương lai gần sẽ hoàn toàn miễn phí sử dụng.
+Được tích hợp giữa mô hình NLP xử lý ngôn ngữ tự nhiên và mô hình Chat Hunter do Vibotics tự phát triển và sở hữu bản quyền, Veronica có khả năng dùng ngôn ngữ giao tiếp giống người nhất có thể, đặc biệt hiểu được hơn 140 ngôn ngữ đầu vào và cho ra câu trả lời bằng tiếng Việt thông qua xử lý ngôn ngữ tự nhiên.
+“Veronica có thể hiểu được ngữ cảnh của tiếng Việt. Vì là sản phẩm được xây dựng cho người Việt nên khi áp dụng yếu tố đầu vào cũng như phân tích yếu tố đầu ra, chúng tôi tập trung làm sao để câu trả lời cuối cùng dễ hiểu nhất đối với người Việt Nam”, Giám đốc Vibotics cho hay.
+Cũng theo ông Đỗ Tuấn Anh, bên cạnh khả năng tạo văn bản, chatbot Veronica còn có thể tạo hình ảnh với kích thước và độ phân giải cao dựa trên những lời nhắc (prompt).
+Người đứng đầu Vibotics cho biết, do đây là một phần mềm phát triển cho người Việt Nam nên công ty chú trọng đẩy mạnh việc ứng dụng trải nghiệm người dùng cũng như tương tác với Veronica đều sử dụng tiếng Việt thuần, điều mà hầu hết các chatbot khác chưa làm tốt được.
+Một số ứng dụng của chatbot AI Veronica do Vibotics phát triển. Ảnh: Văn Toản
+Cũng tại lễ ra mắt, ông Đỗ Tuấn Anh đã chia sẻ về một số ứng dụng của Veronica, như tích hợp vào dịch vụ chăm sóc khách hàng của doanh nghiệp (hỗ trợ 24/7, tư vấn sản phẩm…); y tế (hỗ trợ chẩn đoán, dự báo bệnh, nhận dạng triệu chứng…); giáo dục (điểm danh học sinh, sinh viên, trợ giảng…); nhà thông minh (tự động bật, tắt thiết bị, nhận diện khách…); năng lượng; sản xuất công nghiệp (tự động hóa, dự đoán nhu cầu, quản lý tồn kho…); tài chính (phân tích dữ liệu, gợi ý đầu tư…)…
+Về tầm nhìn thời gian tới, Giám đốc Vibotics bày tỏ mong muốn xây dựng một cộng đồng AI Việt Nam mạnh mẽ, đồng thời hy vọng phần mềm Veronica sẽ có thể chuyển hóa thành open source (nguồn mở), nơi mọi người có thể đóng góp dữ liệu, ý tưởng, chia sẻ làm thế nào để Việt Nam có chỗ đứng vững chắc trên bản đồ AI thế giới.
+Lộ trình phát triển Veronica trong thời gian tới. Ảnh: Văn Toản
+Chia sẻ tại chương trình, ông An Ngọc Thao, Phó Tổng Thư ký Hiệp hội Phần mềm và Dịch vụ công nghệ thông tin Việt Nam (VINASA) nhấn mạnh vai trò dẫn dắt của AI trong quá trình chuyển đổi số tại Việt Nam.
+Theo đó, Chính phủ đã ban hành Chiến lược quốc gia về nghiên cứu, phát triển, ứng dụng trí tuệ nhân tạo đến năm 2030. VINASA cũng đã ra chiến lược AI trong nội bộ hơn 500 doanh nghiệp thành viên của của mình, trong đó có HTI Group.
+VINASA cũng thành lập một ủy ban riêng về phát triển trí tuệ nhân tạo, để cổ vũ, thúc đẩy những doanh nghiệp như Vibotics ra đời, phát triển, đồng thời liên kết với nhau hơn nữa, tạo ra một hệ sinh thái chuyển đổi số dành cho các doanh nghiệp, tổ chức tại Việt Nam.
+“Khi có hệ sinh thái số đầy đủ thì mới có các mô hình kinh tế, kinh doanh mới, đầy đủ dành cho các doanh nghiệp, đấy là kỳ vọng, mong muốn cao nhất của VINASA”, ông An Ngọc Thao khẳng định.
+ Theo Báo Nhân Dân

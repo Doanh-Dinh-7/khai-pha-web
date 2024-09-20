@@ -1,0 +1,42 @@
+Nokia giới thiệu một loạt 3 sản phẩm mới
+19:54, 03/04/2014
+Tại Hội nghị các nhà phát triển Microsoft Build 2014, diễn ra từ ngày 2 đến 4-4 tại San Francisco (Mỹ), Hãng điện thoại Nokia đã giới thiệu liên tiếp 3 mẫu điện thoại mới nhất của họ: Lumia 930, 630 và 635.
+Lumia 930 có màn hình Full HD 5 inch, sản phẩm dùng nền tảng Qualcomm Snapdragon 800 với bộ xử lý lõi tứ 2,2 GHz, bộ nhớ RAM 2GB, lưu trữ 32GB và không có khe cắm thẻ nhớ ngoài. Máy cũng được trang bị camera PureView với độ phân giải 20 megapixel và chống rung quang học (OIS) giống với Lumia 1520 cùng đèn flash LED kép. Thiết bị còn được cài sẵn ứng dụng Creative Studio, hỗ trợ tạo hiệu ứng giống Instagram cho ảnh.
+Một tính năng mới khác là Living Images, hoạt động với ứng dụng Storyteller của Nokia. Ảnh và video sẽ tự động được phân chia theo thời gian, vị trí địa lý cũng như người dùng có thể thêm nhạc nền khi xem ảnh. Đặc biệt, Nokia cũng nhấn mạnh rằng Lumia 930 sẽ có 4 microphone cao cấp, cho phép máy quay video cũng như thu âm giọng nói với chất lượng rất cao, loại bỏ các tạp âm.
+Khác với hai người tiền nhiệm, 920 và 925, Lumia 930 sở hữu kiểu dáng mạnh mẽ, chắc chắn, vuông vắn, hướng đến đối tượng khách hàng là nam giới nhiều hơn. Máy có mặt sau được làm bằng nhựa polycarbonate, viền bao bọc bằng kim loại. Có tích hợp sẵn công nghệ sạc không dây chuẩn Qi và có NFC.
+Khi được bán ra thị trường, 930 sẽ chạy hệ điều hành mới nhất được Microsoft giới thiệu là: Windows Phone 8.1 với tính năng tương tác bằng giọng nói Cortana. Lumia 930 sẽ được bán đầu tiên ở châu Âu trong tháng 6 trước khi xuất hiện tại châu Á và các thị trường khác. Sản phẩm sẽ có giá 599 USD.
+Lumia930 Hero in line
+Cấu hình cơ bản của Nokia Lumia 930
+Màn hình: kích thước 5", độ phân giải 1.920 x 1.080 pixel
+Kính cường lực Gorilla Glass 3, Clear Black Display, siêu nhạy
+Nền tảng: Qualcomm Snapdragon 800
+CPU: bốn nhân 2,2 GHz, RAM 2GB
+Bộ nhớ: 32GB
+Camera chính: PureView 20 MP 1/2.5", ống kính Zeiss 26mm f/2.4, OIS, đèn LED kép
+Camera phụ: 1,2 megapixel, quay phim HD 720p
+Kết nối: Wi-Fi chuẩn b/g/n/ac, Bluetooth 4.0, GPS + Glonass, NFC
+Pin: 2.420mAh, tích hợp chuẩn sạc không dây Qi
+Khe cắm SIM nano
+HĐH: Windows Phone 8.1
+Ngoài sản phẩm cao cấp Lumia 930, trong dịp này Nokia cũng trình làng hai mẫu điện thoại ở phân khúc bình dân là Lumia 630 và Lumia 635.
+Giao diện Windows Phone 8.1 trên Lumia 630/635 đã lược bỏ phím cảm ứng bên ngoài mà đưa vào giao diện màn hình. Đây là lý do màn hình ClearBlack của hai máy có kích thước 4,5" và độ phân giải 854x480 pixel, được bảo vệ bằng lớp kính cường lực Gorilla Glass 3. Máy hoạt động trên nền tảng phần cứng Snapdragon 400 với bộ xử lý lõi tứ 1,2 GHz, tuy nhiên RAM chỉ 512MB nhưng vẫn sở hữu khe cắm thẻ nhớ mở rộng microSD.
+Trong khi Lumia 630 là điện thoại Windows Phone đầu tiên được trang bị 2 SIM (máy cũng có bản dùng một SIM) thì Lumia 635 được coi là chiếc smartphone 4G giá rẻ nhất của Nokia.
+Lumia 630/635 được thiết kế với các cạnh được bo tròn ở mặt trước khá giống với Lumia 620. Trong khi đó nắp lưng ở phía sau được làm với vuông vắn như kiểu Nokia X nhưng vẫn có được một mức độ bo tròn nhất định để người dùng dễ cầm máy. Sản phẩm này có 5 vỏ màu để thay đổi gồm cam, xanh lá, vàng, đen và trắng. Lớp vỏ mang thiết kế giống Lumia 620 khi được cấu tạo bởi 2 lớp: lớp vỏ màu phía trong và lớp vỏ trong suốt mỏng bao bọc phía ngoài, tạo nên ánh nhìn khá đẹp mắt.
+Bộ đôi điện thoại mới sử dụng bàn phím Word Flow cho phép nhập liệu nhanh cùng các ứng dụng phổ biến như WhatsApp, Instagram, Nokia Camera, Microsoft Office và OneDrive... Máy có pin 1.830 mAh. Người sử dụng sẽ tận hưởng hệ điều hành mới Windows Phone 8.1 với giao diện Live Tiles, thanh thông báo Action Center...
+Hai sản phẩm được giới thiệu cùng cảm biến SensorCore điện năng thấp. Dường như bạn chẳng cần đến những vòng đeo tay khi cảm biến này có thể thực thi tốt việc theo dõi sức khoẻ, đếm bước chạy, tính toán lượng calo tiêu thụ... Nó hoạt động trên phần mềm Bing Health and Fitness. Pin dung lượng 1.830 mAh có thể giúp máy hoạt động một ngày làm việc liên tục.
+Nokia cũng giới thiệu CC-3079 - bộ vỏ bên ngoài với các màu xanh lá, cam và vàng - để người dùng thay thế và cá nhân hoá 630 và 635.
+Lumia 630 sẽ được bán ra trong tháng 5 ở châu Á và châu Âu với giá 159 USD cho bản một SIM và 169 USD cho bản 2 SIM. Lumia 635 sẽ được phân phối rộng hơn, trong đó có thị trường Mỹ, từ tháng 7 với giá 189 USD.
+Cấu hình cơ bản của Lumia 630/635:
+Mạng: GSM 4 băng tần, HSDPA 42.2 Mbps, LTE 3,7,20 (100Mbps)
+Màn hình: LCD IPS 4,5" độ phân giải 480 x 854 pixel
+Camera chính: 5 MP, sensor 1/4", ống kính 28mm f/2.4, không flash, quay 720p
+Camera phụ:
+Nền tảng: Qualcomm Snapdragon 400, bộ xử lý lõi tứ 1,2 GHz, RAM 512MB
+Bộ nhớ trong: 8GB, thẻ nhớ mở rộng microSD
+Kết nối: Wi-Fi chuẩn b/g/n, Bluetooth 4.0, GPS, (không có NFC), cảm biến SensorCore
+Hệ điều hành: Windows Phone 8.1
+Pin: 1.830 mAh
+Tuỳ chọn hai SIM cho Lumia 630
+Kích thước: 12,95 x 6,67 x 0,92 cm
+Trọng lượng: 134 g
+H.G (Giới thiệu)

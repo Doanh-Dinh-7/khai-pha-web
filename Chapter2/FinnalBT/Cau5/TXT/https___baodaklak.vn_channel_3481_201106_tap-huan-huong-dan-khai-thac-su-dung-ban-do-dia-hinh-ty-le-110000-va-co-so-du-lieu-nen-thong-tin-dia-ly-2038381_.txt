@@ -1,0 +1,10 @@
+Tập huấn hướng dẫn khai thác sử dụng bản đồ địa hình tỷ lệ 1/10.000 và cơ sở dữ liệu nền thông tin địa lý
+15:55, 23/06/2011
+Từ 22 đến 24-6, UBND tỉnh tổ chức Hội nghị tập huấn hướng dẫn khai thác sử dụng bản đồ địa hình tỷ lệ 1/10.000 và cơ sở dữ liệu (CSDL) nền thông tin địa lý cho các sở, ban, ngành, UBND các huyện, thị xã, thành phố, đại diện các đơn vị đo đạc và bản đồ trên địa bàn tỉnh.
+
+Quang cảnh Hội nghị tập huấn
+CSDL nền thông tin địa lý và bản đồ địa hình tỷ lệ 1/10.000 gắn với mô hình số độ cao khu vực Tây Nguyên do Cục Đo đạc và Bản đồ Việt Nam chủ trì, Tổng Công ty tài nguyên và Môi trường (TN&MT) Việt Nam thực hiện, là bộ sản phẩm lần đầu tiên được xây dựng theo tiêu chuẩn của ngành đo đạc và bản đồ Việt Nam và đã được bàn giao cho các tỉnh Tây Nguyên. Thông tin trên bản đồ khá chi tiết, phong phú cho từng thôn, xã, phủ trùm toàn tỉnh, toàn vùng, là cơ sở đầu vào quan trọng, bảo đảm dữ liệu của các đơn vị được xây dựng trên một nền thống nhất. Hệ thống này giúp quản lý tốt tài nguyên, điều tra cơ bản, xây dựng hệ thống thông tin địa lý cũng như giúp cho việc phân tích, đánh giá, hoạch định chính sách phát triển bền vững.
+
+     Hội nghị tập huấn nhằm giúp các đơn vị, địa phương cập nhật khai thác dữ liệu một cách hiệu quả. Chuyên gia của Tổng Công ty TN&MT Việt Nam giới thiệu với đại biểu tham dự về xây dựng hệ thống thông tin địa lý phục vụ quản lý Nhà nước tỉnh Dak Lak (GIS Dak Lak), sử dụng CSDL nền địa lý phục vụ xây dựng các CSDL GIS chuyên ngành. CSDL nền địa lý dùng chung toàn tỉnh được sử dụng làm nền để các sở, ban ngành tiến hành xây dựng CSDL GIS chuyên ngành riêng của mình. Kết qủa khảo sát cho thấy tại Dak Lak hiện có 17 đơn vị có nhu cầu xây dựng CSDL GIS và ứng dụng GIS. Trong giai đoạn đầu, GIS Dak Lak ưu tiên triển khai xây dựng các CSDL chuyên ngành và ứng dụng GIS chuyên ngành có nhu cầu ứng dụng GIS cao, như giao thông, thông tin- truyền thông, du lịch, quản lý đô thị, quản lý rừng, quy hoạch phát triển kinh tế xã hội…
+
+Hoa Hồng

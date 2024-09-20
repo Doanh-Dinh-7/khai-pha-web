@@ -1,0 +1,13 @@
+Bay thử nghiệm thành công UAV của Việt Nam
+21:46, 05/05/2013
+Vừa qua, tại bãi thử nghiệm Viện Công nghệ không gian thuộc Viện Hàn lâm Khoa học và Công nghệ Việt Nam, Liên hiệp Khoa học sản xuất công nghệ cao Viễn thông-Tin học (HTI) - km27 Đại Lộ Thăng Long Hà Nội, nhóm thực hiện Đề tài “Nghiên cứu chế tạo tổ hợp máy bay không người lái phục vụ nghiên cứu khoa học” đã tiến hành thành công bay thử nghiệm 3 trong 5 mẫu máy bay không người lái UAV.
+Cả 5 loại máy bay trên đều được thiết kế chế độ điều khiển bay tự động theo chương trình lập sẵn trên nền bản đồ số. Máy bay được trang bị camera máy ảnh tác nghiệp trong cả ban ngày và ban đêm cùng các trang bị nghiên cứu khoa học chuyên dụng khác.
+Các loại máy bay không người lái này bao gồm: AV.UAV.MS1, AV.UAV.S1, AV.UAV.S2, AV.UAV.S3, AV.UAV.S4. Đối với loại AV.UAV.S3, AV.UAV.S4 có thể mở rộng tầm bay xa hơn khi sử dụng liên lạc vệ tinh dẫn đường hoặc các trạm chuyển tiếp mặt đất.
+Các mẫu máy bay được giới thiệu lần này rất đa dạng và có thể cất cánh bằng nhiều cách, loại lớn nhất cần đường băng, cơ động hơn còn có thể cất cánh được từ ô tô... thậm chí có thể phóng thẳng lên trời bằng tay.
+Tính năng kỹ thuật cơ bản:
+- AV.UAV.MS1: Chiều dài 1,0m; sải cánh 1,2m; khối lượng tối đa 4kg; tải có ích 1kg; bán kính hoạt động 2km; trần bay 200m; tốc độ lớn nhất 70 km/h; thời gian hoạt động trên không 1,0h; được trang bị camera chuyên dụng, cự ly truyền 2km.
+- AV.UAV.S1: Chiều dài 1,80m; sải cánh 2,70m; khối lượng tối đa 12,0kg; khối lượng tải có ích 1,5kg; bán kính hoạt động 15km; trần bay 3000m; động cơ 45 cm3; tốc độ lớn nhất 120km/h; thời gian hoạt động trên không 2h; đường cất hạ cánh 50m; có thể cất cánh bằng bệ phóng, hạ cánh bằng dù; truyền ảnh online từ camera khoảng cách 15km.
+- AV.UAV.S2: Chiều dài 2,60m; sải cánh 3,20m; khối lượng tối đa 45kg; tải có ích 15kg; động cơ 80cm3; tốc độ lớn nhất 150km/h; trần bay 3000m; đường cất, hạ cánh 200m; có thể cất cánh bằng bệ phóng, hạ cánh bằng dù; thời gian hoạt động trên không 3h.
+- AV.UAV.S3: Chiều dài 3m; sải cánh 3,4m; khối lượng tối đa 115kg; khối lượng tải có ích 35kg; bán kính hoạt động 70km; trần bay 3000m; động cơ 350 cm3; tốc độ nhanh nhất 180km/h; thời gian hoạt động trên không tối đa 5h.
+- AV.UAV.S4: Chiều dài 4,20m; sải cánh 5,0m; khối lượng tối đa 170kg; khối lượng tải có ích 50kg; bán kính hoạt động 100km; trần bay 3000m; động cơ 400 cm3; tốc độ lớn nhất 180km/h; thời gian hoạt động trên không 6h; bay cả ban ngày và ban đêm.
+H.G (Tổng hợp)

@@ -1,0 +1,9 @@
+Tải clip từ Youtube về máy với YouTubeDownloaderHD
+08:57, 25/12/2011
+  Youtube là website cung cấp các video clip phổ biến nhất hiện nay. Tại đây, bạn có thể thưởng thức gần như tất cả các clip từ khắp nơi trên thế giới. Không chỉ xem mà Youtube còn cho phép bạn download các clip về máy với phần mềm YouTubeDownloaderHD.
+Để sử dụng phần mềm này, trước hết bạn vào http://www.youtubedownloaderhd.com để download phần mềm về máy. YouTubeDownloaderHD có 2 phiên bản: cài đặt và không cài đặt (portable), bạn sử dụng phiên bản nào cũng được. Tuy nhiên, nếu máy cấu hình thấp thì nên dùng bản portable.
+Giao diện chính của chương trình YouTubeDownloaderHD
+Để tải video clip về máy, bạn nhập địa chỉ đường dẫn từ Youtube vào ô Video URL (nên copy đường dẫn từ trình duyệt và dán (paste) vào ô này). Tiếp theo chọn thư mục lưu tập tin ở mục Save to. Sau đó bấm nút Download để bắt đầu tải clip về máy.
+Các clip tải về máy sẽ có đuôi dạng .FLV, vì vậy bạn nên đánh dấu kiểm vào ô Convert FLV to AVI hoặc Convert to MP4 để chuyển sang dạng .AVI hoặc .MP4. Các clip dưới các dạng này có thể xem ngay trên máy tính mà không cần cài thêm phần mềm nào. Hơn nữa, những tập tin dạng  .AVI hoặc .MP4 có thể chạy trên hầu hết các thiết bị giải trí di động như Ipod, điện thoại di động…
+Giao diện đơn giản, dễ sử dụng. Phiên bản mới nhất hiện nay là version 2.6. Qua thử nghiệm, tốc độ download các clip của YouTubeDownloaderHD khá nhanh so với nhiều phần mềm download khác. Chất lượng khi chuyển đổi định dạng gần như được giữ nguyên. Đặc biệt, bạn có thể chọn tải về các clip chất lượng cao HD (nếu có).
+Nam Việt

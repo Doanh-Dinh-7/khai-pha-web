@@ -1,0 +1,38 @@
+Apple punts on AI
+ 
+It was reasonable to expect that Apple would do with AI what it has done before with so many features and apps: wait, take notes, and then redefine. But though it has filed off some of the sharper edges of the controversial technology, the company seems to have hit the same wall as everyone else: Apple Intelligence, like other AIs, doesn’t really do anything.
+Well, it does do something. A few things, in fact. But like many AI tools, it seems to be an incredibly computationally demanding shortcut for ordinary tasks. This isn’t necessarily bad, especially as inference — that is, performing the actual text analysis, generation, etc. — becomes efficient enough to move to the device itself.
+
+
+
+It was billed as much more, however. Tim Cook told us at the outset of Monday’s “Glowtime” event that Apple Intelligence’s “breakthrough capabilities” will have “an incredible impact.” Craig Federighi said it will “transform so much of what you do with your iPhone.”
+The capabilities:
+
+Rephrase snippets of text
+Summarize emails and messages
+Generate fake emoji and clip art
+Find pictures of people, locations, and events
+Look up things
+
+Any of those feel like a breakthrough to you? There are countless writing helpers. Summary capability is inherent to nearly every LLM. Generative art has become synonymous with a lack of effort. You can trivially search your photos this way across any number of services. And our “dumb” voice assistants were looking up Wikipedia entries for us a decade ago.
+True, there is some improvement. Doing these things locally and privately is definitely preferable; there are some new opportunities for people who can’t easily use a regular touchscreen UI; there is certainly a net increase in convenience.
+But literally none of it is new or interesting. There don’t appear to be any meaningful changes to these features since they were released in beta after WWDC, beyond the expected bug fixes. (We’ll know more when we’ve had time to test them.)
+
+
+
+
+
+One would have hoped that “Apple’s first phone made from the ground up for Apple Intelligence” would offer much more. As it turns out, the 16 won’t even ship with all the features mentioned; they’ll arrive in a separate update.
+
+
+
+Is it a failure of imagination or of technology? AI companies are already beginning to reposition their products as yet another enterprise SaaS tool, rather than the “transformative” use cases we heard so much about (it turns out those were mostly just repeating stuff they found on the web). AI models can be extremely valuable in the right place, but that place doesn’t seem to be in your hand.
+There’s a bizarre mismatch between how commonplace these AI capabilities are becoming and how bombastic the descriptions of them are. Apple has become increasingly prone to the kind of breathless promotion it once showed up with its restraint and innovation. Monday’s event was among the least exciting in recent years, but the language was, if anything, more extravagant than usual.
+Like the other AI providers, then, Apple is participating in the multi-billion-dollar game of make-believe with the idea that these models are transformative and groundbreaking — even if almost no one finds them to be so. Because who could justify spending as much as these companies have when the result is that you can do the same things you did five years ago?
+AI models may be legitimately game changing in certain areas of scientific research, on some coding tasks, perhaps in materials and structural design, and likely (though perhaps not for the better) in media.
+But if we are to trust our eyes and thumbs, rather than Cook and Federighi’s reality distortion hour, it sure looks like the features we’re supposed to be excited about don’t do much that’s new, let alone revolutionary. Ironically, Apple’s announcement has failed to provide AI its “iPhone moment.”
+
+
+
+
+

@@ -1,0 +1,163 @@
+A guide to iOS 18’s hidden features and smaller updates
+ 
+Apple’s iOS 18 update became available to all users on September 16. Ahead of the release of Apple Intelligence, the most important new features have been the ability to customize icons on the Home Screen, swap out app shortcuts on the Lock Screen, the redesigned Control Center, support for RCS, and the new Passwords app. 
+But there are a ton of other small and fun changes that might be useful as well.
+We put together a list of some of our favorite under-the-radar features that you might have missed. 
+Settings
+
+Instead of listing all apps on the main page of the Settings app, which can lead to a lot of scrolling for those with a lot of apps installed, Apple now has a separate Apps menu dedicated to your apps. This cleans up the busy Settings screen and makes it more obvious where to find controls for individual apps. 
+
+Image Credits: Screenshot by TechCrunch
+Photos
+
+The Photos app now allows you to view your photo library without screenshots. You can tap on the sorting icon in the bottom left corner and uncheck screenshots under “View Options” to hide your screenshots from view.
+The Utilities collection in the Photos app has new content types like documents, receipts, handwriting, illustrations, and QR codes to make it easier to find certain information in your photos. Plus, you can view recently added, edited, and shared media items.
+The Photos app automatically suggests photos that are suited for wallpapers.
+You can now copy edits from one photo to another, including aspect ratio for crop, exposure, and white balance.
+The Photos app also organizes your travels automatically in a Trips section and groups together people and pets so you can find photos that contain both your partner and your cat, for instance.
+A new video speed control feature lets you create slowed-down video effects.
+
+
+
+
+Camera
+
+One of the prime complaints for users was that music playing through earphones paused when they were taking a photo or a video. iOS 18 solves that problem, as music will continue to play through Bluetooth connections when snapping a photo or video. 
+The Camera app also gets a new 5-second timer along with existing 3- and 10-second timers.
+
+Control Center
+
+You can customize your Control Center with widgets and buttons on iOS 18. 
+In addition, one of the key changes in the new view is that you now have a power button in the top-right corner. This means you don’t have to hold the power button and volume down to turn off the device — you can access it from the Control Center instead.
+
+Image Credits: Screenshot by TechCrunch
+Messages
+
+The Messages app finally lets you schedule messages for later, but this option is hidden in the + menu, rather than as an option associated with the send button, which could make it hard to find.
+
+Image Credits: Screenshot by TechCrunch
+
+
+
+
+iMessage also now lets you send images in full resolution up to 100MB in size.
+Text Effects add animated effects to any letter, word, or phrase, like Explode or Ripple, making conversations more visually interesting. You can also add text formatting like bold, underline, italics, and strikethrough.
+When off the grid, you can send messages via satellite when you otherwise don’t have a signal. 
+You can now “Tapback” with any emoji or sticker, and multiple Tapbacks are spread out so you can more easily see the most recent three that were added.
+
+Safari
+
+Safari now has a feature to remove distracting items from a web page. This feature won’t let you remove ads, but it can clean up some areas of the website you don’t need or don’t want to see. For instance, if a website insists that you sign up for their email newsletter, you can hide the signup box. (The Browser Company’s Arc browser implemented a similar feature last year.)
+Summary highlights will let you read a summary of an article before reading the whole thing. 
+Other highlights will point you to helpful information about people, music, movies, or TV shows.
+
+Weather
+
+The Weather app now has a widget prominently displaying Feels Like temperature merged with the actual temperature in the detailed view. So you can easily compare both.
+The Weather app will also show wind speeds, gusts, and directions more prominently.
+You can now set Home and Work locations from contacts in the Weather app.
+
+Siri
+
+AirPods now let you respond to Siri message announcements by shaking or nodding your head. That means you can receive or reject calls by mere gestures.
+
+Image Credits: Screenshot by TechCrunch
+
+
+
+Podcasts
+
+The new Podcasts app allows you to jump to a specific chapter from the progress bar if a podcast has defined them.
+The Podcasts app also gets the ability to reorder and remove episodes in the listening queue.
+You can share a specific part of a podcast using the podcast transcript.
+
+
+Maps
+
+Maps has added new topographic maps, hikes, and route creation, rivaling popular third-party tools like AllTrails.
+The Maps app will let you save hikes available across all U.S. national parks offline. Plus, you can create and save your own walking and hiking routes.
+Apple is making the Maps app more useful for discovery by letting you compare places by browsing photos, ratings, and price levels.
+
+Notes
+
+Notes now support collapsible sections so you can build structured documents within the app.
+The app has also added audio recording support, meaning you can record an audio session right from your note so you can keep the audio together with your comments, checklists, and documents. You can even edit the note while recording. 
+The Notes app also supports PDF inline search and different colored highlighting.
+Both Notes and Calculator support solving math equations.
+You can also add various graphs and variables related to equations.
+
+Image Credits: Apple
+
+
+
+Mail
+
+The Mail app finally has a way to group emails by a sender. You can perform quick actions on them, including marking emails as read and deleting and archiving them.
+A new Transactions category will help you more easily find order confirmations, receipts, shipping, and travel information. 
+Meanwhile, an Updates category will collect your newsletters, news items, and social updates in one place, similar to Gmail.
+From Transactions, Updates, and Promotions, those items that are time-sensitive will still appear in the Primary section. (They’ll also be labeled with their category icon for easy reference.)
+There are new cleanup tools available from the Mail app, plus on iCloud.com and via iCloud Mail settings.
+
+Utilities and keyboard
+
+The keyboard now supports multiple languages in one keyboard. It also detects the last language you used in apps like Messages and switches automatically.
+Apple has also introduced a unified picker for emojis and stickers in the keyboard and made them both searchable.
+The Calculator can now evaluate expressions, assign variables, and create graphs. 
+You can ask permission to remotely control a friend’s device when providing tech support. 
+The flashlight interface on select phones has a fun new makeover for iOS 18. You can control variable brightness and a way to adjust the width of the beam.
+
+
+OK this new flashlight UI in iOS 18 beta 3 has absolutely no right to go this hard. Too cool pic.twitter.com/vIyaiBYyHp— Sebastiaan de With (@sdw) July 8, 2024
+
+Journal
+
+The Journal app lets you log your mood.
+The time you spend writing in the journal will be logged in mindful minutes.
+The app also has support for audio transcriptions and printing your entries.
+You can add reminders to write and prompts to your Home Screen via widgets to get you in the habit of journaling. 
+
+Calendar and Reminders
+
+With iOS 18, Calendar will show timed reminders, and you can create new items or edit them directly in the app.
+The Calendar also has new views for days, weeks, and months, so you can easily skim through your schedule.
+Separately, the Reminders app now has multilingual grocery lists and recently deleted lists.
+Apple now allows you to quickly set up new items for family lists like shared calendars, grocery lists, and password lists.
+
+
+
+
+Files
+
+The Files app lets you keep specific iCloud files or folders on your phone, always downloaded and synced.
+iPhones with iOS 18 now support more file formats, including APFS, exFAT, or MS-DOS (Fat32), while formatting external drives. You can also erase these drivers from the Files app.
+
+Apple TV app
+
+The Apple TV app now has an Amazon Prime Video X-Ray-like feature called InSight that displays information about the actors and music in a show or movie.
+A new enhance dialog feature will help you better hear what’s being said, even during scenes with loud effects and music.
+
+Home
+
+With the Home app update for iOS 18, you can unlock connected doors hands-free.
+You can also add up to 29 guests to give them time-based access.
+You can unlock Ultra Wideband-compatible smart locks (available next year) without taking your phone out of your pocket.
+
+Accessibility
+
+iOS 18 has new accessibility features, including eye tracking to control the interface of your phone.
+
+
+
+
+
+iOS 18 includes EYE TRACKING 👀 Set up inside accessibility settings by following the dot around the screen pic.twitter.com/DBRseJQBUa— Michael Billig (@michael_billig) June 11, 2024
+
+
+Plus, users can set custom utterances to invoke actions such as going to the Home Screen, opening the camera, triggering a shortcut, or invoking a Siri request.
+
+Image Credits: Apple
+
+iOS 18 also has vehicle motion cues in the form of dots on the edges of the screen to help you with motion sickness. These dots will give you an indication of the vehicle’s movement. You can set it on, off, or in automatic detection mode.
+Music Haptics will match the iPhone Taptic Engine with the rhythm of songs allowing the deaf and hard of hearing to enjoy Apple Music.
+
+Additional reporting by Sarah Perez.

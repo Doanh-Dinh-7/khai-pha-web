@@ -1,0 +1,10 @@
+Apple Watch blood oxygen detection won’t be available on the Series 10 in the US
+ 
+For all of the new health features Apple talked up at Monday’s iPhone 16 event, a familiar one was M.I.A. The blood oxygen feature, introduced with the Series 6 device, will not be present on Series 10 models sold in the U.S. The rest of the world will be able to access the tech on the new watch.
+The loss of a major feature like blood oxygen must sting, as the company has made health features foundational to its wearable. The feature’s exclusion is a product of Apple’s ongoing patent battle with medical device company Masimo. The dispute forced Apple to disable the feature on the Apple Watch Series 9 and Ultra 2 late last year.
+
+
+
+Apple has not discussed whether the feature’s removal was a hardware change on the Series 10 or if it was simply disabled via the software, like with the Series 9. We’ll know more after the smartwatch goes on sale and the teardown experts do their thing. If it’s a hardware fix, then Apple would have had to design slightly different models for each market.
+Apple has been fighting Masimo’s suit from the beginning. After the important ban was reinstated in January following a brief pause, Apple worked to enact a similar ban on Masimo’s Freedom health watch.
+Monday’s event did find Apple announcing new Series 10 health features that will be available globally, including sleep apnea detection.

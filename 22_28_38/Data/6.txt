@@ -1,0 +1,86 @@
+Apple Intelligence: Its biggest features and when you can expect them
+ 
+Apple’s iPhone 16 is out, but the company hasn’t made its iOS 18 Apple Intelligence features available to all consumers just yet. In July, Apple rolled out these features to users on the iOS 18 developer beta and added the AI features for public beta users earlier this week. However, if you are not using these experimental versions of the software, then you’ll have to wait a bit to get Apple Intelligence features.
+Below is a timeline of when these features are expected to arrive. 
+Writing tools
+This AI-powered feature will proofread your text, summarize it, or even change the tone to professional, concise, and friendly. Keep in mind that the tool stumbles while handling swear words and controversial topics like drugs and murder.
+
+Availability timeline: October (with iOS 18.1)
+Compatible devices: iPhone 15 Pro and Pro Max, iPhone 16 series
+
+Image Credits: Brian Heater
+New Siri
+Apple has given Siri an AI makeover with a new animation around the border of the screen. Siri can better understand your requests, including pauses and changes of requests, such as setting a timer for 15 minutes instead of 10 minutes, all in one go. You can also chat with Siri through text by tapping on the bottom of the screen.
+
+
+
+
+
+
+Siri can also be a how-to assistant, as it now has knowledge of Apple products. For example, you can ask Siri how to change certain settings.
+
+Availability timeline:  October (with iOS 18.1)
+Compatible devices: iPhone 15 Pro and Pro Max, iPhone 16 series
+
+Image cleanup in Photos
+Similar to Google’s Magic Eraser, the iPhone will gain a feature that helps you remove unwanted objects and people from an image. It can automatically detect unwanted objects, but you can manually draw over them or circle them to select these objects or people. Once you press the cleanup button after selecting, Apple Intelligence tries to fill in the gap without ruining the overall aesthetic of the picture.
+
+Availability timeline:  October (with iOS 18.1)
+Compatible devices: iPhone 15 Pro and Pro Max, iPhone 16 series
+
+New Photos app features
+The new Photos app will be able to create new Memories through prompts, thanks to Apple Intelligence. Apple claims that Apple Intelligence has more knowledge about the contents of an image, so you can also use natural language to search for different photos.
+
+
+
+
+
+
+Availability status: Possibly rolling out in October (with iOS 18.1)
+Compatible devices: iPhone 15 Pro and Pro Max, iPhone 16 series
+
+Notification summaries
+Apple will summarize multiple notifications coming from apps like Mail, Messages, and even third-party apps like WhatsApp.
+
+Availability status: Possibly rolling out in October (with iOS 18.1)
+Compatible devices: iPhone 15 Pro and Pro Max, iPhone 16 series
+
+Mail summaries
+With Apple Intelligence, the Mail app will show a one-line summary of all emails and display priority emails on top of your inbox. The AI will also help you to respond quickly to emails by using smart replies.
+
+Availability status: Possibly rolling out in October (with iOS 18.1)
+Compatible devices: iPhone 15 Pro and Pro Max, iPhone 16 series
+
+Phone and Notes updates
+The Phone app will let you record and transcribe calls with iOS 18, and with AI, you can summarize these transcriptions saved in the Notes app. This feature will be available for voice notes that are recorded and saved in the Notes app, too.
+
+
+
+
+Availability status: Possibly rolling out in October (with iOS 18.1)
+Compatible devices: iPhone 15 Pro and Pro Max, iPhone 16 series
+
+Upcoming features
+
+Image creation: Image Playground and Genmoji 
+Priority Notifications
+Siri: Personal Context and In-app Actions
+Additional languages and platforms 
+ChatGPT integration
+
+These features will first roll out to beta users and then to all users later this year and over the next year.
+Language support
+
+Currently supported: U.S. English
+Future support (see below):
+
+
+
+Late 2024 (planned): Localized English support for Australia, Canada, New Zealand, South Africa, and the U.K.
+Next year (planned): Chinese, English (India), English (Singapore), French, German, Italian, Japanese, Korean, Portuguese, Spanish, Vietnamese
+
+Regions where Apple Intelligence is not supported
+
+China
+EU
+

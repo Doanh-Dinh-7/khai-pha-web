@@ -1,0 +1,81 @@
+Three new ways to personalize your iPhone’s Home Screen in iOS 18
+ 
+With the launch of iOS 18, Apple is taking iPhone customization to a new level. Before, you could easily add widgets to your Home Screen or rearrange its pages, apply your own wallpaper, and, more recently, customize your Lock Screen. Meanwhile, power users downloaded apps that allowed them to customize their icons by way of iOS Shortcuts or even created their own icons using icon designer tools or images they found on Pinterest, Google, or elsewhere.
+With iOS 18, however, the ability to change all your icons to a new color scheme is a built-in tool.
+
+
+
+You can also arrange your icons and widgets in any way you prefer, as they no longer have to be right next to each other in a grid. That way, you could choose to frame your wallpaper or place icons only at the bottom of the screen, for instance.
+Though the system for customization has gotten somewhat unwieldy as Apple has continued to roll out new options, iOS 18 offers the most control over the look and feel of your iPhone’s user interface than any other version of Apple’s mobile operating system to date. 
+Now, with a press-and-hold on your iPhone’s Home Screen, you can tap the upper-left “Edit” button to enter the new customization mode. From here, you’ll be able to add widgets, edit Home Screen pages, or select a new option, “Customize,” to configure the color and shading of the icons and widgets on your Home Screen. 
+Image Credits: iPhone screenshot
+iOS 18 presents four options for your icons: the standard light and dark modes, as well as an Automatic mode that shifts from light to dark as nighttime falls, and the new “Tinted” option. When selected, Tinted lets you use the eyedropper tool (upper-right) to pick a color from your Home Screen’s background that then tints the fill for the lighter part of your icons.
+For instance, if your wallpaper features a photo from nature, you could pick the blue sky’s color to serve as your icons’ tint. You can further adjust the color options using two bottom sliders, one for the shade itself and another for the saturation. (Sliding it all the way over to white makes the tint less apparent.)
+
+
+
+
+
+
+This process can be a bit difficult, and there’s been quite some criticism, particularly from designers, about how the resulting Home Screen looks. It doesn’t feel like Apple’s elevated design sense, but that’s the point: It’s your own.
+The feature specifically caters to younger users who quickly took advantage of new functionality in the 2020 release of iOS 14 to personalize their Home Screens with custom icons launched via Shortcuts and widgets. Pinterest adoption soared at the time, as young people turned to it for images they could use as custom icons and themes. Apple quickly responded to users’ interest in this trend by changing how these custom icons would respond when tapped. That is, instead of annoying people by briefly opening the iOS Shortcuts app, as before, it introduced only a small pop-up that would display when the app opened by way of a custom icon.
+But until now, Apple hasn’t made it possible for users to customize their apps’ existing icons with shades and colors of their choosing. 
+While you still can’t customize the design of the icon’s image itself (without the use of your own shortcuts), developers can choose to ship alternative icons as a part of their app download. These icons are sometimes offered as part of a paid upgrade or subscription, depending on the developer’s preference. Not all apps offer alternative icons, though.
+After choosing the icon you prefer from the apps that offer alternatives, you can then proceed to select how you want them to appear: light, dark, or tinted.
+Image Credits: Apple
+Dark icons give the Home Screen a different look (see photo above on the left), as they maintain some colors but sit on black backgrounds, allowing more of your focus to shift to the phone’s wallpaper. Tinted icons are similar, but instead of multiple colors, their lighter parts are shaded with a color of your choosing. 
+Image Credits: Apple
+
+
+
+Uniform, darker icons while still in “light” mode
+Like many others, I didn’t find the dark icons with their odd splashes of color agreeable and the tinted icons don’t quite fit my tastes — though that’s more of a personal preference. However, I found a way to create a Home Screen with more muted shades.
+
+
+
+To accomplish this, I toggled the option from “Small” over to “Large” in the customization mode, which makes the icons slightly larger and removes their text label. Widgets’ labels are also removed when you shift to the Large icons.
+Image Credits: iPhone screenshot
+I then select the option for tinted icons, slide the bottom slider over to the right for less saturation, and tap the sunshine option in the top-left of the customization window to switch the overall phone screen from dark mode to light. This creates a brighter, more uniform look where the icons appear in shades of black, white, and gray, instead of the garish colors they usually are. (Especially those horrible Google icons, which many memes have mocked). 
+A more minimal Home Screen
+If you are looking for an even more minimalist Home Screen, another option now available through iOS 18 lets you forgo icons altogether. 
+One of the top customization apps, Widgetsmith, has been updated for iOS 18 to take advantage of the new functionality around large, label-less widgets to offer a variety of ways to customize your Home Screen with Actions. These Actions can also be used via the Control Center (accessed by swiping down from the top of the phone screen) and can offer shortcuts to things like playing a favorite album or calling your best friend, among other things.
+
+
+
+Image Credits: Widgetsmith
+Control Center aside, Widgetsmith includes various Home Screen widgets featuring rows of customized icons, each linked to a particular action. Without widget labels, these can blend more seamlessly into your Home Screen, allowing for a more minimal — or at least more uniform — look, where every icon is in the same style.
+
+
+
+The app ships with a variety of icon packs to customize their actions, or people can choose their own or use any SF symbol, which are the built-in symbols designed to integrate with the system font for Apple’s platforms.
+Image Credits: Widgetsmith
+“The aesthetics … now possible in iOS 18 are really transformative to how your home screen feels,” says Widgetsmith’s developer David Smith. “Since Apple drops the requirement for widgets to have their subtitles you can completely take over your iPhone and make all of it your own.”
+However, the more interesting idea Widgetsmith introduces is one of a Home Screen that doesn’t include any icons. 
+Instead, you can choose to install widgets that spell out in text the various apps you may want to access, like Weather, Mail, Maps, Music, and Calendar. You could use these alone on the screen or alongside other widgets. You could even opt to remove all the icons from your bottom dock for a less cluttered look.
+Image Credits: Widgetsmith
+
+
+
+Widgetsmith isn’t the only app that offers this sort of functionality, but it’s among the best-known. 
+
+
+
+Another one focused specifically on minimalist Home Screens is Dumb Phone, an app whose name refers to the simple user interface from the days before the smartphone arrived. With Dumb Phone, you can also create a similar minimalist Home Screen and adjust the theme to Light or Dark. 
+The app’s developer, Michael Tigas, claims that the changes helped him cut down on screen time.  
+Image Credits: Dumb Phone
+Using icon placement to complement your wallpaper
+Another interesting idea that comes from the newly added ability to place icons anywhere in iOS 18 is that the icons themselves can become a part of your theme and wallpaper, blending into the illustration in ways they couldn’t before. 
+One app taking advantage of this functionality is Themify, a customization utility that now includes a section of themes “inspired by iOS 18” at the top of its Discover page.
+Image Credits: Themify
+
+
+
+Here, you’ll find themes (collections of wallpapers, widgets, and icons) where icons become a part of the background, like one where icons set to Large mode become planets in the solar system, or another where small icons become wall décor.
+
+
+
+Themify also supports other iOS features like Lock Screen widgets and themes, contact posters, standby screens, and more. 
+Image Credits: Themify
+Other personalization apps I’ve used in the past include Brass, Aesthetic, Aesthetic Kit, Best Widgets, Color Themes, Reskin, ThemeKit, ThemePack, Widgy, and Wallaroo for wallpapers.
+Customizing your Home Screen is only one of the new personalization options that ship with iOS 18. You can now swap out the shortcuts to apps, like the Camera and Flashlight, on your Lock Screen, and you can organize your Control Center and add your own actions from third-party apps, provided developers support the option. You can also customize how the controls are laid out, grouped, and their size, Apple notes.
+Want to share your iOS 18 customizations with me? Join me on Threads or Bluesky and let me see your creations! 

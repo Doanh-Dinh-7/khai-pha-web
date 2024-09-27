@@ -1,0 +1,11 @@
+Here’s how Apple is making iPhone 16 more repairable
+ 
+Despite a deluge in hardware news at Apple’s “It’s Glowtime” iPhone 16 event, Apple didn’t take any time to discuss repairability. It was a strange oversight, given the momentum that the right to repair movement has gained in recent years. A deeper dive after the event, however, has revealed several new iPhone 16 features designed to improve user access to device repair.
+The most interesting of the bunch is a new adhesive design that can be loosened by applying low voltage from a 9-volt battery. Glue has arguably been the biggest thorn in the side of DIY repairers. The thinner devices have become, the more manufacturers like Apple have grown dependent on the stuff in the place of screws.
+
+
+
+This is the reason that Apple’s Self Service Repair kit was so massive; it included a machine for melting down the glue for a battery swap. Notably, the new ionized adhesive is a feature of the iPhone 16 and 16 Plus, but neither of the new Pro models.
+Those models do, however, get a rearchitected interior, which should improve access to the components. The LiDAR Scanner is now serviceable as well.
+The other big update on this front is the addition of Repair Assistant with iOS 18. Designed for professional repair folks and consumers alike, the system is designed to assist with calibration of different modules, in order to maintain the kind of performance that has previously been linked to Apple’s “parts pairing” policy.
+The TrueDepth Camera is also now repairable on iPhone 16 models, without having to be tethered to a Mac.

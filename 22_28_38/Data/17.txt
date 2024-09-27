@@ -1,0 +1,9 @@
+TechCrunch Minute: FDA approval sets the stage for Apple’s AirPod hearing aids
+ 
+
+
+
+During last week’s It’s GlowTime event, Apple announced that iOS 18 will include a feature allowing users with mild to moderate hearing loss to use AirPods as hearing aids.
+But Apple was still waiting on approval from the FDA — approval that was announced just a couple days later. The FDA described this as the first “over-the-counter hearing aid software,” and one of its leaders suggested that this could be “another step that advances the availability, accessibility and acceptability of hearing support for adults with perceived mild to moderate hearing loss.”
+TechCrunch’s Brian Heater tried out an incomplete version of the feature last week. It won’t be available to folks with standard AirPods like the ones I’m wearing now; you’ll need the company’s latest premium earbuds, the AirPods Pro 2, because the feature takes advantage of the Pro’s passive noise cancellation and the H2 chip.
+On today’s TechCrunch Minute, we discuss how Apple’s hearing test works and how the market for hearing aids is changing.

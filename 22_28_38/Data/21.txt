@@ -1,0 +1,23 @@
+Alternative app stores will be allowed on Apple iPad in the EU from September 16
+ 
+It was a matter of time, but Apple is going to allow third-party app stores on the iPad starting next week, on September 16. This change will occur with the next major release of iPadOS, the operating system specifically designed for the iPad.
+The move is related to the European Union’s Digital Markets Act (DMA), a set of market fairness and pro-competition rules. Last fall, the Commission shared a list of six tech companies that have been designated “gatekeepers,” as they operate so-called “core platform services” (CPS). It has since added a seventh.
+
+
+
+For Apple, the Commission initially designated three products and services as CPS: its mobile operating system iOS, its app distribution marketplace the App Store, and its web browser Safari. Then, in April, it announced that it was adding Apple’s iPadOS to the list. 
+While iPadOS user numbers did not meet the threshold to be in scope of the DMA, the Commission has some leeway in designations and said it considered that there are strong locked-in effects for business users in particular.
+Apple had six months to update iPadOS and make sure that it is compliant with the DMA. Which brings us to Friday’s announcement: Starting with iPadOS 18, users in the EU will be able to install alternative app stores. Similarly, web browser developers will be able to release browsers for the iPad with their own browser engines.
+Given the different DMA compliance timeline for iOS, recent changes to iOS in the EU can be an indication of what’s going to happen for iPad users in the EU.
+There are five third-party app stores that are now available for iOS in the EU. One example, the AltStore PAL, was the first alternative app marketplace made available on iOS in the EU. You can use it to download video game emulator app Delta, virtual machine app UTM, torrenting app iTorrent, and more.
+
+
+
+
+
+Apps are notarized by Apple for security purposes before they can be released on alternative app stores. App developers also have to sign new business terms with Apple — and pay a controversial “Core Technology Fee” above a certain threshold.
+
+
+
+Epic Games also launched its alternative iOS app store in the EU so that people can download and play Fortnite, Rocket League Sideswipe, and Fall Guys on their iPhones. The company has already said that it plans to bring Fortnite and its other games to the iPad.
+As for web browsers, while third-party browsers such as Chrome and Firefox have been available for a while, they all still use Apple’s own browser engine WebKit to load web content. Tech companies haven’t taken advantage of the DMA to release an EU-specific browser app for European users so far.

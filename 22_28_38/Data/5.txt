@@ -1,0 +1,29 @@
+The iPhone 16 launches today without its most hyped feature: Apple Intelligence
+ 
+The iPhone 16 officially goes on sale Friday. But for its earliest adopters, it arrives with a fundamental compromise baked into the deal.
+Put simply, this is not the iPhone 16 that they were promised. Apple CEO Tim Cook said it would be the “first iPhone built for Apple Intelligence.” But that “for” is key: The handsets actually will not have its most hyped AI features out of the gate.
+
+
+
+This feels like a turning point for Apple. When it comes to new features on phones, the company may not always be known for being the first to market or for jumping on gimmicks, but it is known for being the best. That’s not the case here. Apple was compelled to board the AI hype train and is thus taking a leap into the half-baked void.
+Apple has now talked about its Apple Intelligence suite twice — first when announcing the AI suite at its Worldwide Developer Conference (WWDC) in June, and second during its September iPhone 16 launch.
+
+iPhone 16 Pro Max review: A $1,200 glimpse at a more intelligent future
+
+But in actuality, the company is far behind in terms of shipping features when it comes to its competitors like Google and Microsoft, as well as upstarts like OpenAI and Anthropic.
+The company’s first set of AI tools, announced and released in developer betas, are rewriting tools, summarizations of articles and notifications, erasing objects in photos, and audio transcription. Much of this functionality already exists in the market. Apple’s bet is that its decisions around privacy — your usage data is not shared with other users, or with other tech companies, it promises — will be enough to attract buyers.
+Strictly speaking, the gap between product and feature is not as dramatic as you might think — or at least that is how Apple would defend all this. The iPhone went on sale on September 20, and Apple has promised to start launching its AI features in October.
+
+
+
+
+
+Yet only a handful of features will be made live at that time, and they will only be in U.S. English. (Recall that the company counts heavily on international markets, with North America accounting for just over half of all iPhone unit sales.) 
+
+
+
+And for the more complicated AI bells and whistles, we all still have to wait. The company plans to roll out features like visual search and Image Playground starting next month, while additional language support is starting to be rolled out in December — but first with localized English. Other languages will arrive sometime in 2025.
+The iPhone 16 isn’t strictly necessary for those who want the new AI features. The company has already confirmed that the iPhone 15 Pro and 15 Pro Max will also get access to the platform.
+So if Apple Intelligence is going to be a game changer as Apple promises, it’s fair to wonder if the rollout gaps and delays will keep users from upgrading. Or, if we start to see consumers adopt more of a wait-and-see approach — which might also translate to lower sales.
+However, as my colleague Sarah Perez pointed out, Apple’s AI features could become more useful once third-party developers are able to fully integrate them with their apps. That’s worth considering, if and when it happens, but that’s more of a conversation for the iPhone 17.
+That might well be the point here. Apple is building for the longer term opportunities, and for the first time, it feels like it’s asking buyers to take that leap of faith with it.  

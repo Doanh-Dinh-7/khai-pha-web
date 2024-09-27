@@ -1,0 +1,46 @@
+Apple’s new macOS Sequoia update is breaking some cybersecurity tools
+ 
+On Monday, Apple released its latest computer operating system update called macOS 15, or Sequoia. And, somehow, the software update has broken the functionality of several security tools made by CrowdStrike, SentinelOne, Microsoft, and others, according to posts on social media, as well as messages posted in a Mac-focused Slack channel. 
+At this point, it’s unclear exactly what is the issue, but it appears to affect several products made by companies that provide software for macOS users and enterprises, which has caused frustration among people who work on and with macOS-focused security tools.
+
+
+
+“As a developer of macOS security tools, it’s incredibly frustrating to time and time again have to deal with (understandably) upset users (understandably) blaming your tools for breaking their Macs, when in reality it was Apple’s fault all along,” said Patrick Wardle, the founder of Mac and iOS security startup DoubleYou, and a longtime expert on macOS security. 
+“I get it, that writing bug-free software is challenging, but maybe if Apple spent less time and money on marketing, and more time on actually testing their software, we’d all be better off!” Wardle told TechCrunch.
+On the day of macOS Sequoia’s release, a CrowdStrike sales engineer said in a Slack room for Mac admins that the company had to delay support for the new version of Mac’s operating system. “I’m very sorry to report that we will not be supporting Sequoia on day 1 in spite of our intention (and previous track record) to support the latest OS within hours of [General Availability],” the engineer said in the message, seen by TechCrunch. 
+The engineer also said CrowdStrike sent out a “Tech Alert” to customers, adding that “there’s quite a lot going on with the changes in the network stack.”
+”We’re also tracking some similar issues with other vendors, and have feedback and a case in to Apple. While we would love for there to be a fast-follow patch that resolves this for us, we’re acting under the assumption there won’t be and we’ll need to fix it in our code with a sensor release,” the sales engineer wrote. 
+
+
+
+
+
+ 
+Contact Us
+		Do you work at a cybersecurity company whose products are affected by the macOS update? From a non-work device, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram and Keybase @lorenzofb, or email. You also can contact TechCrunch via SecureDrop.	
+
+“Please trust me when I say this was looked at through every angle, to see if there was any way to continue to provide the best protection to our customers on this new OS without having to delay,” the CrowdStrike engineer wrote. “Ultimately it was decided that the best course to protect our Mac fleets is to wait until this is resolved.”
+
+
+
+Also, several people on Reddit reported having issues with CrowdStrike’s security product on the new macOS. 
+CrowdStrike spokesperson Kevin Benacci told TechCrunch on Thursday that the company is “currently waiting for a macOS Sequoia update and will provide official support. We respectfully refer you to Apple for any additional questions.”
+Apple did not respond to requests for comment. 
+On Monday, a SentinelOne Support account warned customers in the same Mac-focused Slack channel: “Do not upgrade your endpoints until you have a supported SentinelOne Agent,” citing a series of issues with the new macOS version. 
+SentinelOne did not respond to a request for comment.
+
+
+
+After publication, SentinelOne spokesperson Craig VerColen said in an email: “SentinelOne delivered full support for macOS Sequoia immediately upon its release this past Monday as covered on our blog and support sites.”
+
+
+
+ESET also alerted customers of a network connection issue after upgrading to macOS Sequoia. An ESET representative did not respond to our request for comment. 
+After publication, ESET spokesperson Jessica Beffa said that ESET products “are compatible with the new macOS.”
+Other people in the same Slack reported having issues with Microsoft Defender for macOS after the Sequoia update. Microsoft did not respond to a request for comment.
+Security researcher Will Dormann wrote on Mastodon that he was having issues with DNS and running his firewall on his macOS machine. Another security researcher, Wacław Jacek, wrote in a blog post that, “it seems the OS firewall can sometimes start blocking access to web browsing after upgrading to macOS Sequoia,” and shared a potential workaround. 
+
+
+
+The problems with macOS Sequoia appear to have caused issues with Firefox browser users, too, according to a separate Reddit thread. Damiano Damonte, a spokesperson for Mozilla, said in an email to TechCrunch after publication that Mozilla, which make the Firefox browser, “received reports” of issues from some users and Mozilla reported the problem to Apple, but has not yet been able to reproduce the bug in testing.
+This story has been updated to include comments from ESET, SentinelOne, and Mozilla.

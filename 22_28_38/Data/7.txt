@@ -1,0 +1,23 @@
+Apple Intelligence is now live in public beta. Here’s what it offers and how to enable it.
+ 
+Apple Intelligence took another major step toward mainstream availability Thursday with the launch of the iOS 18.1, iPadOS 18.1, and macOS Sequoia 15.1 public betas.
+Starting Thursday, those who are enrolled in Apple’s public beta program will be able to experience the generative AI-fueled platform the company has been talking up since June.
+
+
+
+For the time being, Apple Intelligence is only available in U.S. English. The feature is also indefinitely unavailable in both the EU and the People’s Republic of China, owing to regulatory hurdles. Those in the States can access the feature with the iPhone 15 Pro, iPhone 15 Pro Max, and any member of the newly unveiled iPhone 16 line.
+TechCrunch has been putting the developer beta of iOS 18.1 through its paces as part of our iPhone 16 Pro Max review. There are a handful of standout features, including cross-system writing tools, Clean Up for Photos, and the biggest revamp to Siri since launch.
+Writing Tools takes advantage of the kinds of generative AI features familiar to anyone who has played around with ChatGPT and its ilk. Along with proofreading and summarizing, the system will rewrite text in a variety of styles, including professional, concise, and friendly. Over in Mail, users gain a Smart Reply feature, message prioritization, and summaries.
+Siri gets a big face-lift, beginning with how the smart assistant is presented on-screen. Gone is the colorful Siri icon in the bottom of the screen, replaced by illuminated borders that won’t obscure text. Siri can also better understand when you trip over your words, and for instances when you can’t speak to the assistant, you can type instead.
+The last major Siri feature dropping Thursday is product knowledge, wherein users can ask the assistant how to perform a variety of different on-device tasks, from screen recording to resetting an AirTag. Features like conversational and app context and Visual Intelligence are still on the way.
+
+
+
+
+
+On the Photos front, the most interesting addition is Clean Up, Apple’s answer to Google Magic Eraser. After circling an object with your finger, the tool goes to work removing it by generating a background over it. Search has been improved within the app to accommodate more natural language queries, and users can now generate Memories via a text prompt.
+
+
+
+Users must manually enable the feature by going to Settings > Apple Intelligence & Siri > Join the Apple Intelligence waitlist. Joining the public beta programs, meanwhile, is as simple as visiting beta.apple.com.
+Additional Apple Intelligence features are set to roll out later this year. 

@@ -1,0 +1,27 @@
+MacPaw launches its alternative iOS app store for EU in open beta
+ 
+Ukraine-based Mac and iOS app developer MacPaw announced today that it is releasing its alternative mobile app store Setapp thanks to the new Digital Markets Act (DMA) rules in the EU. The company has been testing the app store under closed beta for a few months now with select users. MacPaw is now allowing all users to try Setapp Mobile in open beta.
+The store has more than 50 productivity, finance, video, photo, and creativity apps from MacPaw’s own offerings and other developers. These apps include CleanMyPhone, ClearVPN, Riveo video editor, Awesome Habits tracker, Time Master, BusyCal, FreeYourMusic, MonAI, Elk currency convertor, Ochi focus manager, Bookshelf: Reading Tracker, and AdLock.
+
+
+
+While SetApp Mobile is a marketplace from a technical standpoint, users will get all apps through a $9.99 monthly subscription with a seven-day trial. Users will need to be running iOS 17.4 or later on their device with an Apple ID associated with an EU member state.
+MacPaw was one of the first companies to agree to Apple’s controversial DMA agreement for distributing apps through a non-App Store medium. The company is still not set on the business model and user experience, so it opted to release this initial version as an open beta.
+Image Credits: MacPaw
+“We see areas of improvement in terms of user experience, number of applications, and categories we offer. We think there is demand for the alternative app store, so we decided to launch it and tune our business model based on the feedback from users,” Yaroslav Stepanenko, director of marketing at MacPaw, told TechCrunch over a call.
+“We also have to balance the number of applications and the number of users. We can’t have a low number of apps and a lot of users and vice versa.”
+Stepanenko added that the store would not have hundreds of apps at any point to avoid stifling discovery for participating developers. 
+
+
+
+
+
+MacPaw has primarily offered Mac-focused apps through several subscription tiers, allowing users to download companion iOS apps for those services. However, with this Setapp mobile marketplace, the company believes it can address millions of iPhone users in the EU.
+
+
+
+“We have a really good track record in distributing apps in the desktop space. Now we have to replicate and apply that experience to the iOS space in the EU,” Stepanenko said.
+The most controversial part of Apple’s DMA implementation has been its Core Technology Fee (CTF). Developers distributing their apps through alternative app marketplaces will have to pay €0.50 for each first annual install per year after reaching the 1 million installs limit. Regulators are already investigating Apple’s terms to figure out if they are in compliance with the DMA.
+MacPaw said it hasn’t run any predictions if the company will have to pay these fees for distributing its own apps through various methods. 
+Besides MacPaw, other stores are also trying their hands at the EU market. In June, the long-time Android third-party store Aptoide launched a game store. There is also AltStore PAL, which offers game emulator Delta alongside some other Patreon-backed apps.
+There might be some initial interest for users eager to try out these new stores and different offerings. The main challenge for these third-party app stores will be to market themselves to different categories of users and convince them to stick around over the long run.

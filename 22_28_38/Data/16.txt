@@ -1,0 +1,25 @@
+Apple’s iOS 18 is now available to download
+ 
+On Monday Apple released the new version of iOS, the company’s operating system for the iPhone — iOS 18 is a free download, and it works with the iPhone XR and XS or later, as well as the second- and third-generation iPhone SE. In other words, if your iPhone supports iOS 17, you can install iOS 18 on it.
+When Apple announced iOS 18 at its annual developer confab WWDC, the company spent quite a bit of time talking about Apple Intelligence. Apple uses this umbrella term for all its upcoming generative AI-related features.
+
+
+
+However, Apple Intelligence isn’t part of iOS 18. The first AI features will arrive in beta in the U.S. later this fall with iOS 18.1, starting with the ability to rewrite, proofread, and summarize long texts. Apple Intelligence will also generate notification summaries and include a clean-up tool for photos.
+Genmoji, the native integration with OpenAI’s ChatGPT, and AI-generated images aren’t going to be part of iOS 18.1. They will be released in upcoming .x releases (18.2, 18.3, etc.).
+Even without Apple Intelligence, iOS 18 packs several interesting quality-of-life updates, including new home screen customizations with dark and tinted icons, a modular Control Center, and many app updates.
+Some features that are likely to stand out are the completely redesigned Photos app with a big focus on past memories, the ability to generate live audio transcriptions in the Voice Memos and Notes apps, and a new Passwords app.
+How to update your iPhone to iOS 18
+The update is currently rolling out and is available both over the air in the Settings app and by plugging your device to your computer for a wired update. The latter option is convenient if you don’t have a lot of storage on your phone, as it doesn’t require as much free space to update.
+
+
+
+
+
+But first, back up your device. Make sure your iCloud backup is up to date by opening the Settings app on your iPhone and tapping on your account information at the top and then on your device name. Additionally, you can also plug your iOS device into your computer to do a manual backup in Finder or iTunes for Windows.
+
+
+
+Don’t forget to encrypt your backup if you back up to a computer. It is much safer if somebody hacks your computer, as encrypted backups can help protect things like saved passwords and health data. This way, you don’t have to reconnect to all your online accounts if you have to recover from your backup.
+To perform the update, go to the Settings app > General > Software Update. You should see “Update Requested…” It will then automatically start downloading once the download is available.
+While it’s downloading, you can read Ivan Mehta’s review of the biggest changes in iOS 18 — listing everything you can expect in this update, as well as everything you shouldn’t expect. (Note: Users in the European Union may also see some differences in available features versus users elsewhere as a result of regional regulations.)

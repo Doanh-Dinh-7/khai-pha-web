@@ -1,0 +1,34 @@
+Amazon says no to remote work
+ 
+Amazon CEO Andy Jassy is calling for a full return to office at the start of 2025. For the last 15 months, employees have been expected to work in the office three days per week. Now employees will be expected to be in the office five days a week, with work from home being OK only in extenuating circumstances. Big Tech executives have championed return-to-office mandates, but they have proven unpopular among some tech workers.
+U.S. tech giant Cisco has let go of thousands of employees in its second layoff round of 2024. The technology and networking company will reduce its headcount by 7%, or around 5,600 employees. The cuts follow an earlier layoff in February, where it let go of about 4,000 employees. In August, Cisco published its most recent full-year earnings report that saw the company’s “second strongest year on record.” Were you affected? We’d like to hear from you.
+
+
+
+The iPhone 16 Pro Max is a $1,200 glimpse at a more intelligent future, according to TechCrunch’s Brian Heater. There’s a lot of new things to take notice of across the iPhone 16 line, including a new Camera Control button, an A18 Pro chip, a major makeover for Siri, and a slew of Apple Intelligence features. But are the features — plus the FOMO — truly enough to warrant an upgrade?
+
+This is TechCrunch’s Week in Review, where we recap the week’s biggest news. Want this delivered as a newsletter to your inbox every Saturday? Sign up here.
+
+News
+The next big thing — literally: Snap’s new Spectacles bring impressive AR to developers for $99 per month. The Spectacles, which are in fact quite large, signal a middle ground in AR hardware design that lies somewhere between a headset and portable smart glasses. Read more
+
+
+
+A Citi Bike side hustle: Some creative folks discovered a lucrative way to take advantage of Lyft’s Citi Bike “Bike Angels” program through “station flipping.” Lyft condemned the practice, but only after some Bike Angels were able to make thousands of dollars a month. Read more
+Hello, iOS 18: iPhone users can now update to iOS 18 and customize their home screens, text Android users more easily with RCS support, and scroll through their pictures in the new tab-free Photo app. But don’t expect a ton of AI features just yet. Read more
+
+
+Reject modernity, embrace tradition: With the release of iOS 18, some users are missing the look and feel of the iOS Photos app before the update. That’s why LateNiteSoft introduced Photon Library, a new app that offers the familiar look of the previous iteration of the iOS Photos app. Read more
+
+
+
+Your Discord messages just got more secure: Discord announced that audio and video calls inside the platform will now be end-to-end encrypted, meaning that even Discord won’t know what users in those conversations talk about. Read more
+Mozilla says goodbye to the fediverse: Mozilla announced that it would be ending its experiment in running a server on Mastodon. Users will be able to download their data or migrate their account to another Mastodon server before Mozilla.social shuts down for good on December 17. Read more
+John Mulaney roasts Dreamforce: As part of the time-honored tradition of using tech bros for comedic material, John Mulaney closed out Salesforce’s Dreamforce conference with a 45-minute set that peppered in plenty of roasts aimed at San Francisco tech culture and AI. Read more
+Sam Altman departs OpenAI’s safety committee: Sam Altman is leaving the internal commission OpenAI created to oversee “critical” safety decisions related to the company’s projects and operations. The committee will become an “independent” board oversight group instead. Read more
+
+
+
+Never pay for inflight Wi-Fi again: United Airlines is partnering with Elon Musk’s SpaceX to bring its Starlink internet service to its entire fleet. For the first time, United passengers will be able to access Wi-Fi for free — though they’ll have to wait until 2025. Read more 
+Analysis
+LinkedIn’s games are fun, actually: It seems like everyone has games now. The New York Times lit a match with its ever-popular Wordle and Connections. Netflix got in on the fun with its own roster of games. And now LinkedIn has entered the arena with daily puzzles to accompany you on your job search. While LinkedIn’s games are actually pretty fun, Amanda Silberling wanted to understand the science behind why we love these quick, once-a-day brain teasers. Read more

@@ -1,0 +1,15 @@
+Here’s how the new AirPods Pro hearing test works
+ 
+TechCrunch demoed an incomplete version of Apple’s forthcoming Hearing Test app following Apple’s “Glowtime” event on Monday. The test shares key similarities with its clinical predecessors, prompting people to tap the display when they first hear gradually rising tones of different frequencies.
+Hearing Test will be built into iOS 18, though Apple is currently awaiting FDA approval for both it and the newly announced hearing aid feature before launch. There’s seemingly a chance that such approval could come through prior to iOS 18’s general availability on September 16, but there’s currently no guarantee.
+
+
+
+Users must have mild to moderate hearing loss in order to enable the hearing aid feature, though that diagnosis doesn’t have to come directly from the app. They will also be able to upload results from a third-party test. Hearing Aid functionality will not be enabled for those with no loss or for anyone whose hearing is labeled severe or profound.
+In the case of the last two, the app will advise the user to seek out a hearing specialist, rather than attempting to correct for the issue. There are limitations to what a non-specialized piece of consumer electronics can do on this front. In fact, the whole space is a new one, with the FDA only having established over-the-counter hearing aids as a category in mid-2023.
+The feature will only be available for the second generation AirPods Pro at launch. The reason for the limited availability is twofold: the passive noise canceling that the Pro’s ear tips provide and the inclusion of the H2 chip, which is missing on the original Pros.
+The feature will be accessible in iOS through settings, once a pair of AirPods are paired and inserted into the wearer’s ears. The full version should take around five minutes to complete. Once the hearing aid feature is enabled, it will build a custom sound profile based on the test results, which will serve as the default not only for conversations, but also for other media like movies and music.
+In much the same way that the Apple Watch’s AssistiveTouch accessibility feature formed the foundation for its DoubleTap gesture, one wonders whether Apple is setting the stage here for broader user-customizable sound profiles. Users can currently adjust the earpods’ EQ in settings, but when the hearing aid feature launches, users with no apparent hearing loss won’t be able to use it to fine-tune playback.
+
+
+While Nura ultimately wasn’t able to spin its customizable sound profiles into a stand-alone business, it’s easy to see how mainstreaming this feature could enhance the Apple audio experience. Perhaps when the AirPods Pro 2 arrive.

@@ -1,0 +1,11 @@
+Apple Watch sleep apnea detection gets FDA approval
+ 
+The U.S. Food and Drug Administration Monday published approval for sleep apnea detection on the Apple Watch Series 9, Series 10, and Watch Ultra 2. The green light comes four days ahead of the Series 10’s September 20 release date.
+The feature, announced at last week’s iPhone 16 event, will arrive as part of the imminent watchOS 11 release. Once enabled, it requires 10 nights of sleep tracking data spread out over a 30-day span to determine whether a user may have the condition. During that time, it also offers insights into nightly sleeping disturbances, utilizing the on-board accelerometer.
+
+
+
+The FDA classes the feature as an “over-the-counter device to assess risk of sleep apnea.” Apple is quick to note that the addition is not a diagnostic tool. Rather, it will prompt users to seek a formal diagnosis from a healthcare provider. The condition, which causes breathing to become shallower or repeatedly stop during the night, is associated with a variety of different symptoms. The Mayo Clinic notes that it can cause insomnia, headaches, daytime sleepiness, and other longer-term conditions.
+Apple isn’t the first consumer electronics firm to offer the feature. Withings has offered sleep apnea detection in devices for some time, while Samsung received FDA approval for its Galaxy Watch line earlier this. 
+The feature arrives as another — blood oxygen detection — has been disabled on Apple Watches in the U.S. over an ongoing patent dispute.
+

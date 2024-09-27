@@ -1,0 +1,14 @@
+Apple AirPods Pro granted FDA approval to serve as hearing aids
+ 
+The iPhone 16 took center stage at Apple’s “It’s Glowtime” event, but the most interesting tidbit came from a different line entirely. Indeed, among a sea of new hardware came an intriguing software update to one already on the market: the AirPods Pro 2.
+Apple announced that its most premium earbuds would double as an over-the-counter hearing aid, courtesy of a software update, pending approval from the U.S. Food and Drug Administration.
+
+
+
+The FDA on Thursday announced that it has granted what it calls “the first over-the-counter (OTC) hearing aid software device, Hearing Aid Feature.” Specifically, it has approved the software update that enables that functionality.
+“Hearing loss is a significant public health issue impacting millions of Americans,” the FDA’s Michelle Tarver notes in a statement. “Today’s marketing authorization of an over-the-counter hearing aid software on a widely used consumer audio product is another step that advances the availability, accessibility and acceptability of hearing support for adults with perceived mild to moderate hearing loss.”
+The news was made possible in part by the FDA’s October 2022 move to allow for the sale of hearing aids without a prescription. That move has given rise to a new industry of more easily accessible hearing devices.
+Earlier this week, TechCrunch went hands-on with a demo version of Apple’s new hearing test. The feature will be accessible via settings in iOS 18 when a pair of AirPods 2 are connected. Users will have to receive a result of mild to moderate hearing loss in order to take advantage of the new feature. Alternately, they can also upload test results from a doctor.
+The hearing aid functions by adjusting different frequency levels, in order to amplify key sounds such as the human voice. 
+
+

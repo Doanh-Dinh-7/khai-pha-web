@@ -1,0 +1,5 @@
+Apple breaks down iPhone 16 repair process
+ 
+As noted on Wednesday, Apple quietly took steps to improve the iPhone 16’s repairability. In addition to adding new items to the list of repairable components, the company introduced a clever new method for removing the phone’s battery. On Friday, Apple published step-by-step instructions for swapping out the new handset’s battery.
+Glue has long been the arch enemy of the do-it-yourself repair person. It has also become ubiquitous in handset internals as manufacturers have raced to make devices more compact.
+What makes Apple’s new approach novel is that, instead of making the phone larger to accommodate more screws, it has introduced an adhesive that loosens its grip on the battery when low voltage is applied.

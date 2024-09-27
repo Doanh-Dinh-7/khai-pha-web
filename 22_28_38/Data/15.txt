@@ -1,0 +1,61 @@
+iOS 18 is out: Here’s what’s new
+ 
+Apple’s newest software update, iOS 18, is rolling out today to all iPhone users. While AI technology was heavily hyped as a key part of this upgrade, Apple Intelligence features aren’t part of this release. Instead, Apple says it will release Apple Intelligence features with iOS 18.1 starting with the U.S. before gradually rolling them out to more global markets over the months ahead.
+With iOS 18, the focus is on personalization, including custom icons, a revamped Control Center, and support for locked and hidden apps.
+
+
+
+Users will be able to place icons anywhere on the grid or make them larger, which hides the text label, offering more control over the iOS Home Screen. The move will particularly appeal to Gen Z consumers, including those who rapidly adopted custom icons with the launch of iOS 14 years ago. While users will be able to switch to a dark mode or customize their icons with a tinted color of their choosing, third-party app developers will also be able to release custom icons to take full advantage of the functionality.
+Some developers may be ready on day one but others are still working on icon updates. 
+Image Credits: Apple
+The iOS Control Center, which offers easy access to common functions with a swipe down on the Home Screen, has also gone through a big overhaul with this release. 
+By default, there are now four pages of controls focused on favorites, music controls, home, and connectivity. The latter includes controls for Wi-Fi, Bluetooth, your personal hot spot, and more. Everything is customizable in the new Control Center, too. You can add or remove pages or icons.
+Meanwhile, on the iPhone’s Lock Screen, users will be able to swap out Lock Screen shortcuts for their preferred apps. For instance, you can replace the default camera button on the Lock Screen with a third-party camera app, such as Obscura or Halide.
+
+
+
+
+
+When it comes to privacy, iOS 18 brings a way to lock apps behind Face ID, Touch ID, or a passcode. You can hide these apps from the Home Screen, too. After that, they only appear in a new hidden app folder in the App Library.
+Image Credits: Apple
+What do you get out of the box?
+The Photos app has been redesigned with iOS 18 as well, though not all have welcomed the changes in the beta releases of the software. The company did away with tabs at the bottom of the screen and adopted a single page design with an aim to bring more attention to surfacing different photos from your library.
+
+
+
+In the Photos apps you will see albums, but also collection folders such as Recent Days, People & Pets, Pinned Collections, Memories, Trips (a new feature), Utilities, and Media type. You can customize the visibility and order of these items.
+The idea is to turn the Photos app into more than just a utility, but the result is an app that’s harder to navigate, some have complained. The design has been tweaked since its debut and could be updated again if user backlash increases.  
+Image Credits: Apple
+
+
+
+Another major change is Apple’s newly added support for RCS (Rich Communication Services), a hypercharged version of SMS, which will allow Android users to send and receive high-quality media with those on iPhone. Both iPhone and Android users will get typing indicators and read receipts for conversations between the two platforms as well. While messages from Android users will still show up as green bubbles, this feature might help restore parity between the two platforms.
+Image Credits: Apple
+The Apple Phone app was updated in iOS 18 with features that make it easier to search through your phone call logs and use the number pad to find a contact. While this is seemingly a small update, finding when you last called someone via a quick search can be handy. In addition, iOS 18 lets you switch between SIM cards while calling. Plus, there is now support for live voicemail transcription in a dozen more languages and regions.
+Image Credits: Apple
+The OS ships with a new Passwords app, too. These sensitive credentials were previously stored in a submenu in the Settings app. Now they get their own app, which makes them more accessible to end users, but also puts Apple in more direct competition with password app developers like 1Password, LastPass, Dashlane, and others. However, unlike many of those third-party apps, it doesn’t store sensitive items that aren’t passwords — like credit cards, IDs, or secure notes. But if you’re not already using a password app, having a built-in option could help users who don’t typically think about their password security.
+
+
+
+Other notable updates include the following:
+
+Finally, the ability to schedule messages.
+A new update supports multilingual and multiscript keyboards. (It has also added improved language search for certain Indian languages.)
+The Translation app added support for Hindi.
+The Notes app lets you make collapsible sections and supports audio transcriptions.
+The Calculator app can handle advanced math equations.
+
+AI is coming 
+In June at its Worldwide Developers Conference (WWDC) and earlier this month and during the iPhone 16 launch event, Apple spent a good chunk of time discussing Apple Intelligence. It is ironic that the iPhone 16 — the phone the company describes as “built from the ground up for Apple Intelligence” — will ship without Apple Intelligence. (That explains why Apple was developing technology to update the iPhone’s operating system while still in its retail box in stores.)
+
+
+
+Image Credits: Apple
+The tech giant said it will ship AI features starting in October with support for U.S. English. Later this year, Apple will add support for localized English in Australia, Canada, New Zealand, South Africa, and the U.K. Next year, it will add support for additional languages, including Chinese, French, Japanese, Spanish, and Indian English.
+With developer betas, Apple tested AI-powered writing tools; the ability to summarize notifications; email summaries; and a new focus mode called “Reduce Interruptions.” The company also tested a feature to clean up photos by removing unwanted people and objects.
+Image Credits: Apple
+It’s not clear when each of these features will make it to the public release. However, only customers with an iPhone 15 Pro or Pro Max, an iPhone 16 or 16 Plus, or an iPhone 16 Pro or Pro Max will be able to experience the AI technology. There may be some exclusive features for the iPhone 16, such as visual search, activated by the 16’s new Camera Control button.
+
+
+
+As noted in our iOS 18 preview for the public beta release in July, iOS 18’s initial release only tells one part of the story. The launch of Apple Intelligence feels like the finale. At this point, we can’t say if the second part is engaging enough just yet as we can only judge Apple Intelligence from the trailer and beta trials.

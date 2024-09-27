@@ -1,0 +1,196 @@
+Here are the hottest product announcements from Apple, Google, Microsoft and others so far in 2024
+ 
+If you love gadgets and gizmos, this year’s product conferences have been right up your alley.
+We’ve poked through the many product announcements made so far this year by the biggest tech companies and trade shows to create a list of what we think are the most important, or the most interesting, reveals. So far this list covers Apple WWDC, Apple Let Loose, Google I/O, Microsoft Build, Mobile World Congress and CES. Please check back as we’ll continue to update what’s below.
+‘It’s Glowtime,’ or the annual iPhone event
+Image Credits: Apple
+iPhone 16
+No surprise that Apple’s annual September event included a brand new iPhone. This one, dubbed iPhone 16, was “designed around Apple Intelligence, from the ground up,” CEO Tim Cook said at the time, though news out of the event was that buyers of the new models will have to wait a bit before all of the AI features are available. Still, it’s got other new features.
+
+
+
+The 48-megapixel camera offers a 2x telephoto lens, includes autofocus, and it can capture up to 2.6x more light for low-light images. It can also shoot in macro, and the new vertical design allows the handset to capture Spatial Photos and Videos that can be viewed on the company’s Vision Pro. 
+Along with the base 16 model, Apple also released the iPhone 16 Pro and iPhone 16 Pro Max, both of which feature the new A18 Pro chip. The models come in 6.3- and 6.9-inch displays, include a devoted camera button, as well as additional camera features that offer more control both before and after stills and video are shot. Of course, increased battery life is a part of the package. For more specs and to compare the models, check this out. And to find out why Apple added another button to the phones, read this. 
+
+
+
+Image Credits: Apple
+Apple Watch Series 10
+If you are not among the Ultra set but want a bigger screen and a thinner display than what you’re used to, the Watch Series 10 is after your wrists. The screen is “up to 30%” larger, and the body is 10% thinner than the previous model. An updated speaker lets wearers listen to music or podcast episodes from the device; a new charging coil promises to charge it 80% in 30 minutes; and it’ll give you 18 hours of battery on a full charge. But among the biggest changes to the Series 10 are the new sleep apnea detection, which was approved by the FDA, and a depth sensor for use while snorkeling (not scuba diving like with the Ultra) and surfing. 
+AirPods 4
+AirPods 4 and AirPods 4 with active noise cancellation debuted at the event, too, with $50 separating the two. Both models feature USB-C charging, while the ANC models bring wireless charging and a built-in speaker for Find My functionality. The new AirPods are powered by the H2 chip, which brings improvements to playback and call sound quality. Charging options increase with AirPods 4 with ANC, as listeners can use a Qi‑certified charger, as well as the typical Apple Watch charger.
+
+
+Image Credits: Apple
+iOS 18
+Version 18 of Apple’s mobile operating system launched without its highly anticipated Apple Intelligence features, which will be available later this year. But what you do get is a slew of other updates to your oft-used apps that should tide you over for a bit. You can now schedule iMessages and take your pick of emojis to react with; search through your call history; and customize the look and layout of your app icons and Control Center, which now allows you to include third-party apps. Read our full review of iOS 18 here. And click here to see all the devices compatible with iOS 18.
+
+
+
+Apple WWDC
+Image Credits: Apple
+Apple Intelligence 
+The biggest buzz at this show was the new feature called Apple Intelligence (AI, get it?). Apple promised its AI will be highly personalized and built with safety at its core. Read more
+
+
+
+Apple also revealed how developers will soon be able to bring the Apple Intelligence experience into their software, allowing for things like image generation, or new prompts to Siri. Read more
+Apple is also working with OpenAI to allow its device users to access OpenAI with plans to add options to other LLMs in the future. Read more 
+Apple’s new Passwords app
+While you can already use your iCloud account to store and sync passwords across your devices, it wasn’t easy to figure out. The new Passwords app will include new features like a new column on the left that lets you more easily navigate your password collection. For instance, you can view all your passwords or just Wi-Fi passwords (a new addition), passkeys or codes that aren’t related to a website or service. Read more
+
+
+
+MacOS Sequoia, iOS 18
+The latest operating system version is called macOS Sequoia. One of the biggest features is iPhone mirroring, which lets you control your iPhone from your Mac. Read more
+As for the latest iOS, iOS 18, one big new feature is that users will be able to lock an app when they hand over their phone to do things like show someone a picture or let them play a game. Read more
+
+
+
+There were more Apple WWDC announcements as well. Read about the others
+Apple Let Loose
+Image Credits: Apple
+iPad Air with M2 chip
+The iPad lineup is getting a facelift and one of the most important additions is that it now comes in two sizes, the 11-inch display and a 13-inch display. The cost is $599 for the 11-inch and $799 for the 13-inch. Read more
+
+
+
+iPad Pro with M4
+The iPad Pro is being touted as the thinnest iPad ever. Features include an OLED display in two panels called Tandem OLED. It also has a nanotextured glass option for less glare. And, it features the next generation of Apple silicon called M4, a jump from M2. In the U.S., the 11-inch iPad Pro starts at $999 for the Wi-Fi model, and $1,199 for the Wi-Fi + Cellular model. The 13-inch iPad Pro starts at $1,299 for the Wi-Fi model, and $1,499 for the Wi-Fi + Cellular model. Read more
+Inside the M4 chip
+The M4 chip is the fourth generation of Apple’s custom SoCs. It features a new display engine, as well as significantly updated CPU and GPU cores. Apple claims that the new CPU is 50% faster than the M2 chips that powered the last generation of iPad Pros, while the GPU will offer a 4x increase in rendering performance. Read more
+Inside Tandem OLED
+Among its many features, the Tandem OLED screen can support an incredible 1,000 nits of full-screen brightness for both SDR and HDR content, and 1,600 nits of peak HDR brightness. Read more
+Apple Pencil Pro
+Shocking as it may seem, it’s been nearly a decade since the first Apple Pencil was announced, way back in 2015. The stylus hasn’t seen much in the way of updates since then. The most significant arrived in 2018, bringing magnetic charging to the line. Last year, meanwhile, saw the arrival of a less expensive model with fewer features and USB-C charging. Many of the new features with the Apple Pencil Pro come from the squeeze. You can create animations, move and rotate the object and even apply lens blurring. Read more
+
+
+
+Magic Keyboard
+Apple announced a new and improved Magic Keyboard, its keyboard accessory for iPad. The Magic Keyboard has been “completely redesigned” to be much thinner and lighter, Apple says, and now includes a function row for quick access to controls like screen brightness. Beyond that, the new Magic Keyboard features aluminum palm rests and a larger trackpad. Plus it’s more responsive, Apple says, with haptic feedback. Read more
+
+
+
+There were more Apple Let Loose announcements as well. Read about the others
+Google I/O
+Canadian drag queen Tynomi Banks holds the new Google Pixel 8 Pro Image Credits: Darrell Etherington
+The top new AI products and features unveiled
+Back in May, Google hosted its annual I/O developers’ conference, and our own Kyle Wiggers took readers you on  journey of all of the company’s AI announcements, including around generative AI and accessibility. Read more
+Wear OS 5
+It was at the event that Google first gave a developer preview of the new version of its smartwatch operating system, Wear OS 5. This release focuses on improved battery life and other performance improvements, like more efficient workout tracking. Developers are also getting updated tools for creating watch faces and building watch apps. Read more
+
+
+
+Tensor Processing Units
+Google unveiled its next generation — the sixth, to be exact — of its Tensor Processing Units (TPU) AI chips. Dubbed Trillium, they will launch later this year. If you recall, announcing the next generation of TPUs is something of a tradition at I/O, even as the chips only roll out later in the year. Read more
+Pixel 8a
+It also revealed a new Pixel 8a smartphone that is a budget version starting at $499 but is packed full of features. Read more
+Pixel Slate
+Google’s Pixel Tablet, called Slate, is now available, too. If you recall, TechCrunch’s Brian Heater reviewed the Pixel Tablet around this time last year, and all he talked about was the base. Interestingly enough, the tablet is available without it. Read more
+Gemini 1.5 Pro
+Everyone can use a “half” every now and again, and Google obliges with Gemini 1.5 Pro. This, Kyle wrote, is “Google’s most capable generative AI model,” and is now available in public preview on Vertex AI, Google’s enterprise-focused AI development platform. The new version of this LLM supports more tokens, making it more powerful, and has audio-processing capabilities. Read more
+
+
+
+Axion
+Back in April, Google Cloud joined AWS and Azure in announcing its first custom-built Arm processor, dubbed Axion. Frederic Lardinois wrote at the time that “based on Arm’s Neoverse 2 designs, Google says its Axion instances offer 30% better performance than other Arm-based instances from competitors like AWS and Microsoft and up to 50% better performance and 60% better energy efficiency than comparable X86-based instances.” Read more
+
+
+
+There were more Google I/O announcements as well. Read about the others.
+Microsoft Build
+Microsoft Surface LaptopImage Credits: Microsoft
+Copilot+ PC
+Copilot+ PCs are Microsoft’s vision of AI-first, flagship Windows hardware. All include dedicated chips called NPUs to power AI experiences like Recall. And they ship with 16GB of RAM minimum, paired with SSD storage. Copilot+ PCs start at $999. Read more
+Surface Pro and Surface Laptop
+Microsoft’s new Surface devices, the Surface Laptop and Surface Pro, focus on performance and battery. The latest Surface Laptop — available with a 13.8- or 15-inch display — has been redesigned with “modern lines” and thinner screen bezels. Read more
+
+
+
+There were more Microsoft Build announcements as well. Read about the others
+Mobile World Congress
+Lenovo’s transparent laptop.Image Credits: Brian Heater
+Ultraleap is bringing haptic touch to cars and VR headsets
+If you don’t know what haptics are, you will by the end of this article. Brian Heater spoke with Ultraleap co-founder and CEO Tom Carter about adapting the technology for use in automotive and virtual reality. However, that’s not all the company can do with it. Read more
+Nothing Phone (2a)
+The Nothing Phone (2a) is Nothing’s third phone that goes directly after the mid-tier/budget space, with a starting price of $349. Much about the phone is similar to Nothing’s earlier devices, however what’s different is that the Phone (2a) is powered by a MediaTek Dimensity 7200 Pro chip, a variant built specifically for the device. Read more
+HTC Vive became an enterprise business
+HTC broke off into a mixed reality division about a decade ago. During that time, Vive’s headsets have gone from a mostly consumer play to more of an enterprise tool. Brian Heater sat down with Dan O’Brien, HTC’s Vive general manager, and John Dabill, the brand’s head of product operations, to discuss Vision Pro, Magic Leap, the metaverse and generative AI. Read more
+
+
+
+Displace wireless television
+Mike Butcher caught up with Displace founder and CEO Balaji Krishna, who discussed the company’s 55-inch Display Flex product. It’s a “wireless” $3,000 4K OLED TV that sticks to walls without a traditional mounting. Krishna said more versions of the screen, and new features, are coming and hinted at future features based on an “AI-powered shopping engine” letting consumers purchase products from ads, and a contactless payment reader. Read more
+Motorola’s rollable concept phone
+What’s the maximum size of a device that you will wear on your wrist? If “bigger is better” is your go-to answer, Lenovo has something for you. The company has designed what it’s calling a “rollable concept phone” for Motorola that folds around your wrist. The key word being “concept,” because there is no proof this could become a product. Regardless, it’s fun to see. Read more
+Xiaomi’s first electric car
+Xiaomi EV’s first product — the highly anticipated Xiaomi SU7 — is a “full-size high-performance eco-technology sedan” with plans to arrive in China at some point next year. In addition to design, Xiaomi has developed the five core EV technologies: E-Motor, CTB Integrated Battery, Xiaomi Die Casting, Xiaomi Pilot Autonomous Driving and Smart Cabin. And, as mentioned before, it will have the “HyperOS” operating system. Read more
+Samsung’s first smart ring
+Diamonds may be a girl’s best friend, but if you’re a girl who can’t sleep, Samsung’s new Galaxy Ring may be your new BFF. Some of the features include on-board sensors to measure heart rate, movement and breathing to create a cross section of the wearer’s health and sleep patterns. Read more
+
+
+
+Xiaomi’s CyberDog
+After years of reporting on Xiaomi’s CyberDog, Brian Heater was finally able to see the robotic dog up close at MWC. He got to see the little dog’s dressage shuffle and do a little dance, which he wrote reminded him “of a scaled-down version of Boston Dynamics’ familiar robot.” CyberDog 2 can currently be purchased online for $3,000 — that’s nearly double the $1,600 price point of its predecessor. Read more
+Lenovo’s laptop concept
+If you’ve always wanted to look at the back of your desk while working, Lenovo’s new transparent laptop will certainly give you that joy. That is, if it ever makes it to production. It looks like your standard laptop with a few exceptions — the screen has a transparent pane, and it and the keyboard part remind us of an augmented reality experience, meaning the graphics are overlaid on whatever is behind it. For now, Lenovo enjoys showing off its creativity. Read more
+
+
+
+There were more Mobile World Congress announcements as well. Read about the others
+CES
+Image Credits: Honda
+The weirdest tech of CES 2024
+One thing is consistent throughout every CES: weird and unexpected gadgets and gizmos appear from unexpected places. We published a rundown of some of the most noteworthy products and services here, which include expensive binoculars with birdwatching AI, voice-absorbing muzzles, pay-as-you-go bathroom access and a router that tries to fit your aesthetic. Read more
+
+
+
+Hyundai shows off its eVTOL, air taxi ambitions
+Supernal’s electric vertical takeoff and landing (eVTOL) aircraft got a showcase from its parent company Hyundai Motor Group on the ground in Las Vegas, as the so-named S-A2 moves closer to its planned 2028 launch for shuttling passengers. Head here for a full rundown on the aircraft, and the challenges in expanding airborne mobility. Read more
+This delivery bot handles stairs with ease
+Mobinn, a new spinoff from Hyundai, showed off how its new delivery robot can use its flexible wheels to navigate stairs and changes in elevation to drop off deliveries, with tests already being conducted in Korea. Read more
+All electric vehicles, all the time — Honda, VinFast, Google Maps
+We had an early look at Honda’s upcoming 0 Series electric vehicles, a thin and light take on what has typically been a thick and heavy EV trend. The automaker teased two concept vehicles, the Saloon and Space-Hub, and said the first commercial model in its 0 Series EV lineup will launch in North America in 2026. Read more
+
+
+
+Vietnamese EV startup VinFast also revealed plans this year to get into the electric pickup truck game with the reveal of a new concept called the VF Wild. The truck will have midsize pickup dimensions, and a folding mid-gate to allow the five-foot bed to turn into something functionally closer to an eight-foot bed (when the rear seats are down). The company also officially announced plans to start selling its smallest EV, the VF3, outside of Vietnam. Read more
+Ultrahuman unveils ‘home health’ tracker
+Indian wearable startup Ultrahuman said it was getting into the smart home game with the upcoming launch of connected hardware that’s designed to monitor the “health” of your home, as its marketing puts it. The device, which it’s calling the Ultrahuman Home, has a price of $349 and a shipping date slated to start in July. Read more
+
+
+
+Pivotal begins personal aircraft sales
+Pivotal, which is backed by Larry Page, this year launched its U.S. sales of its lightweight electric Helix aircraft, which notably does not require a pilot’s license to be able to fly. That doesn’t mean those paying at least the $190,000 base price will go without mandatory training; a number of rules and regulations still apply. Read more
+Sony highlights mobility partnerships, creators and content authenticity
+Sony focused on creators; the success of its IP across its gaming, film and streaming studios; and a focus on its partnership with Honda to imagine the mobility space as a “creativity space.” The latter was demonstrated in part by teasing Fortnite in its Afeela car and driving it onstage with a PlayStation 5 controller. Its “digital birth certificate” also reminded us of the brighter side of NFTs, which Haje explains in detail here.
+Kia’s new modular EV van lineup
+Kia’s new EV vans come with a modular twist. In addition to using a modular powertrain, the vehicles will also have modular tops that allow for many different cabin options. But they remain vague on pricing, specs and expected launch dates for this new fleet of commercial EVs. Read more
+Samsung brings back Ballie; renews green initiative
+Meet the new and improved Ballie, Samsung Electronics’ home robot, which it previewed earlier this year. It’s around the size of a bowling ball with a battery designed to last two to three hours. Ballie sports a spatial lidar sensor to help it navigate rooms and obstacles, as well as a 1080p projector with two lenses that allows the robot to project movies and video calls and even act as a second PC monitor. Read more
+
+
+
+
+
+
+Expanding beyond cute, rolling robots, Samsung showcased its wider initiatives for connected homes. Aside from expected UI and feature updates for its existing SmartThings home automation platform, Samsung showed off a “map view” for users that creates an interactive home map that even includes animated avatars of residents and pets. Read more
+X1 Interpreter Hub: A new real-time translator
+Timekettle announced the X1 Interpreter Hub, a more robust solution, designed for meetings. Timekettle calls it “the world’s first multi-language simultaneous interpretation system.” The system works out of the box, without having to download a separate app. For in-person meetings, two devices are touched together to initiate conversation translation. The handheld devices house earbuds, similar to past Timekettle products. All told, the X1 is capable of supporting up to 20 people at once in five languages. Read more
+LG’s transparent television
+The consumer technology giant unveiled what it touted is “the world’s first” wireless transparent OLED TV. The LG Signature OLED T combines a transparent 4K OLED screen with LG’s wireless video and audio transmission technology. Read more
+More from Samsung: bigger, foldier, more rollable displays
+Samsung Electronics showed off a “new generation of products that can be folded inward and outward,” along with “monitor-sized” folding and sliding OLEDs. It also unveiled a “Transparent MICRO LED” display for the first time. Read more
+Nvidia gets its game on
+Nvidia got into artificial intelligence in a big way at the start of the year with the unveiling of its GeForce RTX, including the GeForce RTX 40 Super series of desktop graphics cards. Much of these are meant for gaming
+
+
+
+
+
+
+Nvidia also announced that its partnership with Getty Images would include a new service for iStock customers, which can create licensable images trained on the existing iStock photo library. Read more
+More chip updates from AMD
+Speaking of chips, AMD debuted its new Ryzen 8000G processors for the desktop, with a big focus on their AI capabilities. Read more
+Bosch’s in-car eye-tracking
+Bosch showed off two technologies earlier this year in eye-tracking while driving: One will see that you have tired eyes and ask if you need an espresso when you arrive home. If yes, its connected technology will tell your fancy machine to have one ready. The other is a bit more complicated in that it’s developed to track what you’re looking at as you drive. Read more.

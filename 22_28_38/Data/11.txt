@@ -1,0 +1,169 @@
+iPhone 16 Pro Max review: A $1,200 glimpse at a more intelligent future
+ 
+All consumer electronics are works in progress. This is the nature of the refresh cycle. Every year or so, a new one arrives with new features, bidding you to upgrade. You’ve no doubt observed how gadgets show their age after a few years. From the early adopter’s perspective, they age like a fine milk.
+The iPhone is as susceptible to this phenomenon as any device. Some chalk it up to forced obsolescence, and there’s probably some truth in that. More than anything, however, it is a product of the constant drumbeat of feature upgrades. But for all of the FOMO that comes from not upgrading, the truth is that the vast majority of new releases are iterative. Each device is a stepping stone to the most recent generation.
+
+
+
+Unveiled at last week’s “Glowtime” event in Cupertino, the iPhone 16 line current occupies a kind of liminal space. The devices’ headliner is the addition of Apple Intelligence, an in-house generative AI platform designed to enhance the iOS user experience. Prior to this, only iPhone 15 Pro models were able to utilize the feature, owing to the limitations of earlier Apple silicon.
+Analysts have suggested Apple’s answer to ChatGPT and Gemini is enough to spur a “supercycle,” though Apple Intelligence’s staggered rollout will likely hamper a spike in sales akin to what the company saw with its first 5G phone. I would add that Apple Intelligence lacks the wow factor people experienced the first time they entered a prompt in GPT. For one thing, early adopters have been playing around with text and image generators for a while now.
+For another, Apple Intelligence is subtle by design. As I wrote following its announcement at WWDC in June, the platform is based on small models, as opposed the giant “black box” neural networks that fuel other GenAI systems. The notion behind Apple’s take is to fuel existing products, like bringing summaries and message generation to Mail and improved object recognition to Photos.
+The company has a branding tightrope to walk with the Apple Intelligence rollout. With analysts speculating how much catching up Apple had to do in comparison with OpenAI and Google, the company felt it necessary to make an impression with its WWDC announcement. It wants consumers to recognize the Apple Intelligence name insofar as it will drive device sales.
+As with its predecessors, the iPhone 16’s other headline feature arrives by way of its camera system. This one is different, however, in one key way. For the second year in a row, famously minimalist Apple has added a physical button. Whereas the iPhone 15 borrows the Action button from the Apple Watch Ultra line, Camera Control harkens back to the days of handsets past.
+
+
+
+
+
+It’s more than just a button for opening the camera app and snapping shots, though it does both, of course. Camera Control also sports a touch interface for swiping through different options within the app. More than this, it points to a future in which AI is wholly woven into the iPhone’s fiber.
+
+
+
+The feature will be a key piece of Visual Intelligence, a kind of AI-driven augmented reality feature that has frequently been compared to Google Lens. But like other pieces of Apple’s AI strategy, the feature won’t be available at the iPhone 16’s launch but is instead arriving in beta form at some point in October.
+Apple Intelligence availability
+Image Credits: Apple
+A staggered rollout isn’t the Apple Intelligence issue standing between the iPhone 16 and a supercycle. Availability is another major roadblock. At least at launch, the platform will be blocked in the European Union and China.
+“Due to the regulatory uncertainties brought about by the Digital Markets Act, we do not believe that we will be able to roll out three of these [new] features — iPhone Mirroring, SharePlay Screen Sharing enhancements, and Apple Intelligence — to our EU users this year,” the company told Financial Times.
+The Chinese language version of Apple Intelligence will be released sometime in 2025. As the South China Morning Post notes, it’s not entirely clear whether generative AI regulation will bar its arrival in the People’s Republic of China. That accounts for a massive chunk of Apple’s customer base, which — at the very least — won’t be able to access the iPhone 16’s single largest selling point.
+
+
+
+The news is rosier here in the U.S., where Apple Intelligence will arrive as part of the iOS 18.1 rollout. I’ve been running the developer beta of the software offering. While it’s very close to public release, I did run into a couple of beta bugs that I won’t dwell on here.
+
+
+
+I will note, however, that Apple Intelligence is opt-in. This is a good thing; there are plenty of reasons to be skeptical about generative AI at the moment, and making something opt-in rather than opt-out is generally the right move. There is, however, the slight annoyance of having to manually turn the feature on in settings. Not the end of the world.
+Some features can be enabled even with Apple Intelligence toggled off. Clean Up, Apple’s answer to Google’s Magic Eraser photo editor, is one of these features. You’ll still find it in the Photos app, though it requires a separate download the first time you use it. We’ll get deeper into the feature in the Camera section below.
+Writing Tools
+L-R Friendly, ProfessionalImage Credits: Brian Heater
+Writing Tools will be the most ubiquitous form of Apple Intelligence available at launch. They can be accessed through proprietary apps like Pages and Mail. Third-party developers will be able to access them as well.
+If you’ve spent any time playing around with platforms like ChatGPT, it’s clear why this makes sense as a first volley into the GenAI world. These platforms have become very good at generating text, so it’s a relatively light lift.
+The feature is accessed by highlighting text and tapping on Writing Tools in the pop-up menu. From there, another menu will populate at the bottom of the screen, offering the following options: Proofread, Rewrite, Friendly, Professional, Concise, Summary Key Points, and List Table.
+
+
+
+
+
+
+I grabbed some text from an Apple story I wrote the other day as an experiment:
+Original
+
+The U.S. Food and Drug Administration Monday published approval for sleep apnea detection on the Apple Watch Series 9, Series 10, and Watch Ultra 2. The green light comes four days ahead of the Series 10’s September 20 release date. The feature, announced at last week’s iPhone 16 event, will arrive as part of the imminent watchOS 11 release. Once enabled, it requires 10 nights of sleep tracking data spread out over a 30-day span to determine whether a user may have the condition. During that time, it also offers insights into nightly sleeping disturbances, utilizing the on-board accelerometer.
+
+Friendly
+
+The U.S. Food and Drug Administration gave the green light on Monday for sleep apnea detection on the Apple Watch Series 9, Series 10, and Watch Ultra 2. This news comes just four days before the Series 10’s September 20 release date. Remember that feature we talked about last week at the iPhone 16 event? It’s finally coming as part of the upcoming watchOS 11 release. Once you enable it, it’ll need 10 nights of sleep tracking data over a 30-day period to figure out if you might have sleep apnea. During that time, it’ll also give you insights into any sleep disturbances you might have, thanks to the accelerometer on your watch
+
+Professional
+
+The U.S. Food and Drug Administration (FDA) has granted approval for sleep apnea detection on the Apple Watch Series 9, Series 10, and Watch Ultra 2. This approval is four days prior to the anticipated release date of the Series 10 on September 20. The feature, unveiled during last week’s iPhone 16 event, will be integrated into the forthcoming watchOS 11 release. Upon enabling, the sleep apnea detection feature requires 10 nights of sleep tracking data, spanning a 30-day period, to ascertain the presence of sleep apnea. During this period, it also provides insights into nightly sleep disturbances, utilizing the onboard accelerometer.
+
+Concise
+
+
+
+
+The FDA approved sleep apnea detection on the Apple Watch Series 9, 10, and Ultra 2. The feature, announced at the iPhone 16 event, will be part of watchOS 11 and requires 10 nights of sleep tracking data over 30 days to determine if a user has sleep apnea. It also offers insights into nightly sleeping disturbances using the accelerometer.
+
+Summary
+
+FDA approves sleep apnea detection on Apple Watch Series 9, Series 10, and Watch Ultra 2, set to release September 20.
+
+Key Points
+
+• Sleep Apnea Detection: FDA approves sleep apnea detection on Apple Watch Series 9, Series 10, and Watch Ultra 2.
+• Requirement: 10 nights of sleep tracking data over 30 days to determine potential sleep apnea.
+
+List
+
+• The U.S. Food and Drug Administration (FDA) has approved sleep apnea detection on the Apple Watch Series 9, Series 10, and Watch Ultra 2.The approval comes four days ahead of the Series 10’s September 20 release date.
+• The feature will be available as part of the watchOS 11 release.
+• To determine whether a user may have sleep apnea, the feature requires 10 nights of sleep tracking data spread out over a 30-day span.
+• During that time, it also offers insights into nightly sleeping disturbances.
+
+As you can see, the changes in the style rewrites are mostly subtle, but for a few colloquialisms, like “Remember that feature we talked about last week at the iPhone 16 event?” in the Friendly version.
+
+
+
+
+
+
+As someone who enjoys the writing process, I won’t be utilizing the style options. However, I can see Summary/Key Points being a useful feature for long emails. List honestly just feels like someone separated the existing text with bullet points, which is generally less useful.
+The feature also includes thumbs-up and thumbs-down icons on each of the rewriters, in a bid to help make Writing Tools better and more intelligent over time.
+Apple Intelligence and Siri
+Image Credits: Brian Heater
+Siri is the other place where people are most likely to interact with Apple Intelligence. This is undoubtedly the biggest overhaul in the 13 years that have elapsed since Apple introduced the smart assistant.
+The mainstreaming of generative AI couldn’t have come along at a better time for the beleaguered world of smart assistants. It could well prove the supercharge they need. Google has already begun to demonstrate how Gemini will power its assistants, and Amazon is expected to do the same with Echo in the next few months.
+Siri’s makeover starts with a fundamental redesign of the user interface. Gone is the familiar little glowing orb. In its place is a glowing border that surrounds the entirety of whatever screen you’re on when you prompt the assistant.
+
+
+
+There’s a fun little animation that makes the screen jiggle a bit, while leaving all of the text unobscured. I like the new interface: It’s a subtle but clearly visible way to denote that the phone is listening.
+
+
+
+Like most of Apple Intelligence’s implementations, the new Siri is about improving existing experiences. That means asking Siri how to perform specific tasks on your phone, like logging medications in the health app. For those of us who often stumble over words, the assistant has also gotten better at determining your intent.
+As with other Apple Intelligence pieces, some of Siri’s best new features are coming in future iOS updates. That includes things like added contextual awareness, based on both earlier requests and what’s on the screen.
+Photographic Intelligence
+L-R: Before and after Clean UpImage Credits: Brian Heater
+As mentioned above, Clean Up is one of a small number of Apple Intelligence features that are accessible without opting in to the whole experience. Understandably so. Like Google’s Magic Eraser before it, Clean Up feels more like a photo editing feature than what we tend to think about when we think about generative AI.
+The experience is a lot like Magic Eraser all the way through. Take a photo, and if you see something you don’t like, circle it with your finger. Photos will then attempt to remove it from the image by generating an approximation of the background behind it. The feature builds upon the object recognition we’ve seen that has enabled earlier features like background removal.
+
+
+
+I found it to work well, though it struggled a bit with more complexly patterned backgrounds.
+Image Credits: Brian Heater
+
+
+
+The new version of object recognition is fun. I recently moved from the city to a rural area, so I’ve been trying it on the wildlife. It’s a bit hit or miss. It immediately recognized an eastern chipmunk chilling on the armrest of my Adirondack chairs but had more trouble with my pet rabbit, June. It alternately labeled her a cat and a mammal. In Apple Intelligence’s defense, one of those is technically correct and the other spiritually so.
+Other new features include the ability to search by a more complex string of words. Here’s what came up when I typed in “rabbit sitting in front of a green egg”:
+Brian HeaterImage Credits: Brian Heater
+Nailed it.
+Camera Control
+Image Credits: Brian Heater
+For the second consecutive year, Apple added a button to the iPhone. It’s a funny trend for a company that has historically been allergic to buttons and ports. But, hey, consumer electronic evolution is nothing if not cyclical.
+
+
+
+Camera buttons are one of those things that were nice to have around; I have occasionally found myself missing it. In fact, it was the first thing I assigned to the iPhone 15’s action button. Camera Control is a larger button, located low on the opposite side of the phone. The placement is better for when you need to quickly fire up the camera app.
+
+
+
+It’s also large due to its touch sensitivity. This is used for deeper control inside the app for features like zooming, which is especially handy when you find yourself snapping photo or shooting video with just the one hand.
+The addition of the button ultimately has more to do with Visual Intelligence. That feature — Apple’s answer to Google Lens — won’t launch until later this year, however. The same goes for image generation features like Image Playground and Genmoji.
+Low key, my favorite new feature for the new iPhones may be the new undertones matrix. When taking a photo, the icon populates above the one that turns Live Photos on and off. Tapping that brings up a small grid where the shutter button usually is. By moving your finger around the pad, you can adjust color and tone when looking at the live image. It’s super handy to be able to do that on the fly before capturing the photo.
+iPhone 16’s camera
+Image Credits: Brian Heater
+The camera may well be the one piece of the phone that gets love with every upgrade. It’s one of the main grounds on which phone makers wage battle. After all, people love taking photos and there are always a million ways to improve them through hardware and software upgrades.
+
+
+
+Apple’s primary goals with its camera system are twofold. The first is to get it as close to a stand-alone camera as possible. That includes both improving the sensors and image signal processor (ISP), along with adding as much on-device control as possible. The second is ensuring non-experts get the best possible picture and video without having to futz with the settings.
+Instagram has taught plenty of folks to love a good filter, but at the end of the day, I strongly believe that most want a shot to come out looking as good as possible as soon as it’s taken. Additions like a 5x telephoto, improved macro shooting, and 3D sensor-shift optical image stabilization go a ways toward that goal. On the video side, that goes for improved mic quality and wind sound reduction.
+
+
+
+For those who want to drill down, the ability to isolate voices in frame is impressive, though I strongly suspect that those shooting professional video with the phone will continue to use stand-alone mics for closer proximity, more focused capture, and added versatility. If, however, you’re just shooting some pals in a noisy restaurant or a spot with a lot of echo, it’s great.
+Components
+Image Credits: Apple
+Apple switched up its chip strategy this time, giving every new device either the A18 or A18 Pro chip. This is likely due to the desire to create a uniform Apple Intelligence experience across the line. It understandably rankled many iPhone 15 owners when the company announced that only Pro models were getting access to the feature roughly seven months after they went on sale.
+Of course, the A18 Pro ramps things up a bit more, with a 16-core Neural Engine, 6-core CPU, and 6-core GPU. Apple still has a long way to go in the AAA gaming world, but with the addition of faster hardware-accelerated ray tracing, mesh shading, and dynamic caching, the iPhone is becoming a formidable platform in its own right.
+
+
+
+For about a decade, I’ve argued that the two areas phone makers need to focus on are durability and battery life. Apple has done the former here with the addition of stronger glass and Ceramic Shield. I have yet to really drop test the thing, but there’s still time.
+The battery capacity has increased as well, though Apple won’t say by how much. Phone teardowns will reveal that information soon enough. The more power-efficient A18 contributes to the underlying battery life too. The company states that the iPhone 16 Pro Max has the best-ever battery life on an iPhone. I’ve certainly found that I have no issue leaving the charger at home when I go out for the day.
+For some reason, Apple didn’t discuss repairability at its event earlier this month. That was a bit of a surprise, given how the Right to Repair movement has shone a spotlight on the subject. That said, Apple has improved repairability — for example, offering a new adhesive design and the addition of Repair Assistant with iOS 18.
+
+
+
+And finally
+Image Credits: Brian Heater
+There are other nice features sprinkled throughout. The 16 line is the first iPhone to support faster Wi-Fi 7. The Ultra Wideband chip has been improved for better Find My Friends functionality. On the software front, the ability to sing over musical tracks in Voice Memo is a very cool feature for musicians looking to lay down rough tracks. Ditto for dramatically improving slow-motion capture.
+If you own an iPhone 15 Pro, don’t worry too much about FOMO. Camera Control isn’t enough to warrant an upgrade, and your device will be getting access to Apple Intelligence. For others, the promise of Apple Intelligence points the future of the line with more intuitive, helpful software. We’ll have a much better picture of its scope by year-end.
+
+
+
+For now, it brings some handy features, largely in the form of a better Siri and some useful writing tools. The 16 Pro Max shoots great photos with minimal effort and can capture impressive video. It’s a great and well-rounded phone with a $1,200 starting price to match. It’s available now for preorder and will launch September 20. 
+Apple Intelligence, meanwhile, probably won’t change your life, but it will make the things you do with your phone easier. Given how much of our lives — for better or worse — are lived through our phones, that’s a handy feature.

@@ -1,0 +1,41 @@
+OpenAI previews its new Strawberry model
+ 
+OpenAI this week unveiled a preview of OpenAI o1, also known as Strawberry. The company claims that o1 can more effectively reason through math and science, as well as fact-check itself by spending more time considering all parts of a query. The family of models is available in ChatGPT and via OpenAI’s API, though OpenAI says it plans to bring o1-mini access to all free users of ChatGPT at some point in the future.
+Apple’s “It’s Glowtime” event was this week, featuring the reveal of its iPhone 16 lineup. The phones have a new dedicated camera control feature, an A18 chip, and, of course, AI integration with Apple Intelligence. Apple also highlighted new features in its AirPods Pro 2, including the ability to use them as clinical-grade hearing aids. If you missed the event live, we put together a rundown of everything you need to know.
+
+
+
+Oprah Winfrey hosted an AI special featuring interviews with Bill Gates, OpenAI CEO Sam Altman, tech influencer Marques Brownlee, and FBI director Christopher Wray. While Altman may have overpromised what AI is capable of or how it can impact the world, the dominant tone of the conversations was one of skepticism — and wariness.
+
+This is TechCrunch’s Week in Review, where we recap the week’s biggest news. Want this delivered as a newsletter to your inbox every Saturday? Sign up here.
+
+News
+Image Credits: Brian Heater
+
+
+
+Face-to-face with Figure 02: TechCrunch’s Brian Heater got some one-on-one time with Figure’s latest humanoid robot. It’s come a long way in a short amount of time, with a new look and the ability to walk. Read more
+Pour one out for Cohost: Cohost is shutting down after running out of money. The attempted X competitor differentiated itself by focusing on a chronological feed and pursuing a business model that didn’t rely on advertising. Read more
+It’s too late to opt out of Meta’s AI training: Meta has acknowledged that it uses public posts to train its AI models, but it became clear this week just how much it uses. So if your Facebook or Instagram profiles were ever public, your posts have likely been scraped. Read more
+
+
+Hail a robotaxi with Uber: Uber users in Austin and Atlanta will be able to hail Waymo robotaxis through the app in early 2025 as part of an expanded partnership between the two companies. Read more
+
+
+
+Bluesky pivots to video: Bluesky will now let users share videos of up to 60 seconds in length on its platform, allowing the social network to better compete with rivals X and Instagram’s Threads. Read more
+Seattle’s hottest tourist destination is a damaged Cybertruck: A damaged Cybertruck on a busy Seattle street became an unlikely destination, and even had a makeshift memorial in front of its front bumper. The truck has since been removed, however. Read more
+Robots can learn how to tie shoelaces, too: In a new paper, Google DeepMind researchers showcase a method for teaching robots to perform a range of dexterous tasks, including tying a shoe, hanging a shirt, and even fixing fellow robots. Read more
+
+
+
+Is OpenAI worth $150B? OpenAI is reportedly in talks with investors to raise $6.5 billion at a $150 billion pre-money valuation. It’s significantly higher than OpenAI’s previously reported valuation of $86 billion and far higher than any other AI startup today. Read more
+More trouble for Adam Neumann: The former WeWork CEO’s climate/crypto/carbon-credit startup Flowcarbon appears to be in the process of curling up to die as it reportedly refunds investors. Read more
+
+
+
+AI hits the VMAs red carpet: Want to dress like Chappell Roan’s take on Joan of Arc? Thanks to a partnership between MTV and Shopsense AI, users can find and purchase dupes of their favorite outfits from this year’s VMAs with just a photo. Read more
+Analysis
+Image Credits: Bryce Durbin / TechCrunch
+Apple punts on AI: Apple’s “It’s Glowtime” event featured a lot of AI talk, which is to be expected. But as Devin Coldewey writes, none of the Apple Intelligence features the company highlighted feel new or interesting — nor do they appear to include any meaningful changes since they were released in beta after WWDC. It raises the question, Is it a failure of imagination or of technology? Read more
+Maybe you should stop picking up the phone: For as long as we’ve had telephones, there have been people trying to trick someone into thinking they’re someone else — and voice AI tools are making it even easier for scammers to trick people on the phone. Zack Whittaker suggests that the best way to keep yourself safe from phone-related scams might be to just let an unknown call go to voicemail. Read more

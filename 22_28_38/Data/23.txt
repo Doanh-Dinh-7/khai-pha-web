@@ -1,0 +1,37 @@
+AI illusions and navigating ‘The Money Trap’ with Alok Sama
+ 
+
+
+
+
+
+Listen on
+Apple Podcasts
+
+
+
+
+Listen on
+Spotify
+
+
+
+
+On today’s episode of Equity, Rebecca Bellan sat down with Alok Sama, a Morgan Stanley veteran and former president and CFO of SoftBank Group International. They discussed the latest Apple tech announcements, Sama’s views on the AI hype cycle, and changes to the technology investment landscape since the dot-com era. He also provided insights from his upcoming memoir, “The Money Trap: Lost Illusions Inside the Tech Bubble,” which goes on sale September 17. 
+Sama cut his teeth at Morgan Stanley before joining SoftBank in 2014, where he worked closely alongside the Japanese conglomerate’s iconic founder Masayoshi Son. Sama helped steer Son’s $32 billion acquisition of the U.K.’s Arm Holdings in 2016 and led SoftBank on the $59 billion merger of Sprint and T-Mobile. 
+In short, when it comes to surveying the landscape of technology and investment, Sama knows his stuff. 
+Apple and AI musings
+At Apple’s “It’s Glowtime” event on Monday, the company revealed its iPhone 16 lineup, which will be the first to ship with AI-powered functionality. Those Apple Intelligence features will come out later this year, though, and Sama says the real impact of Apple’s announcements are yet to be seen. 
+“At the consumer level, [the impact of AI] is very early days,” Sama said.
+Sama also touched on the sky-high valuations of companies in the AI space — including Nvidia ($3.3 trillion), Anthropic ($18.4 billion), OpenAI ($100+ billion), and xAI ($24 billion) — and whether those are evidence of an AI bubble bursting. 
+Sama says he’s not too worried about it. 
+“If you look at Nvidia and you look at the way it’s performed, it’s not disconnected with reality in terms of how their revenues and profits are growing,” Sama said. “Nvidia trades somewhere in the region of 35 to 40 times forward earnings. That’s not outrageous. Outrageous was Cisco, which was trading at 200 times earnings. If you’d invested in Cisco back in 2000, 24 years later, you’d still be losing money.”
+Sama also noted that Nvidia’s major customers, the so-called “hyperscalers” (Google Cloud and Microsoft Cloud), are big enough to risk overinvesting in AI rather than underinvesting. 
+The two also touched on the incestuous and circular nature of investments into the top AI players. Sama pointed to Nvidia and Microsoft investing in OpenAI’s latest round, in which it was valued at over $100 billion, and sketched out a picture of OpenAI spending money on Microsoft Cloud, and Microsoft Cloud spending money on Nvidia chips, and so on. 
+“The Money Trap”
+Sama delved into points of his book, particularly the psychology of investment hype cycles and the precedent set in Silicon Valley of valuing companies based on growth predictions rather than metrics like revenue and profits. While investors are doing more due diligence in today’s risk-averse market, Sama said it’s a balance between too careful and too investment-happy. 
+He said Son had the opportunity to invest in Facebook at a $10 billion valuation back in 2009, but ultimately passed. Today, Meta’s valuation is over $1 trillion. “That was a case of Masa having real valuation discipline, but that came back to haunt him. That’s just the reality of tech investing.”
+Son didn’t make that mistake again, though, and invested in ByteDance and its powerful AI algorithm at a $75 billion valuation years later. 
+At the end of the day, VCs are learning to take business models into account, but human nature will always fall prey to the groupthink mentality of a hype cycle.
+Equity is TechCrunch’s flagship podcast, produced by Theresa Loconsolo, and posts every Wednesday and Friday. 
+Subscribe to us on Apple Podcasts, Overcast, Spotify and all the casts. You also can follow Equity on X and Threads, at @EquityPod. For the full episode transcript, for those who prefer reading over listening, check out our full archive of episodes over at Simplecast.

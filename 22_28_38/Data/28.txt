@@ -1,0 +1,103 @@
+iPhone 16, Apple Intelligence, AirPods 4 and more: Everything revealed at Apple Event 2024
+ 
+Apple’s biggest event of the year has arrived, and with it, the iPhone 16 lineup and a slew of AI-related updates for iOS 18. Apple Intelligence was the star of the Apple event this year, like it was at WWDC in June, and Apple’s lineup of announcements echoed many of the anticipated hardware reveals, including the new iPhone 16, AirPods 4, the Apple Watch Series 10 and more. Broadcasting live from its headquarters in Cupertino, Apple’s “Glowtime” event kicked off at 10 a.m. PT, and you can watch the recording of the full Apple event here. 
+Whether Monday’s reveals end up inspiring or delaying a “supercycle” of customers adopting the new iPhone 16 lineup remains to be seen, but Apple’s focus on AI as a core part of its sales pitch moving forward is clear. We’ll keep this post updated as reports emerge from the demo rooms and briefings following the event.
+iPhone 16
+Image Credits: Apple
+As no surprise, the iPhone 16 “has been designed for Apple Intelligence from the ground up,” in the words of CEO Tim Cook, and the tweaked designs and new colors were revealed at the Apple event. The new iPhone 16 lineup comes with a camera control along the side, which allows for physical interactions to access camera features, along with the new A18 chip that Apple claims makes the iPhone 16 up to 30% faster than the iPhone 15. The iPhone 16 starts at $799 for the 128GB model, with the 16 Plus starting at $899 with the same amount of storage. Catch up on our ongoing iPhone 16 updates here.
+
+
+
+And for a rundown on what distinguishes the new iPhone 16 lineup, you can head right here, or check out the latest TechCrunch Minute episode breaking down the biggest reveals.
+
+
+
+
+
+
+Hands-on with the iPhone 16’s camera button
+Image Credits: Brian Heater
+In the words of our editor Brian Heater, Apple is “feeling a lot more bullish about buttons these days.” And after the Apple event broadcast concluded, he got the chance to see that the Camera Control button actually adds to the iPhone experience, at least for a brief demo.
+“Like any other new feature, Camera Control takes a bit to master. The trickiest part is determining how much pressure to apply in order to toggle between features. That, however, is what makes it unique versus earlier camera buttons. It’s more than just a way to open the camera app and take a shot. It also lets you navigate within the app itself,” he wrote, and you can check out his full hands-on with the iPhone 16’s biggest physical change right here.
+The Camera Control button has some other functions, with Apple confirming that it can be used to access Google searches, and to prompt responses from OpenAI’s ChatGPT, which is already being added to apps like Siri. The exact details on how the button press will determine whether you use a third party app or Apple’s software remain vague.
+
+
+Apple Intelligence
+Image Credits: Apple
+
+
+
+First revealed at WWDC, Apple Intelligence is mostly being presented as a more private large language model operating behind the scenes to improve existing apps and features. Retreading many of its WWDC reveals, Apple touted Intelligence’s ability to survey inboxes, with summaries surfacing for emails, and notifications altered to provide summaries as well with priority notifications elevated to the top of their stacks. Claiming “a new era for Siri,” Apple boasted that its Intelligence upgrades allow Siri to understand requests that are less than eloquently delivered, walk users through specific tasks within the iPhone and gain on-screen awareness of actions taking place on the phone. 
+
+
+
+Apple Intelligence is launching as a beta in the U.S. in the fall, with localized English coming to several markets in December. Additional languages like Chinese, French, Japanese and Spanish are targeted for 2025.
+Apple also detailed visual search, which is powered by Apple Intelligence, which combines the functions of a reverse image search with text recognition to add the details of an event to your calendar from a photo, or pull information about a restaurant directly from a photo of it. 
+Apple’s claims about Intelligence’s potential to improve user experiences across multiple product lines have prompted two key questions, one being: Is Siri actually useful now? And the second being: Is that it? When you run through the actual use cases demonstrated by Apple during the event, it’s a lot that already exists from writing assistance tools, competing LLMs and existing voice assistants. 
+
+
+
+iOS 18 launching September 16
+Image Credits: Apple
+We already got a first impression of iOS 18 through its beta release earlier this year, though its initial rollout without Apple Intelligence’s features wasn’t particularly impressive. As mentioned above, a lot of the most anticipated AI features will be coming later in 2024, but iOS 18 still has other messaging and control center updates you can run through in detail here, with all iPhones, including and after the iPhone XR and SE (second gen), eligible for the update. You can get a more detailed rundown on your device’s iOS 18 compatibility here.
+
+
+
+Camera controls on the iPhone 16
+Image Credits: Apple
+One of the biggest physical updates to the iPhone 16 lineup comes in the form of the camera control button. The camera control responds to clicks and different physical gestures, with light presses showing clean previews while a hard click can take a photo. Trailing a finger along the button lets dials and settings to be changed. Read the full rundown on what the camera control can be used for here.
+iPhone 16 Pro, Pro Max
+Image Credits: Apple
+Apple’s more premium iPhone models come with expected screen changes, with the screen taking up 6.3 inches on the Pro, 6.9 inches on the Pro Max for the biggest screens on an iPhone yet. The iPhone 16 Pro and Pro Max have a new A18 Pro chip, an upgraded camera with faster shutter speeds, the ability to capture 4K video at 120 fps and other changes you can run through here. The iPhone 16 Pro stars at $999 and the 16 Pro Max starts at $1,119 with both up for preorder Friday and launching in stores September 20.
+
+
+
+Apple Watch Series 10
+Image Credits: Apple
+
+
+
+Apple kicked things off with reveals on the Watch for the line’s 10th anniversary, rolling out a series of updates within the Apple Watch Series 10 line, including a tweaked design with more rounded corners and an updated aspect ratio, with Apple’s first wide-angle OLED screens. The Series 10’s display is up to 40% brighter when viewed at an angle and is the thinnest Apple Watch yet at 9.7mm and up to 10% lighter than the previous models. Unsurprisingly, AI featured in the Apple Watch Series 10 reveal, with a new photos watch face using AI to curate the photos shown on the display, and translation tools using machine learning to improve output.
+
+
+
+Apple Watches are also getting an update to detect sleep apnea, which received FDA clearance for the Series 10 and Series 9. The Apple Watch Series 10 will start at $399, and it launches September 20.
+Read more on the Apple Watch Series 10 here.
+Apple Watch Ultra
+Image Credits: Apple
+Apple has long touted the Ultra as a device for fitness aficionados, boasting custom workouts, running track detection, bike rides as live activities and so on. And after a lead-up to a reveal, Apple dropped that there won’t be an Apple Watch Ultra 3 yet, instead announcing a new satin black color for the Ultra 2.
+AirPods 4
+Image Credits: Apple
+
+
+
+Apple claims the new AirPods 4 are the “most comfortable AirPods ever,” with a new A2 chip under the tweaked design. Personalized Spatial Audio is coming to the AirPods 4, along with the addition of machine learning for Siri to pick up head shakes and nods as responses to prompts. The new AirPods 4 will also be available September 20, starting at $129 with active noise cancellation added for the $179 tier. Get the full rundown on the AirPods updates here.
+AirPods Pro 2
+Image Credits: Apple
+Three points were highlighted for AirPods Pro 2 updates: prevention, awareness and assistance. For prevention, hearing protection will be added and on by default for passive noise reduction, managed through machine learning. For awareness, Apple is adding a “clinically validated” hearing test that owners can take at any time. 
+
+
+
+And then for assistance, hearing aid features are launching for those whose hearing tests identify them as potentially benefiting from hearing assistance features. Apple claims that they expect clearance from the FDA on these features “soon,” with updates expected to come to iOS in the fall.
+We got the chance to demo a not-yet-final version of the Hearing Test app after the iPhone event, which you can check out here, and it’s worth noting that the test will not be available for the earlier AirPods Pro model.
+
+
+
+AirPods Max
+Image Credits: Apple
+
+
+
+A series of incremental updates came to AirPods Max during the Apple Event, with USB-C added in, and a series of new colors coming to the updated headphones September 20 for the same price of $549. Get the full rundown here.
+Cheaper iPhones (in India)
+Apple readies first retail store in IndiaImage Credits: Apple
+The iPhone 16 lineup pricing is familiar for those following Apple in the states, but in India, Apple fans will be able to benefit from a discount from the iPhone 15 lineup of about 15,000 rupees, which is roughly $178, The price comes after India lowered import duties on electronics, and amid Apple’s expansion of local manufacturing, which had earlier spurred a discount for the 15 models in the country.
+Voice Memos with background music
+Image Credits: Apple
+Apple showed off a new feature for the Voice Memos app, which allows vocal tracks to be layered on top of pre-recorded music or instrumentals. Read more here.
+New macOS Sequoia launching September 16
+Image Credits: Apple
+In an untraditionally swift launch for its macOS updates, Apple announced that the update first showcased at WWDC 2024 will launch in a week, with a series of updates built upon Apple Intelligence that you can run through here.
+
+
+

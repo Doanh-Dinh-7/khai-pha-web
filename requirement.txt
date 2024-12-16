@@ -21,6 +21,8 @@ emot
 nltk
 stop_words
 autocorrect
+unidecode
 
 pyvi
 WordCloud
+

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lá»i káº¿t ná»i</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <style>
+            html {
+                font: 16px/22px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+                color: rgba(0, 0, 0, 0.5);
+                -webkit-font-smoothing: antialiased;
+                -webkit-text-size-adjust: 100%;
+            }
+
+            div {
+                position: absolute;
+                min-width: 300px;
+                width: 100%;
+                padding: 10px 0 60px;
+                text-align: center;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -60%);
+            }
+
+            h1 {
+                font-size: 20px;
+                font-weight: normal;
+                line-height: 28px;
+                margin: 15px 0 10px 0;
+            }
+
+            p {
+                font-size: 16px;
+                margin: 10px 0 10px;
+            }
+
+            h1 a {
+                color: inherit;
+                text-decoration: none;
+            }
+
+            h1 a:hover {
+                border-bottom: 1px solid;
+            }
+
+            h1 a:active {
+                color: #0082F1;
+            }
+
+            h1 span {
+                display: inline-block;
+            }
+
+            footer {
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                font-size: 13px;
+            }
+
+            footer a {
+                text-decoration: none;
+            }
+
+            footer img {
+                vertical-align: bottom;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+            <img src="//sentry.mediacdn.vn/sad_cloud.png" width="125" height="125">
+            <h1>
+                <span>Káº¿t ná»i Äáº¿n <a id="host" href="#" onclick="window.location.reload(); return false;" title="Reload"></a></span>
+                <span>gáº·p lá»i.</span>
+            </h1>
+            <p>Vui lÃ²ng thá»­ láº¡i sau Ã­t phÃºt.</p>
+            <footer>
+                <a href="http://www.vccloud.vn/" target="_blank" title="VCCloud">
+                    <img src="//sentry.mediacdn.vn/vccloud.png" height="24" width="24">
+                </a>
+                Error Code: 502
+            </footer>
+        </div>
+
+        <script src="https://sentry.mediacdn.vn/raven.min.js"></script>
+        <script>
+            var serverName = 'ha-ald-6-164';
+            var statusCode = 502;
+            var host = window.location.hostname;
+
+            if (host.slice(-1) === '.') {
+                window.location.replace('//' + host.substring(0, host.length - 1));
+            }
+
+            document.getElementById('host').innerHTML = host;
+
+            Raven.config('https://104c1850cf8e44b1ac34f4748543428d@sentry.k8s.vn/10').install();
+            Raven.setTagsContext({'server': serverName});
+            Raven.captureMessage('HTTP ' + statusCode + ' - ' + host, {
+                level: 'error' // one of 'info', 'warning', or 'error'
+            });
+        </script>
+    </body>
+</html>
+

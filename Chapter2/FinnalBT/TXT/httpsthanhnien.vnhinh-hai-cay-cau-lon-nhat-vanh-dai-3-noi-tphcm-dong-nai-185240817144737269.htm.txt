@@ -1,0 +1,92 @@
+
+        Hình hài cây cầu lớn nhất Vành đai 3 nối TP.HCM - Đồng Nai
+    
+
+
+                                Tính đến thời điểm hiện tại, cầu Nhơn Trạch đạt 80% tiến độ, dự kiến hợp long nhịp đầu tiên vào tháng 9. Đây là cây cầu lớn nhất tuyến Vành đai 3 TP.HCM nối TP.HCM - Đồng Nai. 
+                            
+
+                                
+                                    
+
+                                                                                                                
+                                    Gói thầu xây dựng cầu Nhơn Trạch (gói thầu CW1) thuộc dự án thành phần 1A dự án đầu tư xây dựng đoạn Tân Vạn - Nhơn Trạch giai đoạn 1 thuộc đường Vành đai 3 TP.HCM. Cây cầu khởi công vào tháng 9.2022, tổng mức đầu tư hơn 6.955 tỉ đồng từ vốn vay ODA của Hàn Quốc và vốn đối ứng trong nước, do Công ty Kumho E&C (Hàn Quốc) thi côngCầu Nhơn Trạch có tổng chiều dài 8,22km, trong đó đoạn qua TP.HCM dài 1,92km, đoạn qua Đồng Nai có chiều dài 6,30km, tổng mức đầu tư hơn 6.900 tỉ đồngTrong tháng 9 tới, nhịp cầu đầu tiên trên tuyến sẽ hợp long trước khi nối thông các nhịp còn lại vào tháng 1.2025 dự kiến sẽ thông xe vào dịp lễ 30.4.2025Cầu Nhơn Trạch gồm 5 nhịp dầm đúc hẫng, 34 nhịp dầm super T. Xây dựng bốn cầu cạn trên các nhánh đường dẫn trong nút giao với đường cao tốc TP.HCM - Long Thành - Dầu Giây (HLD) với tổng chiều dài các cầu khoảng 3.788mCầu Nhơn Trạch bắc qua sông Đồng Nai nối TP.Thủ Đức (TP.HCM) với huyện Nhơn Trạch (Đồng Nai) đang dần hoàn thiệnÔng Lê Đình Hoàng Chương, Phó ban điều hành dự án 1A, cho biết đơn vị thi công liên tục không ngừng nghỉ kể cả ngày lễ, Tết để kịp tiến độ. "Sau khi dự án cầu Nhơn Trạch đi vào khai thác sẽ giúp giảm tải đáng kể cho tuyến cao tốc TP.HCM - Long Thành - Dầu Giây hiện đang quá tải. Dự án này sẽ chia sẻ lưu lượng xe từ TP.HCM đi về Long Thành, Bà Rịa - Vũng Tàu và ngược lại", ông Chương nóiTheo thiết kế cầu Nhơn Trạch có bề rộng 20,2m gồm 4 làn xe cơ giới và 2 làn xe hỗn hợp, vận tốc thiết kế 80km/giờTheo ông Lê Đình Hoàng Chương, các nhà thầu tiếp tục tăng tốc, tập trung toàn bộ nguồn nhân lực để thi công ngày đêm để sớm đưa công trình về đích. "Để dự án hoàn thành và đi vào khai thác  thì một nhánh cầu vượt nút giao do Ban Giao thông TP.HCM làm chủ đầu tư cũng phải hoàn thành đồng thời sẽ giúp quá trình kết nối vào cao tốc Long Thành - Dầu Giây thuận lợi hơn", ông Chương chia sẻPhần đường dẫn từ đầu cầu Nhơn Trạch phía TP.HCM đang dần hoàn thiện để kết nối cây cầu với cao tốc TP.HCM - Long Thành - Dầu GiâyCác công nhân thi miệt mài thi công trên công trường cầu Nhơn Trạch sáng 17.8Phần đường dẫn cầu Nhơn Trạch hướng về cao tốc TP.HCM - Long Thành - Dầu Giây trên địa phận TP.Thủ ĐứcMột đoạn đường dẫn từ cầu Nhơn Trạch phía TP.HCM hướng vào cao tốc, trong tương lai đây là tuyến đường được kỳ vọng sẽ giảm tải cho cao tốc TP.HCM - Long Thành - Dầu Giây vốn đang bị quá tảiTheo kế hoạch, cây cầu sẽ hoàn thiện vào dịp lễ 30.4 2025, các dự án khác thuộc đường Vành đai 3 TP.HCM cũng gấp rút thi công. Dự kiến cuối tháng giêng năm 2026 tuyến Vành đai 3 TP.HCM sẽ hoàn thành lõi cao tốc, đủ điều kiện thông xe kỹ thuật và đến 30.4.2026 thông xe chính thức, tháng 8.2026 cơ bản hoàn thành Vành đai 3 TP.HCMPhần đường dẫn cầu Nhơn Trạch thuộc dự án Vành đai 3 TP.HCM và tuyến cầu vượt đang được gấp rút thi công để kết nối vào cao tốc TP.HCM - Long Thành-Dầu Giây.
+
+                                    
+    //Chèn ads giữa bài
+    (runinit = window.runinit || []).push(function () {
+        //Nếu k chạy ads thì return
+        if (typeof _chkPrLink != 'undefined' && _chkPrLink)
+            return;
+
+
+        var mutexAds = '<zone id="l2srqb41"></zone>';
+        var content = $('[data-role="content"]');
+        if (content.length > 0) {
+            var childNodes = content[0].childNodes;
+            for (i = 0; i < childNodes.length; i++) {
+                var childNode = childNodes[i];
+
+                var isPhotoOrVideo = false;
+                if (childNode.nodeName.toLowerCase() == 'div') {
+                    // kiem tra xem co la anh khong?
+                    var type = $(childNode).attr('class') + '';
+
+                    if (type.indexOf('VCSortableInPreviewMode') >= 0) {
+                        isPhotoOrVideo = true;
+                    }
+                }
+
+                try {
+                    if ((i >= childNodes.length / 2 - 1) && (i < childNodes.length / 2) && !isPhotoOrVideo) {
+                        if (i <= childNodes.length - 3) {
+                            childNode.after(htmlToElement(mutexAds));
+                            arfAsync.push("l2srqb41");
+                        }
+                        break;
+                    }
+                }
+                catch (e) { }
+            }
+        }
+    });
+    function htmlToElement(html) {
+        var template = document.createElement('template');
+        template.innerHTML = html;
+        return template.content.firstChild;
+    }
+
+
+
+                                    
+                    
+        
+            
+                if (pageSettings.allow3rd) {
+                    (function (d, a, b, l, e, _) {
+                        if (d[b] && d[b].q) return;
+                        d[b] = function () {
+                            (d[b].q = d[b].q || []).push(arguments)
+                        };
+                        e = a.createElement(l);
+                        e.async = 1;
+                        e.charset = 'utf-8';
+                        e.src = '//static.dable.io/dist/plugin.min.js';
+                        _ = a.getElementsByTagName(l)[0];
+                        _.parentNode.insertBefore(e, _);
+                    })(window, document, 'dable', 'script');
+                    dable('sendLogOnce');
+                    dable('renderWidget', 'dablewidget_QXedqQel');
+                }
+            
+        
+        
+                                                
+                                    
+                                    
+                                
+
+                                
+                                
+
+                            
